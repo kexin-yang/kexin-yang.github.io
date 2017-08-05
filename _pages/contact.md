@@ -10,6 +10,6 @@ Computer Science Department, Shanghai Jiao Tong University<br>
 Office: 310 Yifu Building, #800 Dongchuan Rd, Shanghai, China (200240)
 
 **Email:**<br>
-lantaoyu@hotmail.com<br>
-yulantao@apex.sjtu.edu.cn<br>
+xuejian.wang@outlook.com<br>
+xjwang@apex.sjtu.edu.cn<br>
 
