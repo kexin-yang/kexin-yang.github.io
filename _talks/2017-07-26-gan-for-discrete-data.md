@@ -5,7 +5,7 @@ type: "Talk"
 permalink: /talks/2017-06-29-DADM
 venue: "SMP-KDD"
 date: 2017-06-29
-location: "Alibaba Group Corporate Campus，Hangzhou, China"
+location: "Alibaba Group Corporate Campus, Hangzhou, China"
 ---
 
 Online talk on our KDD 2017 work with webcast.<br>
