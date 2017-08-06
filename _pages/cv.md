@@ -35,7 +35,7 @@ Research Experience
 * <i> Dynamic Attention Deep Model for Article Recommendation by Learning Human Editors Demonstration. </i> <br> **Accepted as a full paper at KDD 2017**. Dec. 2016 - Feb. 2017
 * Reviewer of CIKM-2017
 * [Paper collection of attention](https://github.com/LantaoYu/MARL-Papers)
-
+* KDD China Summer School Graduates
   
 Talks
 ======
