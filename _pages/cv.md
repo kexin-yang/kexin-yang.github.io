@@ -33,7 +33,7 @@ Publications
 Research Experience
 ======
 * <i> Dynamic Attention Deep Model for Article Recommendation by Learning Human Editors Demonstration. </i> <br> **Accepted as a full paper at KDD 2017**. Dec. 2016 - Feb. 2017
-* Reviewer of CIKM-2017
+* Reviewer of CIKM-2017, WSDM-2018
 * [Paper collection of attention](https://github.com/LantaoYu/MARL-Papers)
 * KDD China Summer School Graduates
   
@@ -44,7 +44,7 @@ Talks
   {% endfor %}</ul>
 
 ## Honors & Awards
-* **KDD Student Travel Award**, KDD 2017, 1K USD, 2017
+* **KDD Student Travel Award**, KDD 2017, 1.3K USD, 2017
 * **Excellent Student Award (Top 5% )**, Shanghai Jiao Tong University, 2016.
 * **Excellent Scholarship C**, Cyberspace Security Department, Shanghai Jiao Tong University, 2016.
 * **Second Prize,province-level CUMCM2016**, Shanghai Jiao Tong University, 2016.
