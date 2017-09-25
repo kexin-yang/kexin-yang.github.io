@@ -1,0 +1,180 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Medium Length Professional CV
+% LaTeX Template
+% Version 2.0 (8/5/13)
+%
+% This template has been downloaded from:
+% http://www.LaTeXTemplates.com
+%
+% Original author:
+% Trey Hunner (http://www.treyhunner.com/)
+%
+% Important note:
+% This template requires the resume.cls file to be in the same directory as the
+% .tex file. The resume.cls file provides the resume style used for structuring the
+% document.
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%----------------------------------------------------------------------------------------
+%	PACKAGES AND OTHER DOCUMENT CONFIGURATIONS
+%----------------------------------------------------------------------------------------
+
+\documentclass{resume} % Use the custom resume.cls style
+
+\usepackage[left=0.75in,top=0.6in,right=0.75in,bottom=0.6in]{geometry} % Document margins
+\usepackage{hyperref}
+\usepackage{verbatim}
+\hypersetup{%
+unicode=true, CJKbookmarks=true, bookmarksnumbered=true,
+bookmarksopen=true, bookmarksopenlevel=1, breaklinks=true,
+colorlinks=false, plainpages=false, pdfpagelabels, pdfborder=0 0 0 }
+\name{Xuejian Wang} % Your name
+\address{(+86)13262717148 \\ xuejian.wang@outlook.com}
+\begin{document}
+%\begin{CJK*}{GBK}{song}
+\vspace{-1em}
+%----------------------------------------------------------------------------------------
+%	EDUCATION SECTION
+%----------------------------------------------------------------------------------------
+\begin{rSection}{Education}
+%{\bf }%\hfill { } \\
+\textbf{Shanghai Jiao Tong University (SJTU), Shanghai, China} \hfill Sep. 2014 - Aug. 2018(expected)\\ % \smallskip 
+School of Electronic Information and Electric Engineering  \hfill GPA:3.44/4.0 \\
+Bachelor of Cyberspace Security
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+%	PUBLICATION SECTION
+%----------------------------------------------------------------------------------------
+\begin{rSection}{Publications $\&$ Patents}
+%{\bf }%\hfill { } \\
+$[1]$\textbf{Xuejian Wang}, Lantao Yu, Kan Ren, Guanyu Tao, Weinan Zhang, Yong Yu, Jun Wang ``A Dynamic Attention Deep Model for Article Recommendation by Learning Human Editors’ Demonstration'', accepted to  \emph{Proc. ACM KDD}, 2017\\
+$[2]$\textbf{An Anonymous Paper}, submitted to  \emph{Proc. AAAI}, 2018\\
+\end{rSection}
+%----------------------------------------------------------------------------------------
+%	RESEARCH EXPERIENCE SECTION
+%----------------------------------------------------------------------------------------
+%\vspace{0.1em}
+\begin{rSection}{Research Experience}
+\begin{rSubsection}{A Dynamic Attention Deep Model for Article Recommendation
+by Learning Human Editors’ Demonstration}{Oct. 2016 - Feb. 2017}{Advisor: Prof. Yong Yu}{APEX Data $\&$ Knowledge Management Lab, SJTU}
+\item A text mining problem which focused on predicting discrete data with drift.
+\item Introduced attention mechanism to tackle the data drift problem and proposed a Dynamic Attention Deep Model (DADM) which outperformed other baselines in an A/B test.
+\item Automated the quality article selection process to alleviate the editors' working load.
+\end{rSubsection}
+\begin{rSubsection}{An Anonymous Paper Submitted to AAAI 2018}{Aug. 2017 - Sep. 2017}{Advisor: Prof. Yong Yu}{APEX Data $\&$ Knowledge Management Lab, SJTU}
+\item Running experiments $\&$ helping on academic writing.
+\end{rSubsection}
+
+\end{rSection}
+\begin{comment}
+\begin{rSubsection}{DOC-SVM: DMD-based One-class SVM for Texture Clustering}{April. 2016 - Oct. 2016}{Advisor: Prof. William Sethares}{UW-Madison}
+\item Proposed a textures clustering algorithm based on semi-supervised learning and One-class SVM. Solved problem of Inkjet Paper Competition with accuracy of 82.22\%. Achieved over 93\% on several public available datasets.  
+\item Learned representative models from a single texture image, where the distance matrix to the prediction was especially appropriate for high-dimensional feature vectors.
+\item Transformed unsupervised learning on texture images into semi-supervised learning method with higher accuracy.
+\item Modified nearest neighbor chain algorithm for greater compatibility with the one-class SVM and the texture data.
+\end{rSubsection}
+
+\begin{rSubsection}{Alternative Code for Depth Info in Structured Light Camera}{Feb. 2016 - May. 2016}{Advisor: Prof. Mohit Gupta}{Optimization Lab, UW-Madison}
+\item Built a camera-projector system and solved the problems of radiometric calibration and geometric calibration. Tested gray code on checkerboard with image-taken experiments and analyzing changes on mean pixel values.
+\item Wrote programs to test different patterns performance for point cloud and depth image in structured light.
+\end{rSubsection}
+
+\begin{rSubsection}{AceMap: Displaying Relationship among Academic Literatures}{Sep. 2015 - Oct. 2016}{Advisor: Prof. Xinbing Wang}{Research Center of Intelligent Internet of Things, SJTU}
+\item Leader of Web Crawler Group: Led a ten-person team to investigate web crawlers' efficiency and seize information of over 30 million paper on both static and dynamic webpages. Utilized IP pools, random latency setting, browser automation and random user agents with tools including Selenium, PhantomJS and Beautifulsoup.
+\item Member of Academic Recommender System Group: Proposed and developed an algorithm to obtain the boundary of clustered hierarchical point clouds based on Voronoi diagram. Designed the framework for alignment and color selection of point cloud.
+\end{rSubsection}
+|
+
+
+%----------------------------------------------------------------------------------------
+%	SELECTED PROJECTS SECTION
+%----------------------------------------------------------------------------------------
+\vspace{0.5em}
+\begin{rSection}{Selected Projects}
+
+\begin{rSubsection}{\href{www.deeplearningonline.com}{www.DeepLearningOnline.com}}{Jun. 2016 - present}{Founder}{}
+\item Built a website to help people learn deep learning online: \href{www.deeplearningonline.com}{\textit{www.DeepLearningOnline.com}}.
+\item Classified datasets details in categories for convenient use.
+\item Wrote tutorials about methodology and tools.
+\end{rSubsection}
+
+\begin{rSubsection}{Facial Key Points Detection based on Deep Learning}{Mar. 2016 - May. 2016}{}{}
+\item Built and trained CNN models for predicting the 16 facial key points by Torch.
+\item Compared performance of different convolutional neural networks (LeNet, AlexNet, InceptionNet).
+\item Designed a short Inception-ResNet combined model and achieved 3\% error rate.
+\end{rSubsection}
+
+%\begin{rSubsection}{True Random Number Generator Based on Ring Oscillator}{Feb. 2016 - May. 2016}{}{}
+%\item Re-designed a 3-edge Ring Oscillator from a novel academic paper to improve its stability by adjusting the structure and %adding more latency. Implemented the structure by Cadence with Schematic and Layout. 
+%\item Simulated the oscillator by Cadence Spectre Transient Simulation tools. Investigated noise variables and selected parameters. Passed randomness tests on Matlab.
+%\end{rSubsection}
+
+\begin{rSubsection}{Santander Customer Satisfaction Prediction by Supervised Learning}{Mar. 2015 - Apr. 2015}{}{}
+\item Utilized supervised learning for identifying dissatisfied customers with data from Santander bank.
+\item Cleaned all-zero features of 253 features from over 130, 000 samples and normalized the data.
+\item Trained a tree-based classification model in R with XGBoost and a gradient boosting regression model in Python.
+\end{rSubsection}
+
+\begin{rSubsection}{Large-Scale WEB Vulnerability Detection by Supervised Learning}{Oct. 2014 - June. 2015}{}{}
+\item Developed an algorithm to detect malicious URLs from Shanghai Telecomm 120 gigabytes web log.
+\item Extracted information including Whois, IP connection and URLs to form feature vectors.
+\item Trained multiclass-SVM to classify benign or malicious URLs based on labels obtained from Google Safe Browsing API and achieved 86\% accuracy.
+\end{rSubsection}
+
+\begin{rSubsection}{Vehicle WLAN Based Car Sharing Platform}{Mar. 2014 - Dec. 2014}{}{}
+\item Designed a car sharing system in 3-person team with vehicle based hardware, Android APP and web platform to improve efficiency of car rental service. 
+\item Enrolled in Fourth Shanghai College Innovation \& Entrepreneurship Forum (3/300 selected from SJTU).
+\item Patented in China : CN104836860 A
+\end{rSubsection}
+
+\end{rSection}
+\vspace{0.5em}
+\end{comment}
+%----------------------------------------------------------------------------------------
+%	INTERNSHIP
+%----------------------------------------------------------------------------------------
+\begin{rSection}{Internship Experience}
+\begin{rSubsection}{ULU Technologies Inc.}{Nov. 2016 - May. 2017}{R$\&$D  Engineer Intern}{}
+\item Developed a practical algorithm for article recommendation which is on trial.
+\item Improved coding ability and learned how to independently conduct experiments.
+\item Got a main understanding of how AI start-up works.
+%\item Developed test cases and wrote general design documents for an industrial reliability testing platform.
+%\item Programmed Oracle database in Java for a new testing module to update data and improve efficiency.
+\end{rSubsection}
+\end{rSection}
+
+
+%----------------------------------------------------------------------------------------
+%	TECHNICAL STRENGTHS SECTION
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{Awards}
+\begin{rSubsection}{}{}{}{}
+\item KDD Student Travel Award \hfill{1.3K USD 2017}
+\item Excellent Student Award (Top 5\% )  \hfill{2016}
+\item Excellent Scholarship C \hfill{2016}
+\item Second Prize,province-level CUMCM2016 \hfill{2016}
+\item Second Prize,``Data Bang''Data Innovation Contest \hfill{2015} 
+\item Outstanding Undergraduate Research Program (Top 5\%) \hfill{2015}
+\end{rSubsection}
+\end{rSection}
+
+\begin{rSection}{Skills}
+{\bf Machine Learning: }
+\hspace*{3.0 cm} Tensorflow, Scikit-Learn, SciPy, NumPy, xGBoost\\
+{\bf Programming Languages: }
+\hspace*{1.8 cm} MATLAB, Python, C++, Verilog and \LaTeX  \\
+{\bf Standard Tests : }
+\hspace*{3.4 cm} TOEFL: 93 (R 29, L 26, S 20, W 21)  (To be updated)
+\end{rSection}
+\begin{rSection}{Extracurricular Activities}
+\textbf{SEIEE Student Union} \hfill{May. 2015 - May. 2016}\\
+Minister of Publicity Department  \\
+\textbf{SJTU Student Union} \hfill{Nov. 2015 - Feb. 2016}\\
+Minister of Communication Department of the Committee 
+\end{rSection}
+\clearpage
+%\end{CJK*}
+\end{document}
