@@ -13,7 +13,7 @@ Undergraduate Student (3rd year)<br>
 Computer Science Department<br>
 Shanghai Jiao Tong University<br>
 
-[[Curriculum Vitae]](http://xjwangsjtu.github.io/files/Wang.pdf)
+[[Here is My Latest Curriculum Vitae]](http://xjwangsjtu.github.io/files/Wang.pdf)
 
 
 Education
