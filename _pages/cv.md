@@ -9,10 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Undergraduate Student (3rd year)<br>
-Computer Science Department<br>
-Shanghai Jiao Tong University<br>
-
 [[Here is My Latest Curriculum Vitae]](http://xjwangsjtu.github.io/files/Wang.pdf)
 
 
@@ -33,6 +29,7 @@ Publications
 Research Experience
 ======
 * <i> Dynamic Attention Deep Model for Article Recommendation by Learning Human Editors Demonstration. </i> <br> **Accepted as a full paper at KDD 2017**. Dec. 2016 - Feb. 2017
+* <i> Neural Link Prediction over Aligned Networks <\i> <br> **Submitted to AAAI 2018**. Aug.2017 - Sep.2017
 * Reviewer of CIKM-2017, WSDM-2018, AAAI-2018
 * [Paper collection of attention](https://github.com/LantaoYu/MARL-Papers)
 * KDD China Summer School Graduates
