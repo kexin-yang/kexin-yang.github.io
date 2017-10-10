@@ -30,7 +30,8 @@ unicode=true, CJKbookmarks=true, bookmarksnumbered=true,
 bookmarksopen=true, bookmarksopenlevel=1, breaklinks=true,
 colorlinks=false, plainpages=false, pdfpagelabels, pdfborder=0 0 0 }
 \name{Xuejian Wang} % Your name
-\address{(+86)13262717148 \\ xuejianwang.com \\ xjwang@apex.sjtu.edu.cn}
+\address{(+86)13262717148 \\ \href{http://xuejianwang.com}{xuejianwang.com} \\ \href{mailto:xjwang@apex.sjtu.edu.cn}{xjwang@apex.sjtu.edu.cn}}
+
 \begin{document}
 %\begin{CJK*}{GBK}{song}
 \vspace{-1em}
@@ -41,7 +42,7 @@ colorlinks=false, plainpages=false, pdfpagelabels, pdfborder=0 0 0 }
 %{\bf }%\hfill { } \\
 \textbf{Shanghai Jiao Tong University (SJTU), Shanghai, China} \hfill Sep. 2014 - Aug. 2018(expected)\\ % \smallskip 
 School of Electronic Information and Electric Engineering  \hfill GPA:3.45/4.0 \\
-Bachelor of Cyberspace Security \hfill (Junior GPA 3.56/4.0, ranked 18/101)
+Bachelor of Cyberspace Security \hfill (Junior GPA 3.56/4.0, Ranked 18/101)
 \end{rSection}
 
 %----------------------------------------------------------------------------------------
@@ -57,16 +58,26 @@ $[2]$Xuezhi Cao, Haokun Chen, \textbf{Xuejian Wang}, Weinan Zhang, Yong Yu, ``Ne
 %----------------------------------------------------------------------------------------
 %\vspace{0.1em}
 \begin{rSection}{Research Experience}
+
 \begin{rSubsection}{Dynamic Attention Deep Model for Article Recommendation
-by Learning Human Editors’ Demonstration}{Oct. 2016 - Feb. 2017}{Advisor: Prof. Yong Yu}{APEX Data $\&$ Knowledge Management Lab, SJTU}
-\item Employed attention mechanism to addressing data drift problem, resulting in robust predictions
+by Learning Human Editors’ Demonstration}{Oct. 2016 - Feb. 2017}{Advisor: Prof. Weinan Zhang}{APEX Data $\&$ Knowledge Management Lab, SJTU}  
+\vspace{-3pt}
+\item Essentially, the task is a binary classification problem for articles, in which the major challenge is modeling the editors' underlying criterion varied with many factors such as time, current affairs, etc.
+\item Employed attention mechanism to addressing data drift problem, resulting in more robust and stable predictions
 \item Proposed a Dynamic Attention Deep Model (DADM) which outperformed other baselines in an A/B test
-\item Our paper was accepted to KDD 2017. The proposed DADM model was on trial and automated the quality article selection process to alleviate the editors' working load
+\item Our paper was accepted to KDD 2017 and the proposed DADM model was on trial and automated the quality article selection process to alleviate the editors' working load
 \end{rSubsection}
+
 \begin{rSubsection}{Neural Link Prediction over Aligned Networks}{Aug. 2017 - Sep. 2017}{Advisor: Prof. Yong Yu}{APEX Data $\&$ Knowledge Management Lab, SJTU}
-\item Implemented baseline ``LINE: Large-scale Information Network Embedding'' in Tensorflow
-\item Surveyed papers about social networks and helped on academic writing
+\item Most link prediction methods are based on single network, while real-world networks are actually aligned with each other. The major challenge is the heterogeneousness of the considered networks, which could be addressed well by our proposed model
+\item Implemented baseline ``LINE: Large-scale Information Network Embedding'' in Tensorflow and tuned parameters
+\item Surveyed papers about social networks and contributed lots of submits to our final paper
 \item Extended the idea of 2 aligned networks to multi-aligned networks which we left as future work
+\end{rSubsection}
+
+\begin{rSubsection}{Personalized Article Recommendation}{Sep. 2017 - Oct. 2017}{Advisor: Prof. Yong Yu}{APEX Data $\&$ Knowledge Management Lab, SJTU}
+\item This study focuses on recommending most relevant textual advertisements to users to maximize the Click-Through-Rate, in which the major challenge is how to match user interests with articles
+\item Employing attention mechanism to obtain proper article embeddings and construct user previous interests
 \end{rSubsection}
 
 \end{rSection}
@@ -140,7 +151,7 @@ by Learning Human Editors’ Demonstration}{Oct. 2016 - Feb. 2017}{Advisor: Prof
 \begin{rSection}{Internship Experience}
 \begin{rSubsection}{ULU Technologies Inc.}{Nov. 2016 - May. 2017}{R$\&$D  Engineer Intern}{}
 \item Developed a practical algorithm for article recommendation which is on trial
-\item Improved coding ability, learned how to independently conduct experiments, developed communication skills
+\item Improved coding ability, learned how to independently conduct experiments and developed communication skills
 \item Got a main understanding of how AI start-up works
 %\item Developed test cases and wrote general design documents for an industrial reliability testing platform.
 %\item Programmed Oracle database in Java for a new testing module to update data and improve efficiency.
@@ -171,13 +182,19 @@ by Learning Human Editors’ Demonstration}{Oct. 2016 - Feb. 2017}{Advisor: Prof
 %{\bf Standard Tests : }
 %\hspace*{3.4 cm} TOEFL: 93 (R 29, L 26, S 20, W 21)  (To be updated)
 \end{rSection}
-\begin{rSection}{Extracurricular Activities}
+\begin{rSection}{Leadership $\&$ Extracurricular Activities}
 \textbf{SEIEE Student Union} \hfill{May. 2015 - May. 2016}\\
 Minister of Publicity Department  \\
 \textbf{SJTU Student Union} \hfill{Nov. 2015 - Feb. 2016}\\
 Minister of Communication Department of the Committee \\
-\textbf{Review activities} \\
-CIKM 2017, WSDM 2018, AAAI 2018 (2)
+\textbf{Review activities}
+\begin{itemize}
+	\setlength\itemsep{-4.5 pt}
+	\vspace{-4.5pt}
+	\item [$\cdot$] CIKM 2017
+	\item [$\cdot$] WSDM 2018	
+	\item [$\cdot$] AAAI 2018 (2)
+\end{itemize}
 \end{rSection}
 \clearpage
 %\end{CJK*}
