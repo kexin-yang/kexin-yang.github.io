@@ -16,7 +16,7 @@ Education
 ======
 * I am now pursuing **Bachelor’s Degree** in Shanghai Jiao Tong University, advised by Prof. [Yong Yu](http://apex.sjtu.edu.cn/members/yyu) and Prof. [Weinan Zhang](http://wnzhang.net/).
 * I am a  **Student Researcher** at Machine Learning group in **Apex Data and Knowledge Mangement Lab**, Shanghai Jiao Tong University.
-* My research interests are the general areas of machine learning, including deep learning, reinforcement learning and their applications in recommender system, natural language processing and information retrieval.
+* My research interests are the broad areas of machine learning including deep learning, reinforcement learning and their applications in various domains such as recommender system and social networks. In general, my research aims to:(a)mining underlying patterns of human interaction and behaviors; (b)developing practical algorithms and scalable tools to solve problems.
 
 
 Publications
