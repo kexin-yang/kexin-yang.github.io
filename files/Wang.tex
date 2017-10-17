@@ -25,6 +25,7 @@
 \usepackage[left=0.75in,top=0.6in,right=0.75in,bottom=0.6in]{geometry} % Document margins
 \usepackage{hyperref}
 \usepackage{verbatim}
+\usepackage{enumitem} 
 \hypersetup{%
 unicode=true, CJKbookmarks=true, bookmarksnumbered=true,
 bookmarksopen=true, bookmarksopenlevel=1, breaklinks=true,
@@ -39,13 +40,19 @@ colorlinks=false, plainpages=false, pdfpagelabels, pdfborder=0 0 0 }
 %	EDUCATION SECTION
 %----------------------------------------------------------------------------------------
 \begin{rSection}{RESEARCH INTERESTS}
-The broad areas of machine learning and applications in various domains such as recommender system and social networks. In general, my research aims to:(a)mining underlying patterns of human interaction and behaviors; (b)developing practical algorithms and scalable tools to solve problems.
+The broad areas of machine learning and applications in various domains such as recommender system and network embedding. In general:
+\begin{itemize}[itemindent=-5mm] 
+	\itemsep=-5pt
+	\vspace*{-5pt}
+	\item[・] Mining underlying patterns of human interaction and behaviors
+	\item[・] Developing practical machine learning algorithms and scalable tools to solve real-world problems.
+\end{itemize}
 \end{rSection}
 
 
 \begin{rSection}{Education}
 %{\bf }%\hfill { } \\
-\textbf{Shanghai Jiao Tong University (SJTU), Shanghai, China} \hfill Sep. 2014 - Aug. 2018 (expected)\\ % \smallskip 
+\textbf{Shanghai Jiao Tong University (SJTU), Shanghai, China} \hfill Sep. 2014 - Jun. 2018 (expected)\\ % \smallskip 
 School of Electronic Information and Electric Engineering  \hfill GPA:3.45/4.0 \\
 Bachelor of Science in Cyberspace Security \hfill (Junior GPA 3.56/4.0, Ranked 18/101)
 \end{rSection}
@@ -56,7 +63,7 @@ Bachelor of Science in Cyberspace Security \hfill (Junior GPA 3.56/4.0, Ranked 1
 \begin{rSection}{Publications}
 %{\bf }%\hfill { } \\
 $[1]$\textbf{Xuejian Wang}, Lantao Yu, K an R en, Guanyu Tao, Weinan Zhang, Yong Yu, and Jun Wang. Dynamic attention deep model for article recommendation by learning human editors' demonstration. In \emph{Proceedings of the 23rd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining}, pages 2051-2059. \textbf{KDD 2017} \\
-$[2]$Xuezhi Cao, Haokun Chen, \textbf{Xuejian Wang}, Weinan Zhang, Yong Yu, ``Neural Link Prediction over Aligned Networks'', submitted to  \emph{Proc. AAAI}, 2018
+$[2]$Xuezhi Cao, Haokun Chen, \textbf{Xuejian Wang}, Weinan Zhang, Yong Yu. Neural Link Prediction over Aligned Networks, submitted to  \emph{Proc. AAAI}, 2018
 \end{rSection}
 %----------------------------------------------------------------------------------------
 %	RESEARCH EXPERIENCE SECTION
@@ -65,7 +72,7 @@ $[2]$Xuezhi Cao, Haokun Chen, \textbf{Xuejian Wang}, Weinan Zhang, Yong Yu, ``Ne
 \begin{rSection}{Research Experience}
 \begin{rSubsection}{Personalized Article Recommendation}{Sep. 2017 - Present}{Advisor: Prof. Yong Yu}{APEX Data $\&$ Knowledge Management Lab, SJTU}
 \item This study focuses on recommending most relevant textual advertisements to users to maximize the Click-Through-Rate, in which the major challenge is how to match user interests with proper articles
-\item Employing hierarchical attention mechanism to obtain article embeddings and construct user previous interests
+\item Employing hierarchical attention mechanism to obtain article embeddings and construct user interests
 \end{rSubsection}
 \begin{rSubsection}{Neural Link Prediction over Aligned Networks}{Aug. 2017 - Sep. 2017}{Advisor: Prof. Yong Yu}{APEX Data $\&$ Knowledge Management Lab, SJTU}
 \item This study explored link prediction over aligned networks, which are common in real world, yet little studied. The major challenge is the heterogeneousness of the considered networks, which could be addressed well by our proposed model.
@@ -78,76 +85,9 @@ by Learning Human Editors’ Demonstration}{Oct. 2016 - Feb. 2017}{Advisor: Prof
 \item This task is, essentially, a binary classification problem for articles, in which the major challenge is modeling the editors' underlying criterion varied with many factors such as time, current affairs, etc.
 \item Employed attention mechanism to address data drift problem, resulting in more robust and stable predictions
 \item Proposed a Dynamic Attention Deep Model (DADM) which outperformed other baselines in an A/B test
-\item Our paper was accepted to KDD 2017 and the proposed DADM model was on trial, automating the quality article selection process to alleviate the editors' working load
+\item Our paper was accepted to KDD 2017 and the proposed DADM model was utilized in practical cases, automating the quality article selection process to alleviate the editors' working load
 \end{rSubsection}
-
-
-
 \end{rSection}
-\begin{comment}
-\begin{rSubsection}{DOC-SVM: DMD-based One-class SVM for Texture Clustering}{April. 2016 - Oct. 2016}{Advisor: Prof. William Sethares}{UW-Madison}
-\item Proposed a textures clustering algorithm based on semi-supervised learning and One-class SVM. Solved problem of Inkjet Paper Competition with accuracy of 82.22\%. Achieved over 93\% on several public available datasets.  
-\item Learned representative models from a single texture image, where the distance matrix to the prediction was especially appropriate for high-dimensional feature vectors.
-\item Transformed unsupervised learning on texture images into semi-supervised learning method with higher accuracy.
-\item Modified nearest neighbor chain algorithm for greater compatibility with the one-class SVM and the texture data.
-\end{rSubsection}
-
-\begin{rSubsection}{Alternative Code for Depth Info in Structured Light Camera}{Feb. 2016 - May. 2016}{Advisor: Prof. Mohit Gupta}{Optimization Lab, UW-Madison}
-\item Built a camera-projector system and solved the problems of radiometric calibration and geometric calibration. Tested gray code on checkerboard with image-taken experiments and analyzing changes on mean pixel values.
-\item Wrote programs to test different patterns performance for point cloud and depth image in structured light.
-\end{rSubsection}
-
-\begin{rSubsection}{AceMap: Displaying Relationship among Academic Literatures}{Sep. 2015 - Oct. 2016}{Advisor: Prof. Xinbing Wang}{Research Center of Intelligent Internet of Things, SJTU}
-\item Leader of Web Crawler Group: Led a ten-person team to investigate web crawlers' efficiency and seize information of over 30 million paper on both static and dynamic webpages. Utilized IP pools, random latency setting, browser automation and random user agents with tools including Selenium, PhantomJS and Beautifulsoup.
-\item Member of Academic Recommender System Group: Proposed and developed an algorithm to obtain the boundary of clustered hierarchical point clouds based on Voronoi diagram. Designed the framework for alignment and color selection of point cloud.
-\end{rSubsection}
-|
-
-
-%----------------------------------------------------------------------------------------
-%	SELECTED PROJECTS SECTION
-%----------------------------------------------------------------------------------------
-\vspace{0.5em}
-\begin{rSection}{Selected Projects}
-
-\begin{rSubsection}{\href{www.deeplearningonline.com}{www.DeepLearningOnline.com}}{Jun. 2016 - present}{Founder}{}
-\item Built a website to help people learn deep learning online: \href{www.deeplearningonline.com}{\textit{www.DeepLearningOnline.com}}.
-\item Classified datasets details in categories for convenient use.
-\item Wrote tutorials about methodology and tools.
-\end{rSubsection}
-
-\begin{rSubsection}{Facial Key Points Detection based on Deep Learning}{Mar. 2016 - May. 2016}{}{}
-\item Built and trained CNN models for predicting the 16 facial key points by Torch.
-\item Compared performance of different convolutional neural networks (LeNet, AlexNet, InceptionNet).
-\item Designed a short Inception-ResNet combined model and achieved 3\% error rate.
-\end{rSubsection}
-
-%\begin{rSubsection}{True Random Number Generator Based on Ring Oscillator}{Feb. 2016 - May. 2016}{}{}
-%\item Re-designed a 3-edge Ring Oscillator from a novel academic paper to improve its stability by adjusting the structure and %adding more latency. Implemented the structure by Cadence with Schematic and Layout. 
-%\item Simulated the oscillator by Cadence Spectre Transient Simulation tools. Investigated noise variables and selected parameters. Passed randomness tests on Matlab.
-%\end{rSubsection}
-
-\begin{rSubsection}{Santander Customer Satisfaction Prediction by Supervised Learning}{Mar. 2015 - Apr. 2015}{}{}
-\item Utilized supervised learning for identifying dissatisfied customers with data from Santander bank.
-\item Cleaned all-zero features of 253 features from over 130, 000 samples and normalized the data.
-\item Trained a tree-based classification model in R with XGBoost and a gradient boosting regression model in Python.
-\end{rSubsection}
-
-\begin{rSubsection}{Large-Scale WEB Vulnerability Detection by Supervised Learning}{Oct. 2014 - June. 2015}{}{}
-\item Developed an algorithm to detect malicious URLs from Shanghai Telecomm 120 gigabytes web log.
-\item Extracted information including Whois, IP connection and URLs to form feature vectors.
-\item Trained multiclass-SVM to classify benign or malicious URLs based on labels obtained from Google Safe Browsing API and achieved 86\% accuracy.
-\end{rSubsection}
-
-\begin{rSubsection}{Vehicle WLAN Based Car Sharing Platform}{Mar. 2014 - Dec. 2014}{}{}
-\item Designed a car sharing system in 3-person team with vehicle based hardware, Android APP and web platform to improve efficiency of car rental service. 
-\item Enrolled in Fourth Shanghai College Innovation \& Entrepreneurship Forum (3/300 selected from SJTU).
-\item Patented in China : CN104836860 A
-\end{rSubsection}
-
-\end{rSection}
-\vspace{0.5em}
-\end{comment}
 %----------------------------------------------------------------------------------------
 %	INTERNSHIP
 %----------------------------------------------------------------------------------------
@@ -161,7 +101,7 @@ by Learning Human Editors’ Demonstration}{Oct. 2016 - Feb. 2017}{Advisor: Prof
 
 \begin{rSection}{Internship Experience}
 \begin{rSubsection}{ULU Technologies Inc.}{Nov. 2016 - May 2017}{R$\&$D  Engineer Intern}{}
-\item Developed a practical algorithm for article recommendation which is on trial
+\item Developed a practical algorithm for article recommendation which is used in production
 \item Improved coding ability, learned how to independently conduct experiments and developed communication skills
 \item Got a main understanding of how AI start-up works
 %\item Developed test cases and wrote general design documents for an industrial reliability testing platform.
