@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.14159265-p3.7.1-161114-2.6 (utf8.euc) (TeX Live 2017) (preloaded format=platex 2017.6.7)  17 OCT 2017 15:09
+This is e-pTeX, Version 3.14159265-p3.7.1-161114-2.6 (utf8.euc) (TeX Live 2017) (preloaded format=platex 2017.6.7)  24 OCT 2017 15:51
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -321,6 +321,6 @@ Here is how much of TeX's memory you used:
  12065 multiletter control sequences out of 15000+600000
  9697 words of font info for 39 fonts, out of 8000000 for 9000
  929 hyphenation exceptions out of 8191
- 29i,4n,26p,371b,437s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 29i,4n,26p,369b,437s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on /Users/xuejian.wang/Pycharmprojects/xjwangsjtu.github.io/files/.texpadtmp/Wang.dvi (2 pages, 9812 bytes).
+Output written on /Users/xuejian.wang/Pycharmprojects/xjwangsjtu.github.io/files/.texpadtmp/Wang.dvi (2 pages, 9804 bytes).
