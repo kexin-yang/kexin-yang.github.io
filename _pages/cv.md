@@ -29,9 +29,8 @@ Publications
 Research Experience
 ======
 * <i> Dynamic Attention Deep Model for Article Recommendation by Learning Human Editors Demonstration. </i> <br> **Accepted as a full paper at KDD 2017**. Dec. 2016 - Feb. 2017
-* <i> Neural Link Prediction over Aligned Networks <\i> <br> **Submitted to AAAI 2018**. Aug.2017 - Sep.2017
+* <i> Neural Link Prediction over Aligned Networks <\i> <br> **Accepted as a full paper at AAAI 2018**. Aug.2017 - Sep.2017
 * Reviewer of CIKM-2017, WSDM-2018, AAAI-2018
-* [Paper collection of attention](https://github.com/LantaoYu/MARL-Papers)
 * KDD China Summer School Graduates
   
 Talks
@@ -41,9 +40,10 @@ Talks
   {% endfor %}</ul>
 
 ## Honors & Awards
+* **Rongchang Science and Innovation Scholarship (Nomination) (Top 30 in SJTU), 2017
 * **KDD Student Travel Award**, KDD 2017, 1.3K USD, 2017
-* **Excellent Student Award (Top 5% )**, Shanghai Jiao Tong University, 2016.
-* **Excellent Scholarship C**, Cyberspace Security Department, Shanghai Jiao Tong University, 2016.
-* **Second Prize,province-level CUMCM2016**, Shanghai Jiao Tong University, 2016.
-* **Second Prize,“Data Bang”Data Innovation Contest**, Shanghai Jiao Tong University, 2015.
-* **Outstanding Undergraduate Research Program (Top 5%)**, Shanghai Jiao Tong University, 2015.
+* **Excellent Student Award (Top 5% )**, Shanghai Jiao Tong University, 2017&2016
+* **Excellent Scholarship**, Cyberspace Security Department, Shanghai Jiao Tong University, 2017&2016
+* **Second Prize,province-level CUMCM2016**, Shanghai Jiao Tong University, 2016
+* **Second Prize,“Data Bang”Data Innovation Contest**, Shanghai Jiao Tong University, 2015
+* **Outstanding Undergraduate Research Program (Top 5%)**, Shanghai Jiao Tong University, 2015
