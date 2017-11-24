@@ -40,7 +40,7 @@ Talks
   {% endfor %}</ul>
 
 ## Honors & Awards
-* **Rongchang Science and Innovation Scholarship (Nomination) (Top 30 in SJTU), 2017
+* **Rongchang Science and Innovation Scholarship (Nomination) (Top 30 in SJTU)**, 2017
 * **KDD Student Travel Award**, KDD 2017, 1.3K USD, 2017
 * **Excellent Student Award (Top 5% )**, Shanghai Jiao Tong University, 2017&2016
 * **Excellent Scholarship**, Cyberspace Security Department, Shanghai Jiao Tong University, 2017&2016
