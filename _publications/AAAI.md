@@ -3,9 +3,19 @@ title: "Neural Link Prediction over Aligned Networks"
 collection: publications
 permalink: /publications/AAAI
 venue: "AAAI 2018"
-date: 2017-09-11
+date: 2018-09-11
 citation: 'Xuezhi Cao, Haokun Chen, <b>Xuejian Wang</b>, Weinan Zhang, Yong Yu. <i> The Thirty-Second AAAI Conference on Artificial Intelligence </i> <b>AAAI 2018</b>.'
 ---  
+[[PDF]](https://xjwangsjtu.github.io/files/mlp.pdf)
 
 ## Abstract
-To be updated...
+Link prediction is a fundamental problem with a wide range of applications in various domains, which predicts the links that are not yet observed or the links that may appear in the future.
+Most existing works in this field only focus on modeling a single network, while real-world networks are actually aligned with each other.
+Network alignments contain valuable additional information for understanding the networks, and provide a new direction for addressing data insufficiency and alleviating cold start problem. 
+However, there are rare works leveraging network alignments for better link prediction.
+Besides, neural network is widely employed in various domains while its capability of capturing high-level patterns and correlations for link prediction problem has not been adequately researched yet.
+Hence, in this paper we target at link prediction over aligned networks using neural networks.
+The major challenge is the heterogeneousness of the considered networks, as the networks may have different characteristics, link purposes, etc. 
+To overcome this, we propose a novel multi-neural-network framework MNN, where we have one individual neural network for each heterogeneous target or feature while the vertex representations are shared.
+We further discuss training methods for the multi-neural-network framework. 
+Extensive experiments demonstrate that MNN outperforms the state-of-the-art methods and achieves 3\% to 5\% relative improvement of AUC score across different settings, particularly over 8\% for cold start scenarios.
