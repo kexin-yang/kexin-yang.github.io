@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.14159265-p3.7.1-161114-2.6 (utf8.euc) (TeX Live 2017) (preloaded format=platex 2017.6.7)  23 NOV 2017 16:16
+This is e-pTeX, Version 3.14159265-p3.7.1-161114-2.6 (utf8.euc) (TeX Live 2017) (preloaded format=platex 2017.6.7)  30 NOV 2017 15:28
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -122,6 +122,7 @@ File: pd1enc.def 2017/03/14 v6.85a Hyperref: PDFDocEncoding definition (HO)
  (/usr/local/texlive/2017/texmf-dist/tex/latex/latexconfig/hyperref.cfg
 File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
 )
+Package hyperref Info: Option `colorlinks' set `true' on input line 4374.
 Package hyperref Info: Hyper figures OFF on input line 4498.
 Package hyperref Info: Link nesting OFF on input line 4503.
 Package hyperref Info: Hyper index ON on input line 4506.
@@ -143,7 +144,7 @@ Package hyperref Info: Hyper figures OFF on input line 6358.
 Package hyperref Info: Link nesting OFF on input line 6363.
 Package hyperref Info: Hyper index ON on input line 6366.
 Package hyperref Info: backreferencing OFF on input line 6373.
-Package hyperref Info: Link coloring OFF on input line 6378.
+Package hyperref Info: Link coloring ON on input line 6376.
 Package hyperref Info: Link coloring with OCG OFF on input line 6383.
 Package hyperref Info: PDF/A mode OFF on input line 6388.
 LaTeX Info: Redefining \ref on input line 6428.
@@ -183,45 +184,62 @@ Package: enumitem 2011/09/28 v3.5.2 Customized lists
 \enit@toks=\toks23
 \enit@inbox=\box43
 \enitdp@description=\count104
+) (/usr/local/texlive/2017/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+ (/usr/local/texlive/2017/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
-Package hyperref Info: Option `unicode' set `true' on input line 32.
+Package xcolor Info: Driver file: dvips.def on input line 225.
+ (/usr/local/texlive/2017/texmf-dist/tex/latex/graphics-def/dvips.def
+File: dvips.def 2016/07/10 v3.1a Driver-dependent file (DPC,SPQR)
+)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+Package hyperref Info: Option `unicode' set `true' on input line 37.
  (/usr/local/texlive/2017/texmf-dist/tex/latex/hyperref/puenc.def
 File: puenc.def 2017/03/14 v6.85a Hyperref: PDF Unicode definition (HO)
 )
-Package hyperref Info: Option `CJKbookmarks' set `true' on input line 32.
-Package hyperref Info: Option `bookmarksnumbered' set `true' on input line 32.
-Package hyperref Info: Option `bookmarksopen' set `true' on input line 32.
-Package hyperref Info: Option `breaklinks' set `true' on input line 32.
-Package hyperref Info: Option `colorlinks' set `false' on input line 32.
-Package hyperref Info: Option `plainpages' set `false' on input line 32.
+Package hyperref Info: Option `CJKbookmarks' set `true' on input line 37.
+Package hyperref Info: Option `bookmarksnumbered' set `true' on input line 37.
+Package hyperref Info: Option `bookmarksopen' set `true' on input line 37.
+Package hyperref Info: Option `breaklinks' set `true' on input line 37.
+Package hyperref Info: Option `colorlinks' set `false' on input line 37.
+Package hyperref Info: Option `plainpages' set `false' on input line 37.
 
 
 Package hyperref Warning: Option `pdfpagelabels' has already been used,
-(hyperref)                setting the option has no effect on input line 32.
+(hyperref)                setting the option has no effect on input line 37.
 
 (/Users/xuejian.wang/Pycharmprojects/xjwangsjtu.github.io/files/.texpadtmp/Wang.aux)
 \openout1 = `Wang.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for JY1/mc/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for JT1/mc/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for JY1/mc/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for JT1/mc/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: dvips
@@ -258,7 +276,7 @@ LaTeX Font Info:    ... okay on input line 36.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 \AtBeginShipoutBox=\box44
-Package hyperref Info: Link coloring OFF on input line 36.
+Package hyperref Info: Link coloring OFF on input line 41.
 (/usr/local/texlive/2017/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
  (/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
@@ -266,61 +284,61 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count105
 )
-LaTeX Info: Redefining \ref on input line 36.
-LaTeX Info: Redefining \pageref on input line 36.
-LaTeX Info: Redefining \nameref on input line 36.
+LaTeX Info: Redefining \ref on input line 41.
+LaTeX Info: Redefining \pageref on input line 41.
+LaTeX Info: Redefining \nameref on input line 41.
  (/Users/xuejian.wang/Pycharmprojects/xjwangsjtu.github.io/files/.texpadtmp/Wang.out) (/Users/xuejian.wang/Pycharmprojects/xjwangsjtu.github.io/files/.texpadtmp/Wang.out)
 \@outlinefile=\write3
 \openout3 = `Wang.out'.
 
 LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <20.74> not available
-(Font)              Font shape `JT1/gt/m/n' tried instead on input line 36.
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 41.
 LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <20.74> not available
-(Font)              Font shape `JY1/gt/m/n' tried instead on input line 36.
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 41.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 36.
+(Font)              <7> on input line 41.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 36.
+(Font)              <5> on input line 41.
 
-Overfull \hbox (30.0pt too wide) in paragraph at lines 36--36
+Overfull \hbox (30.0pt too wide) in paragraph at lines 41--41
 [] 
  []
 
 LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <10> not available
-(Font)              Font shape `JT1/gt/m/n' tried instead on input line 42.
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 47.
 LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <10> not available
-(Font)              Font shape `JY1/gt/m/n' tried instead on input line 42.
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 47.
 
 LaTeX Font Warning: Font shape `JT1/gt/m/it' undefined
-(Font)              using `JT1/gt/m/n' instead on input line 64.
+(Font)              using `JT1/gt/m/n' instead on input line 77.
 
 
 LaTeX Font Warning: Font shape `JY1/gt/m/it' undefined
-(Font)              using `JY1/gt/m/n' instead on input line 64.
+(Font)              using `JY1/gt/m/n' instead on input line 77.
 
 [1
 
 ] [2]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 143.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 143.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 168.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 168.
  (/Users/xuejian.wang/Pycharmprojects/xjwangsjtu.github.io/files/.texpadtmp/Wang.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 143.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 143.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 168.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 168.
 Package rerunfilecheck Info: File `Wang.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 143.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 168.
  ) 
 Here is how much of TeX's memory you used:
- 8484 strings out of 493653
- 120756 string characters out of 6148875
- 204706 words of memory out of 5000000
- 12065 multiletter control sequences out of 15000+600000
+ 9015 strings out of 493653
+ 127029 string characters out of 6148875
+ 217181 words of memory out of 5000000
+ 12585 multiletter control sequences out of 15000+600000
  9697 words of font info for 39 fonts, out of 8000000 for 9000
  929 hyphenation exceptions out of 8191
- 29i,4n,26p,369b,437s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 29i,5n,35p,214b,442s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on /Users/xuejian.wang/Pycharmprojects/xjwangsjtu.github.io/files/.texpadtmp/Wang.dvi (2 pages, 9640 bytes).
+Output written on /Users/xuejian.wang/Pycharmprojects/xjwangsjtu.github.io/files/.texpadtmp/Wang.dvi (2 pages, 12268 bytes).
