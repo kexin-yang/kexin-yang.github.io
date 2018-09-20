@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[[Here is My Latest Curriculum Vitae]](http://xjwangsjtu.github.io/files/Wang.pdf)
+[[Here is My Latest Curriculum Vitae]](http://xjwangsjtu.github.io/_pages/404.md)
 
 
 Education
