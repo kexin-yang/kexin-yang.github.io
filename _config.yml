@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Xuejian Wang"
 title_separator          : "-"
 name                     : &name "Xuejian Wang"
-description              : &description "Undergraduate Student, Shanghai Jiao Tong University"
+description              : &description "Ph.D. student, Carnegie Mellon University"
 url                      : https://xjwangsjtu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "xjwangsjtu/xjwangsjtu.github.io"
@@ -76,11 +76,11 @@ google_analytics: UA-111474017-1
 author:
   name             : "Xuejian Wang"
   avatar           : "XuejianWang.jpeg"
-  bio              : "Undergraduate student, Shanghai Jiao Tong University"
-  location         : "Shanghai, China"
+  bio              : "Ph.D. student, Carnegie Mellon University"
+  location         : "Pittsburgh, Pennsylvania"
   employer         : 
   googlescholar    : "https://scholar.google.com/citations?user=JPtvkA0AAAAJ&hl=zh-CN"
-  email            : "xuejian.wang@outlook.com"
+  email            : "xuejianw@andrew.cmu.edu"
   uri              : 
   bitbucket        :
   codepen          :

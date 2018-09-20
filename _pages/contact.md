@@ -6,10 +6,9 @@ author_profile: true
 ---
 
 **Address:**<br>
-School Electronic Information and Electric Engineering, Shanghai Jiao Tong University<br>
-Office: 310 Yifu Building, #800 Dongchuan Rd, Shanghai, China (200240)
+H. John Heinz III College of Information Systems and Public Policy, Carnegie Mellon University<br>
+Office: 3037 Hamburg Hall, 5000 Forbes Ave, Pittsburgh, USA (15213)
 
 **Email:**<br>
+xuejianw@andrew.cmu.edu<br>
 xuejian.wang@outlook.com<br>
-xjwang@apex.sjtu.edu.cn<br>
-

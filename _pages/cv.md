@@ -14,8 +14,8 @@ redirect_from:
 
 Education
 ======
-* I am now pursuing **Bachelor’s Degree** in Shanghai Jiao Tong University, advised by Prof. [Yong Yu](http://apex.sjtu.edu.cn/members/yyu) and Prof. [Weinan Zhang](http://wnzhang.net/).
-* I am a  **Student Researcher** at Machine Learning group in **Apex Data and Knowledge Mangement Lab**, Shanghai Jiao Tong University.
+* I am now a **Ph.D. student** at CMU, advised by Prof. [Leman Akoglu](http://www.andrew.cmu.edu/user/lakoglu/).
+* I am a Graduate Student Associate in DATA Lab, Carnegie Mellon University.
 * My research interests are the broad areas of machine learning including deep learning, reinforcement learning and their applications in various domains such as recommender system and social networks. In general, my research aims to:(a)mining underlying patterns of human interaction and behaviors; (b)developing practical algorithms and scalable tools to solve problems.
 
 
@@ -30,7 +30,6 @@ Research Experience
 ======
 * <i> Dynamic Attention Deep Model for Article Recommendation by Learning Human Editors Demonstration. </i> <br> **Accepted as a full paper at KDD 2017**. Dec. 2016 - Feb. 2017
 * <i> Neural Link Prediction over Aligned Networks <\i> <br> **Accepted as a full paper at AAAI 2018**. Aug.2017 - Sep.2017
-* Reviewer of CIKM-2017, WSDM-2018, AAAI-2018
 * KDD China Summer School Graduates
   
 Talks

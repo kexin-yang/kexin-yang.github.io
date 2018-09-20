@@ -13,12 +13,12 @@ redirect_from:
 </p>
 
 
-* I am now pursuing Bachelor’s Degree in Shanghai Jiao Tong University, advised by Prof. [Yong Yu](http://apex.sjtu.edu.cn/members/yyu) and Prof. [Weinan Zhang](http://wnzhang.net/).
-* As a Research Assistant at Machine Learning group in [Apex Data and Knowledge Mangement Lab](http://apex.sjtu.edu.cn/), my research interests are the general areas of machine learning, including deep learning, reinforcement learning and their applications in recommender system, natural language processing and information retrieval.
+* I am now first-year joint Ph.D. student at [Machine Learning Department](https://www.ml.cmu.edu) and [Heinz College](https://www.heinz.cmu.edu) in [Carnegie Mellon University](https://www.cmu.edu), advised by Prof. [Leman Akoglu](http://www.andrew.cmu.edu/user/lakoglu/index.html).
+* I received my Bachelor's Degree in [Shanghai Jiao Tong University](https://www.sjtu.edu.cn), where I worked as a Research Assistant at Machine Learning group in [Apex Data and Knowledge Mangement Lab](http://apex.sjtu.edu.cn/). My research interests are deep learning, representation learning and their applications in recommender systems, natural language processing and anomaly detection.
 
 News
 ===
-<font color="#DC143C">[<b>November 08, 2017</b>] A paper titled "Neural Link Prediction over Aligned Networks" was accepted to AAAI 2018. </font>    
+[<b>November 08, 2017</b>] A paper titled "Neural Link Prediction over Aligned Networks" was accepted to AAAI 2018. </font>    
 [<b>October 29, 2017</b>] I was awarded [Rongchang Science and Innovation Scholarship (Nomination)](http://xsb.seiee.sjtu.edu.cn/xsb/info/12988.htm) (Top 30 in SJTU).  
 [<b>August 13-19, 2017</b>] I attended [the 23rd SIGKDD Conference on Knowledge Discovery and Data Mining](http://http://www.kdd.org/kdd2017/) held in Halifax, Nova Scotia, Canada and presented our poster.  
 [<b>July 22 - 24, 2017</b>] I attended [KDD China Summer School](http://http://kddchina.org/#/Content/summerschool) held in Chengdu, China and presented our poster.  
