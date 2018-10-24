@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Xuejian Wang"
+title                    : "Kexin(Bella) Yang"
 title_separator          : "-"
-name                     : &name "Xuejian Wang"
-description              : &description "Ph.D. student, Carnegie Mellon University"
-url                      : https://xjwangsjtu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Kexin Yang"
+description              : &description "METALS student, Carnegie Mellon University"
+url                      : https://kexin-yang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "xjwangsjtu/xjwangsjtu.github.io"
+repository               : "kexin-yang/kexin-yang.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -74,13 +74,13 @@ google_analytics: UA-111474017-1
 
 # Site Author
 author:
-  name             : "Xuejian Wang"
-  avatar           : "XuejianWang.jpeg"
-  bio              : "Ph.D. student, Carnegie Mellon University"
+  name             : "Kexin Yang"
+  avatar           : "kexin-head.jpg"
+  bio              : "METALS student, Carnegie Mellon University"
   location         : "Pittsburgh, Pennsylvania"
   employer         :
-  googlescholar    : "https://scholar.google.com/citations?user=JPtvkA0AAAAJ&hl=zh-CN"
-  email            : "xuejianw@andrew.cmu.edu"
+  googlescholar    :
+  email            : "kexiny@andrew.cmu.edu"
   uri              :
   bitbucket        :
   codepen          :
@@ -88,7 +88,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-#  github           : "xjwangsjtu"
+#  github           : "kexin-yang"
   google_plus      :
   keybase          :
   instagram        : 
