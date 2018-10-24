@@ -6,8 +6,8 @@ author_profile: true
 ---
 
 **Address:**<br>
-HCI, Carnegie Mellon University<br>
-Office: 3037 Hamburg Hall, 5000 Forbes Ave, Pittsburgh, USA (15213)
+Human-Computer Interaction Institute, Carnegie Mellon University<br>
+Location: FMS Annex, 5000 Forbes Ave, Pittsburgh, USA (15213)
 
 **Email:**<br>
 kexiny@andrew.cmu.edu<br>
