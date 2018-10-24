@@ -10,5 +10,5 @@ H. John Heinz III College of Information Systems and Public Policy, Carnegie Mel
 Office: 3037 Hamburg Hall, 5000 Forbes Ave, Pittsburgh, USA (15213)
 
 **Email:**<br>
-xuejianw@andrew.cmu.edu<br>
-xuejian.wang@outlook.com<br>
+kexiny@andrew.cmu.edu<br>
+kexin.yang@outlook.com<br>
