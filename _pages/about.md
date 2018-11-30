@@ -9,14 +9,13 @@ redirect_from:
 ---
 
 <p align="center">
-  <img src="https://kexin-yang.github.io/files/kexinYang.jpg?raw=true" alt="Photo" style="width: 450px;"/>
+  <img src="https://kexin-yang.github.io/files/kexin.jpg?raw=true" alt="Photo" style="width: 450px;"/>
 </p>
 
 
-* I am now a master student.
-* I received my Bachelor's Degree in [Shanghai Jiao Tong University](https://www.sjtu.edu.cn), where I worked as a Research Assistant at Machine Learning group in [Apex Data and Knowledge Mangement Lab](http://apex.sjtu.edu.cn/). 
-* My research interests lie in deep learning and representation learning, as well as their applications in recommender systems, natural language processing and anomaly detection. If you are interested in working or discussing interesting research topics with me, please feel free to drop me an <a href="mailto:xuejianw@andrew.cmu.edu">email</a>.
-
+* I am now a master student in Carnegie Mellon University, School of Computer Science, Human-Computer Interaction Institute, majoring in Educational Technology and Applied Learning Sciences.
+* I received my Bachelor's Degree in Beijing Normal University, majoring in English language literature.
+* My research interests lie in using educational technology including intelligent tutoring system and learning analytics to make education easy, effective and equal. 
 News
 ===
 [<b>November 08, 2017</b>] A paper titled "Neural Link Prediction over Aligned Networks" was accepted to AAAI 2018.  
