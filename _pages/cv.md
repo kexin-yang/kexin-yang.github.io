@@ -9,14 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
-[[Here is My Latest Curriculum Vitae]](http://kexin-yang.github.io/_pages/404.md)
+[[Here is My Latest Curriculum Vitae]](http://kexin-yang.github.io/files/KexinYang-CV-CMU.pdf)
 
 
 Education
 ======
 * I am now a **master student** at CMU, advised by Prof. 
 [Carolyn Rose](http://www.cs.cmu.edu/~cprose/).
-* My research interests lie in using educational technology including intelligent tutoring system and learning analytics to make education easy, effective and equal.  
+* My research interests lie in using educational technology including intelligent tutoring system and learning analytics to make education Easy, Effective and Equal.  
 
 
 Research Experience
@@ -26,7 +26,8 @@ Research Experience
 * KDD China Summer School Graduates
   
 
-## Honors & Awards
+Honors & Awards
+======
 * **Rongchang Science and Innovation Scholarship (Nomination) (Top 30 in SJTU)**, 2017
 * **KDD Student Travel Award**, KDD 2017, 1.3K USD, 2017
 * **Excellent Student Award (Top 5% )**, Shanghai Jiao Tong University, 2017&2016

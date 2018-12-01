@@ -20,4 +20,4 @@ redirect_from:
 
 News
 ===
-[<b>November 08, 2017</b>] I am looking for a PhD position in 2019 Fall! Please view my [CV](http://kexin-yang.github.io/files/Yang.pdf).
+[<b>November 08, 2017</b>] I am looking for a PhD position in 2019 Fall! Please view my [CV](http://kexin-yang.github.io/files/KexinYang-CV-CMU.pdf).
