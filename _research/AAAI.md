@@ -1,7 +1,7 @@
 ---
 title: "Neural Link Prediction over Aligned Networks"
-collection: publications
-permalink: /publications/AAAI
+collection: research
+permalink: /research/AAAI
 venue: "AAAI 2018"
 date: 2018-09-11
 citation: 'Xuezhi Cao, Haokun Chen, <b>Xuejian Wang</b>, Weinan Zhang, Yong Yu. <i> The Thirty-Second AAAI Conference on Artificial Intelligence </i> <b>AAAI 2018</b>.'
