@@ -1,9 +1,13 @@
 ---
-title: "Portforlio will come in 10 days, please check back later!"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
-collection: portfolio1
+title: "Intelligent Tutoring System for Practical Rhetorical Structure Theory <img src='/images/RST_tutor/RST_tutor3-1'>"
+excerpt: "This is a intelligent tutoring system I built, targeting at teaching Rhetorical Structural Theory, a linguistics framework frequently used in information retrieval area.<br/>"
+collection: portfolio
 ---
-My portforlio is coming in 10 days, please check back later! Thank you for the patience!
+Intelligent Tutoring System for Practical Rhetorical Structure Theory
+The initial reason for building this intelligent tutor is to make learning RST more engaging and efficient. Rhetorical Structure Theory (RST) is a linguistics framework, frequently used in information retrieval area, that focuses on identifying relations between sentences. RST, while being a useful framework, has very few learning materials other than academic papers or textbook. Since I personally spent two whole days reading academic paper trying to learn it, which was unengaging and laborious, I decided to explore ways to make the RST learning process more effective and interesting. 
+The strength of this intelligent tutoring systems is threefold. Firstly, it adopts mastery learning and use adaptive problem selection with problems involving unmastered skills, in order to ensure learners reach mastery in each relation. Secondly, the problems are presented from easy to hard, and give adaptive feedback to ensure learners stay on the right track. Thirdly, it is held on a public server, Tutorshop, which enable its free accessibility by anyone interested in learning or teaching RST.
+Cognitive Task Analysis method: Think aloud
+
 
 
 
