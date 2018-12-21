@@ -26,7 +26,7 @@ Below are how you can play with this tutor:
 2. Use the username and password to log in
 Username:kexiny
 Password: ixek93
-3.From the Menu on the left hand side, choose Packages, search for “Practical Rhetorical Structure Theory”, click in, go to problem sets, click the green triangle under 
+3.From the Menu on the left hand side, choose Packages, search for “Practical Rhetorical Structure Theory”, click in, go to problem sets, click the green triangle under Action
 
   
   
