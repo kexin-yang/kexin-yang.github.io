@@ -13,19 +13,22 @@ For now we went through three major iterations of our tutor interfaces, and we c
 
  <p align="center">
  
-## Initial Interface  
+
 
  <img src="https://kexin-yang.github.io/images/RST_tutor/RST_tutor1.png?raw=true" alt="Photo" style="width: 650px;"/>  
 </p> 
-<p align="center">
 
 ## Second Interface
+<p align="center">
+
+
 
  <img src="https://kexin-yang.github.io/images/RST_tutor/RST_tutor2.png?raw=true" alt="Photo" style="width: 650px;"/>  
 </p>
+## Third Interface  
 <p align="center">
  
-## Third Interface  
+
 
  <img src="https://kexin-yang.github.io/images/RST_tutor/RST_tutor3-1.png?raw=true" alt="Photo" style="width: 650px;"/>
    <img src="https://kexin-yang.github.io/images/RST_tutor/RST_tutor3-2.png?raw=true" alt="Photo" style="width: 650px;"/>
