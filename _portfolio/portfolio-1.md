@@ -9,9 +9,13 @@ The strength of this intelligent tutoring systems is threefold. Firstly, it adop
 Cognitive Task Analysis method: Think aloud  
 
 For now we went through three major iterations of our tutor interfaces, and we continue to improve this tutor with more iteration.  
- Initial Interface <img src='/images/RST_tutor/RST_tutor1'>  
- Second Interface <img src='/images/RST_tutor/RST_tutor2'>   
-  Third Interface <img src='/images/RST_tutor/RST_tutor3-1'>
+ <p align="center">
+ Initial Interface
+ <img src="https://kexin-yang.github.io/images/STEM_tutor/RST_tutor1.png?raw=true" alt="Photo" style="width: 650px;"/>  
+</p>
+ 
+ Second Interface <img src='/images/RST_tutor/RST_tutor2.png'>   
+  Third Interface <img src='/images/RST_tutor/RST_tutor3-1.png'>
   <img src='/images/RST_tutor/RST_tutor3-2'>  
     
   Report: Here is the final report for the intelligent tutoring system, which includes our template for CTA (Think Aloud), CTA transcription, Knowledge Component (KC) model and production rules.
