@@ -7,7 +7,7 @@ Here present some small class projects of intelligent tutoring system in STEM ar
 Tutor 1: 
 Domain: Math/ Chemistry:
 This intelligent tutoring system aims at teaching students how to do dosage calculation for medicine. 
-<img src='https://kexin-yang.github.io/images/STEM_tutor/Tutor2_Interface?raw=true'>
+<img src="https://kexin-yang.github.io/images/STEM_tutor/Tutor2_Interface.png?raw=true" alt="Photo" style="width: 450px;"/>
 The feature of this intelligent tutoring system is its ability of 1) calculating for students and 2) mass production.
 1. Calculating for Students:
 This means when students type in a textInput box a formula such as 120*3, if the right answer is indeed 360, the tutor can do the calculation for the students and recognize this as correct answer. This function makes use of the AlgEval() algorithm inside CTAT.
