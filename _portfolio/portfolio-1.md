@@ -11,20 +11,20 @@ The strength of this intelligent tutoring systems is threefold. Firstly, it adop
 For now we went through three major iterations of our tutor interfaces, and we continue to improve this tutor with more iteration.  
  <p align="center">
  
-**Initial Interface**  
+## Initial Interface  
 
  <img src="https://kexin-yang.github.io/images/RST_tutor/RST_tutor1.png?raw=true" alt="Photo" style="width: 650px;"/>  
 </p> 
 <p align="center">
  
-**Second Interface**  
+## Second Interface
 
  <img src="https://kexin-yang.github.io/images/RST_tutor/RST_tutor2.png?raw=true" alt="Photo" style="width: 650px;"/>  
 </p>
 
 <p align="center">
  
-**Third Interface**  
+## Third Interface**  
 
  <img src="https://kexin-yang.github.io/images/RST_tutor/RST_tutor3-1.png?raw=true" alt="Photo" style="width: 650px;"/>
    <img src="https://kexin-yang.github.io/images/RST_tutor/RST_tutor3-2.png?raw=true" alt="Photo" style="width: 650px;"/>
@@ -36,12 +36,13 @@ For now we went through three major iterations of our tutor interfaces, and we c
 Below are how you can play with this tutor:
 1. Go to Tutor shop:
 [[Tutorshop Website]](https://school.tutorshop.web.cmu.edu) 
-2. Use the username and password to log in  
-Username:kexiny  
-Password: ixek93  
+2. Choose one from the 10 usernames, and use the password "rst" to log in    
 
-3.From the Menu on the left hand side, choose Packages, search for “Practical Rhetorical Structure Theory”, click in, go to problem sets, click the green triangle under Actions
+**Username**:RSTguest1, RSTguest2, RSTguest3, RSTguest4, RSTguest5, RSTguest6, RSTguest7, RSTguest8, RSTguest9, RSTguest10  
 
+**Password**: rst  
+
+3. Click **"Run Problem Set"** to start playing with the tutor.
   
   
   
