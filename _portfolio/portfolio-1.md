@@ -9,6 +9,8 @@ The strength of this intelligent tutoring systems is threefold. Firstly, it adop
 **Cognitive Task Analysis (CTA) method**: Think aloud  
 
 For now we went through three major iterations of our tutor interfaces, and we continue to improve this tutor with more iteration.  
+## Initial Interface  
+
  <p align="center">
  
 ## Initial Interface  
@@ -16,15 +18,14 @@ For now we went through three major iterations of our tutor interfaces, and we c
  <img src="https://kexin-yang.github.io/images/RST_tutor/RST_tutor1.png?raw=true" alt="Photo" style="width: 650px;"/>  
 </p> 
 <p align="center">
- 
+
 ## Second Interface
 
  <img src="https://kexin-yang.github.io/images/RST_tutor/RST_tutor2.png?raw=true" alt="Photo" style="width: 650px;"/>  
 </p>
-
 <p align="center">
  
-## Third Interface**  
+## Third Interface  
 
  <img src="https://kexin-yang.github.io/images/RST_tutor/RST_tutor3-1.png?raw=true" alt="Photo" style="width: 650px;"/>
    <img src="https://kexin-yang.github.io/images/RST_tutor/RST_tutor3-2.png?raw=true" alt="Photo" style="width: 650px;"/>
