@@ -1,5 +1,5 @@
 ---
-title: "Educational Data Analysis and Visualization<img src="https://kexin-yang.github.io/images/RST_tutor/RST_tutor3-1?raw=true" alt="RST tutor" style="width: 450px;"/>" 
+title: "Educational Data Analysis and Visualization" 
 
 excerpt: "This is a educational data visualization project, in which we explored different factors' contribution to their final learning outcome, and visualized students' learning pathways in order to give educators evidence-based suggestions."  
 collection: portfolio  
