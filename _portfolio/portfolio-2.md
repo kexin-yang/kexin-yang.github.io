@@ -26,9 +26,9 @@ This means when students type in a textInput box a formula such as 120*3, if the
 [[Tutorshop Website]](https://school.tutorshop.web.cmu.edu) 
 2. Use the created username and password to log in
 
-**Username**: tutor1guest1
+    **Username**: tutor1guest1
 
-**Password**: tutor  
+    **Password**: tutor  
 
 3. Click **"Run Problem Set"** to start playing with the tutor.
   
@@ -51,9 +51,9 @@ This is a rule-based cognitive tutor that guide users to a little magic in math,
 [[Tutorshop Website]](https://school.tutorshop.web.cmu.edu) 
 2. Use the created username and password to log in
 
-**Username**: squaretutorguest1
+    **Username**: squaretutorguest1
 
-**Password**: square 
+    **Password**: square 
 
 3. Click **"Run Problem Set"** to start playing with the tutor.
   
@@ -72,9 +72,9 @@ This is a more sophisticated, rule-based cognitive tutor that decompose proporti
 [[Tutorshop Website]](https://school.tutorshop.web.cmu.edu) 
 2. Use the created username and password to log in
 
-**Username**: ProportionTutorGuest1
+    **Username**: ProportionTutorGuest1
 
-**Password**: proportion
+    **Password**: proportion
 
 3. Click **"Run Problem Set"** to start playing with the tutor.
   
@@ -95,9 +95,9 @@ Special feature about this tutor is that it will force students to make all dedu
 [[Tutorshop Website]](https://school.tutorshop.web.cmu.edu) 
 2. Use the created username and password to log in
 
-**Username**: GeneGuest
+    **Username**: GeneGuest
 
-**Password**: gene
+    **Password**: gene
 
 3. Click **"Run Problem Set"** to start playing with the tutor.
 

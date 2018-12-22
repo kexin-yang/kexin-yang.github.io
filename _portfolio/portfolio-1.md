@@ -30,7 +30,7 @@ For now we went through three major iterations of our tutor interfaces, and we c
    <img src="https://kexin-yang.github.io/images/RST_tutor/RST_tutor3-2.png?raw=true" alt="Photo" style="width: 650px;"/>
 </p>
     
-  Report:   
+  **Report:**   
   Here is the final report for the intelligent tutoring system, which includes our template for CTA (Think Aloud), CTA transcription, Knowledge Component (KC) model and production rules.
   [[Click here to see our final report]](http://kexin-yang.github.io/files/RSTFinal_Report.pdf)
   
