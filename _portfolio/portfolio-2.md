@@ -20,7 +20,8 @@ This means when students type in a textInput box a formula such as 120*3, if the
 
 **2. Mass Production:** This is a function made possible by Cognitive Tutor Authoring Tools (CTAT). This enables people to create multiple questions using the same interface components, same production rules, or .brd file. Only thing people need to do is to substitute the problem specific information in the excel form as shown below, in order to create multiple problem in the same nature. 
 
-Below are how you can play with this tutor:
+**Below are how you can play with this tutor:**
+
 1. Go to Tutor shop:
 [[Tutorshop Website]](https://school.tutorshop.web.cmu.edu) 
 2. Use the created username and password to log in
@@ -44,7 +45,8 @@ This is a rule-based cognitive tutor that guide users to a little magic in math,
 <img src="https://kexin-yang.github.io/images/STEM_tutor/Tutor3_interface.png?raw=true" alt="Photo" style="width: 650px;"/>  
 </p>
 
-Below are how you can play with this tutor:
+**Below are how you can play with this tutor:**
+
 1. Go to Tutor shop:
 [[Tutorshop Website]](https://school.tutorshop.web.cmu.edu) 
 2. Use the created username and password to log in
@@ -64,7 +66,8 @@ This is a more sophisticated, rule-based cognitive tutor that decompose proporti
 <img src="https://kexin-yang.github.io/images/STEM_tutor/Tutor4_interface.png?raw=true" alt="Photo" style="width: 650px;"/>  
 </p>
 
-Below are how you can play with this tutor:
+**Below are how you can play with this tutor:**
+
 1. Go to Tutor shop:
 [[Tutorshop Website]](https://school.tutorshop.web.cmu.edu) 
 2. Use the created username and password to log in
@@ -86,7 +89,8 @@ Special feature about this tutor is that it will force students to make all dedu
 <img src="https://kexin-yang.github.io/images/STEM_tutor/Tutor5_interface.png?raw=true" alt="Photo" style="width: 650px;"/>  
 </p>
 
-Below are how you can play with this tutor:
+**Below are how you can play with this tutor:**
+
 1. Go to Tutor shop:
 [[Tutorshop Website]](https://school.tutorshop.web.cmu.edu) 
 2. Use the created username and password to log in
