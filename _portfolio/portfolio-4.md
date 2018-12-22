@@ -16,7 +16,9 @@ Poster: Here is a poster that I presented in Carnegie Mellon University on Dec. 
 </p>
 
 [[View the poster here]](http://kexin-yang.github.io/files/EGIAposter.png)
-
+<p align="center">
+ <img src="http://kexin-yang.github.io/files/EGIAreport.png?raw=true" alt="Photo" style="width: 650px;"/>  
+</p>
 [[View the 80 Pages Lesson Design here]](http://kexin-yang.github.io/files/EGIA_FinalReport.pdf)
   
   
