@@ -11,6 +11,9 @@ In this project, every phase of educational design is justified by rigorous theo
 This is a final project for an indispensable, core course for the METALS master program in Carnegie Mellon University, Educational Goals, Instruction and Assessment, taught by Dr. Sharon Carver and Dr. Lauren Herckis.  
 
 Poster: Here is a poster that I presented in Carnegie Mellon University on Dec. 11th 2018.
+<p align="center">
+ <img src="http://kexin-yang.github.io/files/EGIAposter.png?raw=true" alt="Photo" style="width: 650px;"/>  
+</p>
 
 [[View the poster here]](http://kexin-yang.github.io/files/EGIAposter.png)
 
