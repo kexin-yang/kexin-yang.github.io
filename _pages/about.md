@@ -20,4 +20,5 @@ redirect_from:
 
 News
 ===
-[<b>November 08, 2017</b>] I am looking for a PhD position in 2019 Fall! Please view my [CV](http://kexin-yang.github.io/files/KexinYang-CV-CMU.pdf).
+[<b>November 08, 2018</b>] I am looking for a PhD position in 2019 Fall! Please view my [CV](http://kexin-yang.github.io/files/KexinYang-CV-CMU.pdf).
+[<b>December 21, 2018 </b>] My fall grades at CMU has come out, please view it [here](http://kexin-yang.github.io/files/CMU_transcript.pdf).

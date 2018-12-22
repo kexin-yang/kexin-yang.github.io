@@ -10,5 +10,5 @@ Human-Computer Interaction Institute, Carnegie Mellon University<br>
 Location: FMS Annex, 5000 Forbes Ave, Pittsburgh, USA (15213)
 
 **Email:**<br>
-kexiny@andrew.cmu.edu<br>
+kexiny@cs.cmu.edu<br>
 kexin.yang@outlook.com<br>
