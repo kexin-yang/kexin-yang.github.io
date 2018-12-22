@@ -11,8 +11,9 @@ redirect_from:
 
 [[Here is My Latest Curriculum Vitae]](http://kexin-yang.github.io/files/KexinYang-CV-CMU.pdf)
 
-##Research Project
-### Automatic Structural Feedback for Student Essays  
+# Research Project
+---
+## Automatic Structural Feedback for Student Essays  
 **Funded by: Schimdt Family Foundation**   
 
 **Advisor: Dr. Carolyn Rose**
