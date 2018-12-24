@@ -1,6 +1,6 @@
 ---
 title: "Intelligent Tutoring System for Practical Rhetorical Structure Theory" 
-excerpt: "This is a intelligent tutoring system I built, targeting at teaching Rhetorical Structural Theory, a linguistics framework frequently used in information retrieval area.<br/>"  
+excerpt: "This is a intelligent tutoring system I built, targeting at teaching Rhetorical Structural Theory, a linguistics framework frequently used in information retrieval area.<br/><img src='/images/500x300.png'>"  
 collection: portfolio  
 --- 
 The initial reason for building this intelligent tutor is to make learning RST more engaging and efficient. Rhetorical Structure Theory (RST) is a linguistics framework, frequently used in information retrieval area, that focuses on identifying relations between sentences. RST, while being a useful framework, has very few learning materials other than academic papers or textbook. Since I personally spent two whole days reading academic paper trying to learn it, which was unengaging and laborious, I decided to explore ways to make the RST learning process more effective and interesting.
