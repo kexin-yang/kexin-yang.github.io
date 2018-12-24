@@ -1,6 +1,5 @@
 ---
 title: "Intelligent Tutoring System for Practical Rhetorical Structure Theory" 
-<img src="https://kexin-yang.github.io/images/RST_tutor/RST_tutor1.png?raw=true" alt="Photo" style="width: 650px;"/>
 excerpt: "This is a intelligent tutoring system I built, targeting at teaching Rhetorical Structural Theory, a linguistics framework frequently used in information retrieval area.<br/>"  
 collection: portfolio  
 --- 
