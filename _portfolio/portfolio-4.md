@@ -1,7 +1,7 @@
 ---
 title: "Lesson Design for Argumentative Writing Course" 
 
-excerpt: "This is a course design made for Grade11-12 students, in topic of Argumentative Writing.<img src="http://kexin-yang.github.io/files/EGIAposter.png?raw=true" alt="Photo" style="width: 500px;"/>"  
+excerpt: "This is a course design made for Grade11-12 students, in topic of Argumentative Writing.<img src='http://kexin-yang.github.io/files/EGIAposter.png?raw=true' alt='Photo' style='width: 650px;'/>"  
 collection: portfolio  
 ---
 In this project, I applied the backward design methodology and designed a 10-hour course in argumentative writing for Grade 11-12. I highlighted three phases, namely, learners in context, Goals, Assessment, Instruction and Research& Evaluation. The project draw on educational big ideas from Understanding by Design by Grant Wiggins and Jay McTighe, and The ABC of How we Learn written by Daniel L. Schwartz, Jessica M.Tsang and Kristen P. Blair.  
