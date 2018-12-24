@@ -1,6 +1,6 @@
 ---
 title: "Intelligent Tutoring System in STEM Area"
-excerpt: "Here are some intelligent tutoring system that I have built in STEM area,  under help of Dr. Aleven and Jonathan.<br/><img src="https://kexin-yang.github.io/images/STEM_tutor/Tutor2_Interface.png?raw=true" alt="Photo" style="width: 500px;"/>"
+excerpt: "Here are some intelligent tutoring system that I have built in STEM area,  under help of Dr. Aleven and Jonathan.<br/><img src='https://kexin-yang.github.io/images/STEM_tutor/Tutor2_Interface.png?raw=true' alt='Photo' style='width: 650px;'/>"
 collection: portfolio  
 ---
 Here present some small class projects of intelligent tutoring system in STEM domains, including math, chemistry and biology, that I have built in Dr. Vincent Aleven’s _Personalized Online Learning_ course. These intelligent tutoring systems demonstrate some features of adaptivity in problem-specific feedback, allowing multiple paths and mastery learning with skill and KC modeling. 

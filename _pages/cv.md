@@ -38,9 +38,9 @@ Research Project
     
 Teaching Experience
 ======    
-* Beijing 101 High School 
+* Beijing 101 High School,Beijing, China 
   * English Teacher/ Head Teacher   
-* Meitan Qiushi High School (Guizhou Province)
+* Meitan Qiushi High School, Guizhou, China
   * English Teacher/ Summer Camp Organizer
 * Longre English Training Institute
   * GRE/ TOEFL Teacher 
