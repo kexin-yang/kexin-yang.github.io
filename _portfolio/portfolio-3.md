@@ -1,7 +1,7 @@
 ---
 title: "Learning Pathways- Educational Data Analysis and Visualization" 
 
-excerpt: "This is a educational data visualization project, in which we explored different factors' contribution to their final learning outcome, and visualized students' learning pathways in order to give educators evidence-based suggestions."  
+excerpt: "This is a educational data visualization project, in which we explored different factors' contribution to their final learning outcome, and visualized students' learning pathways in order to give educators evidence-based suggestions.<img src="https://kexin-yang.github.io/images/Learning_Paths/Completion.png?raw=true" alt="Photo" style="width: 500px;"/>"  
 collection: portfolio  
 ---
 This project involve educational data mining and visualization. In this project advised by Dr. Adam Perer from Human-Computer Interaction Institute in CMU, I explored ways to visualize learning pathways of students who are enrolled in a blended course Principle of Computing in Python. 
