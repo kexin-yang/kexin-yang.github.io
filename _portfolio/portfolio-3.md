@@ -20,6 +20,8 @@ This project involve educational data mining and visualization. In this project 
  <img src="https://kexin-yang.github.io/images/Learning_Paths/LearningPathways.png?raw=true" alt="Photo" style="width: 650px;"/>  
 </p>
 
+## Project Website: 
+
 [[View this learning pathway project here]](https://metals-ids-18fall.github.io/student-pathway/)
   
   
