@@ -22,7 +22,7 @@ This project involve educational data mining and visualization. In this project 
 
 ## Project Website: 
 
-[[View this learning pathway project here]](https://metals-ids-18fall.github.io/student-pathway/)
+[[View this learning pathway project in more details here]](https://metals-ids-18fall.github.io/student-pathway/)
   
   
 
