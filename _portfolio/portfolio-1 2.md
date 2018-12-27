@@ -14,7 +14,7 @@ Secondly, the problems are presented **from easy to hard**, and give adaptive fe
 
 Thirdly, it is held on a public server, Tutorshop, which enable its **free accessibility** by anyone interested in learning or teaching RST.  
 
-### Cognitive Task Analysis (CTA) method: 
+## Cognitive Task Analysis (CTA) method: 
 **Think aloud** with four different difficulty factors
 
 For now we went through three major iterations of our tutor interfaces, and we continue to improve this tutor with more iteration.  
