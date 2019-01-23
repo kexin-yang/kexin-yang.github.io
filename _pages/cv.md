@@ -22,11 +22,11 @@ Learning Sciences, Intelligent Tutoring System, Learning Analytics, Human-Comput
 
 Research Project
 ======
-* Automatic Structural Feedback for Student Essays  
+* **Automatic Structural Feedback for Student Essays**  
   * Funded by: Schimdt Family Foundation   
   * Advisor: Dr. Carolyn Rose
 
-    This research, under the supervision of Dr. Carolyn RosÃ© from Language Technology Institute in Carnegie Mellon University, aims to make essay grading process more efficient using text-mining and deep learning technologies. This project is funded by Schmidt Family Foundation and is in collaboration with Turnitin, a language technology company.   
+    This research, under the supervision of Dr. Carolyn Rose from Language Technology Institute in Carnegie Mellon University, aims to make essay grading process more efficient using text-mining and deep learning technologies. This project is funded by Schmidt Family Foundation and is in collaboration with Turnitin, a language technology company.   
 
     In the project, I applied Rhetorical Structure Theory (RST) in decomposing studentsâ essays to give structural feedback. Based on empirical experience, we developed two deliverables to benefit other researchers, including a flowchart and a guideline for RST annotation in the context of student essays. We are now working on parsing to scale up this work using neural networks.   
 
