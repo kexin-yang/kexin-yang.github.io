@@ -27,7 +27,7 @@ Here is a poster that I presented in Carnegie Mellon University on Dec. 11th 201
 </p>
 
 
-[[View the 80 Pages Lesson Design here]](http://kexin-yang.github.io/files/EGIA_FinalReport.pdf)
+[[View the detailed lesson design here]](http://kexin-yang.github.io/files/EGIA_FinalReport.pdf)
   
   
 
