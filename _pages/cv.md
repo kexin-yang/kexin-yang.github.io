@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[[Here is My Latest Curriculum Vitae]](http://kexin-yang.github.io/files/KexinYang-CV-CMU.pdf)
+[[Here is My Latest Curriculum Vitae]](http://kexin-yang.github.io/files/KY.pdf)
 
 Education
 ======
