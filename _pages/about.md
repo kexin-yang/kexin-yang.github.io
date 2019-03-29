@@ -20,5 +20,6 @@ redirect_from:
 
 News
 ===
-[<b>March 28,2019</b>] Our paper "Applying Rhetorical Structure Theory to Student Essays for Providing Automated Writing Feedback" was accepted to NAACL workshop 2019.\
-[<b>December 21, 2018 </b>] I have ended my fall semester at Carnegie Mellon University with good grades, please view it [here] (http://kexin-yang.github.io/files/CMU_transcript.pdf).
+[<b>March 28,2019</b>] Our paper "Applying Rhetorical Structure Theory to Student Essays for Providing Automated Writing Feedback" was accepted to NAACL workshop 2019.
+
+[<b>December 21, 2018 </b>] I have ended my fall semester at Carnegie Mellon University with good grades, please view it [[here]](http://kexin-yang.github.io/files/CMU_transcript.pdf).
