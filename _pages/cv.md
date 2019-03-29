@@ -16,11 +16,11 @@ Education
 * B.A. in English Language and Literture, Beijing Normal University, 2018
 * M.S. in Educational Technology and Applied Learning Sciences, Carnegie Mellon University, 2019(expected)
 
-Research Interest
+Interest
 ======
 Learning Sciences, Intelligent Tutoring System, Learning Analytics, Human-Computer Interaction
 
-Research Project
+Recent Research Project
 ======
 * **Automatic Structural Feedback for Student Essays**  
   * Funded by: Schimdt Family Foundation   
@@ -36,6 +36,10 @@ Research Project
 
     My personal journal for this research project is documented [here](http://kexin-yang.github.io/files/TII_Journal.pdf), a little cluttered, but recorded my first three months journey of this research project.
     
+Publication
+======
+[1] Shiyan Jiang, **Kexin Yang**, Chandrakumari Suvarna, Pooja Casula, Mingtong Zhang and Carolyn Rose “Applying Rhetorical Structure Theory to Student Essays for Providing Automated Writing Feedback”, NAACL workshop, Jun.2019
+
 Teaching Experience
 ======    
 * Beijing 101 High School,Beijing, China 
