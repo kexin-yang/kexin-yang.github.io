@@ -1,7 +1,7 @@
 ---
 title: "Cooperative Learning Experience: Learn with Your Peer!" 
 
-excerpt: "This is a platform where you can learn with your peers in a Jigsaw method, the topic about how sunscreen works. <img src='http://kexin-yang.github.io/images/sunscreen/2login.png?raw=true' alt='Photo' style='width: 650px;'/>"  
+excerpt: "This is a platform where you can learn with your peers in a Jigsaw method, the topic is about how sunscreen works. <img src='http://kexin-yang.github.io/images/sunscreen/2login.png?raw=true' alt='Photo' style='width: 650px;'/>"  
 collection: portfolio   
 
 ---
