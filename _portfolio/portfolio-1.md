@@ -3,10 +3,19 @@ title: "Intelligent Tutoring System for Practical Rhetorical Structure Theory"
 excerpt: "This is a intelligent tutoring system I built, targeting at teaching Rhetorical Structural Theory, a linguistics framework frequently used in information retrieval area.<br/><img src='https://kexin-yang.github.io/images/RST_tutor/RST_tutor3-1.png?raw=true' alt='Photo' style='width: 650px;'/>"  
 collection: portfolio  
 --- 
+
+ 
+**Duration**: 8 weeks, Oct 16th, 2018 - Dec.16th, 2018 
+**Team**:Kexin Yang, Pooja Casula, Mingtong Zhang
+
+
+
 ## Background
 
-The initial reason for building this intelligent tutor is to make learning RST more engaging and efficient. Rhetorical Structure Theory (RST) is a linguistics framework, frequently used in information retrieval area, that focuses on identifying relations between sentences. RST, while being a useful framework, has very few learning materials other than academic papers or textbook. Since I personally spent two whole days reading academic paper trying to learn it, which was unengaging and laborious, I decided to explore ways to make the RST learning process more effective and interesting.
-   
+Rhetorical Structure Theory (RST) is a linguistics framework, frequently used in information retrieval area, that focuses on identifying relations between sentences. The initial reason for building this intelligent tutor is to make learning RST more engaging and efficient. RST, while being a useful framework, has very few learning materials other than academic papers or textbook. I spent two whole days reading academic paper trying to learn it, which was unengaging and laborious, then I decided to explore ways to make the RST learning process more effective and interesting.
+   <p align="center">
+ <img src="https://kexin-yang.github.io/images/RST_tutor/allRelations.png?raw=true" alt="Photo" style="width: 650px;"/>  
+</p>
 ## The strength of this intelligent tutoring system： 
 Firstly, it adopts **mastery learning** and use **adaptive problem selection** with problems involving unmastered skills, in order to ensure learners reach mastery in each relation.  
 
@@ -17,18 +26,21 @@ Thirdly, it is held on a public server, Tutorshop, which enable its **free acces
 ## Cognitive Task Analysis (CTA) method: 
 **Think aloud** with four different difficulty factors
 
-For now we went through three major iterations of our tutor interfaces, and we continue to improve this tutor with more iteration.  
-## Initial Interface  
+For now we went through three major iterations of our tutor interfaces, and we continue to improve this tutor with more iterations.  
+
+## Low-fi Prototype 
 
  <p align="center">
  <img src="https://kexin-yang.github.io/images/RST_tutor/RST_tutor1.png?raw=true" alt="Photo" style="width: 650px;"/>  
 </p> 
 
-## Second Interface
+## Mid-fi Prototype
 <p align="center">
  <img src="https://kexin-yang.github.io/images/RST_tutor/RST_tutor2.png?raw=true" alt="Photo" style="width: 650px;"/>  
 </p>
-## Third Interface  
+ 
+ ## High-fi Prototype 
+ 
 <p align="center">
  <img src="https://kexin-yang.github.io/images/RST_tutor/RST_tutor3-1.png?raw=true" alt="Photo" style="width: 650px;"/>
    <img src="https://kexin-yang.github.io/images/RST_tutor/RST_tutor3-2.png?raw=true" alt="Photo" style="width: 650px;"/>
@@ -44,7 +56,7 @@ For now we went through three major iterations of our tutor interfaces, and we c
 [[Tutorshop Website]](https://school.tutorshop.web.cmu.edu) 
 2. Choose one from the 10 usernames, and use the password "rst" to log in    
 
-    **Username**:RSTguest1, RSTguest2, RSTguest3, RSTguest4, RSTguest5, RSTguest6, RSTguest7, RSTguest8, RSTguest9, RSTguest10  
+    **Username**: RSTguest1 (The number 1 can be substituted by any number between 1-10)
 
     **Password**: rst  
 
