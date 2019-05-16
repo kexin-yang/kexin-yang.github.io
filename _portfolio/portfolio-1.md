@@ -6,6 +6,7 @@ collection: portfolio
 
  
 **Duration**: 8 weeks, Oct 16th, 2018 - Dec.16th, 2018 
+
 **Team**:Kexin Yang, Pooja Casula, Mingtong Zhang
 
 
@@ -39,7 +40,7 @@ For now we went through three major iterations of our tutor interfaces, and we c
  <img src="https://kexin-yang.github.io/images/RST_tutor/RST_tutor2.png?raw=true" alt="Photo" style="width: 650px;"/>  
 </p>
  
- ## High-fi Prototype 
+## High-fi Prototype 
  
 <p align="center">
  <img src="https://kexin-yang.github.io/images/RST_tutor/RST_tutor3-1.png?raw=true" alt="Photo" style="width: 650px;"/>
