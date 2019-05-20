@@ -76,7 +76,7 @@ This tool enable learners to learn the material in a Jigsaw method, but instead 
 The tool was originally designed for large scale use. After registration, learns will be assigned a role and learn in a cooperative way.
 
 <p align="center">
- <img src="http://kexin-yang.github.io/images/sunscreen/jigsawTitle.png?raw=true" alt="Photo" style="width: 650px;"/>  
+ <img src="http://kexin-yang.github.io/images/sunscreen/jigsawTitle.jpg?raw=true" alt="Photo" style="width: 150px;"/>  
 </p>
 
 ## What's so special? 
@@ -85,7 +85,7 @@ The tool was originally designed for large scale use. After registration, learns
 3) This is flexible, in that people can log in and out, and their record will be saved by the tool, so that they can resume when they come back.
 
 <p align="center">
- <img src="http://kexin-yang.github.io/images/sunscreen/handsJigsaw.png?raw=true" alt="Photo" style="width: 650px;"/>  
+ <img src="http://kexin-yang.github.io/images/sunscreen/handsJigsaw.png?raw=true" alt="Photo" style="width: 150px;"/>  
 </p>
 
 ## Scaffolds for positive interdependence:
@@ -113,7 +113,7 @@ Lastly, here comes the final quiz, in which they will be quizzed on questions bo
 
 
 <p align="center">
- <img src="http://kexin-yang.github.io/images/sunscreen/jigsawDinosaur.png?raw=true" alt="Photo" style="width: 650px;"/>  
+ <img src="http://kexin-yang.github.io/images/sunscreen/jigsawDinosaur.jpg?raw=true" alt="Photo" style="width: 200px;"/>  
 </p>
 
 
