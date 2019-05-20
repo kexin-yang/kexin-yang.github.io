@@ -1,7 +1,7 @@
 ---
 title: "Cooperative Learning Tool: Learn with your peer!"
 
-excerpt: "**#Learning Experience Design**, **#Instructional Design** 
+excerpt: "**#Learning Experience Design**, **#Instructional Design**, **#Cooperative Learning** 
 <br>
 <br>
 This is a platform where you can learn with your peers in a Jigsaw method.<img src='http://kexin-yang.github.io/images/sunscreen/2login.png?raw=true' alt='Photo' style='width: 650px;'/>"  
