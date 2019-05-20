@@ -69,7 +69,7 @@ playsound
 random
 
 <p align="center">
- <img src="https://kexin-yang.github.io/images/Sprinkle/end1.jpeg?raw=true" alt="Photo" style="width: 150px;"/>  
+ <img src="https://kexin-yang.github.io/images/Sprinkle/end4.jpeg?raw=true" alt="Photo" style="width: 150px;"/>  
 </p>
 
   
