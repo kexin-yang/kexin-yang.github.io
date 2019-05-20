@@ -13,17 +13,32 @@ collection: portfolio
 ## Video
 
 <video id="video" controls="" preload="none" poster="http://media.w3.org/2010/05/sintel/poster.png">
-      <source id="mp4" src="http://media.w3.org/2010/05/sintel/trailer.mp4" type="video/mp4">
+      <source id="mp4" src="https://youtu.be/rKN3eWOOxNw" type="video/mp4">
       <source id="webm" src="http://media.w3.org/2010/05/sintel/trailer.webm" type="video/webm">
       <source id="ogv" src="http://media.w3.org/2010/05/sintel/trailer.ogv" type="video/ogg">
       <p>Your user agent does not support the HTML5 Video element.</p>
     </video>
 
+##Technical Description
+
+### Graphic module:
+Tkinter
+
+### Python Libraries:
+Speech_recognition
+Natural Language Toolkit (NLTK)
+numpy
+PIL
+playsound
+
+
+#Speak Game
+ <p align="center">
+ <img src="https://kexin-yang.github.io/images/Sprinkle/2.png?raw=true" alt="Photo" style="width: 650px;"/>  
+</p>
 
 Rhetorical Structure Theory (RST) is a linguistics framework, frequently used in information retrieval area, that focuses on identifying relations between sentences. The initial reason for building this intelligent tutor is to make learning RST more engaging and efficient. RST, while being a useful framework, has very few learning materials other than academic papers or textbook. I spent two whole days reading academic paper trying to learn it, which was unengaging and laborious, then I decided to explore ways to make the RST learning process more effective and interesting.
-   <p align="center">
- <img src="https://kexin-yang.github.io/images/RST_tutor/allRelations.png?raw=true" alt="Photo" style="width: 650px;"/>  
-</p>
+
 ## The strength of this intelligent tutoring system： 
 Firstly, it adopts **mastery learning** and use **adaptive problem selection** with problems involving unmastered skills, in order to ensure learners reach mastery in each relation.  
 
