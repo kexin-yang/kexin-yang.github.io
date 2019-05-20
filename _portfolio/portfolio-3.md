@@ -26,6 +26,22 @@ A typical Jigsaw Method consists of the following steps:
 <p align="center">
  <img src="http://kexin-yang.github.io/images/sunscreen/jigsawIntro.png?raw=true" alt="Photo"/>  
 </p>
+
+## How learners Cooperate:
+This tool enable learners to learn the material in a Jigsaw method, but instead of in person, they will be able to learn it cooperatively online. 
+
+The tool was originally designed for large scale use. After registration, learns will be assigned a role and learn in a cooperative way.
+
+## What's so special? 
+1) Learners can get in contact with learners all around the world, since this application/platform can be accessed world-wide.  
+2) The discussion board feature of our tool, enable people to discuss in an asynchorized way.  
+3) Our tool is flexible in that people can log in and out, and their record will be saved by the tool, so that they can resume when they come back.
+
+<p align="center">
+ <img src="http://kexin-yang.github.io/images/sunscreen/handsJigsaw.png?raw=true" alt="Photo" style="width: 100px;"/>  
+</p>
+
+
 ## About our Tool: 
 <p align="center">
  <img src="http://kexin-yang.github.io/images/sunscreen/1first.png?raw=true" alt="Photo" style="width: 650px;"/>  
@@ -81,19 +97,8 @@ The course finished once they are done with the final quiz.
  <img src="http://kexin-yang.github.io/images/sunscreen/13end.png?raw=true" alt="Photo" style="width: 650px;"/>  
 </p>
 
-## How learners Cooperate:
-This tool enable learners to learn the material in a Jigsaw method, but instead of in person, they will be able to learn it cooperatively online. 
 
-The tool was originally designed for large scale use. After registration, learns will be assigned a role and learn in a cooperative way.
 
-## What's so special? 
-1) Learners can get in contact with learners all around the world, since this application/platform can be accessed world-wide.  
-2) The discussion board feature of our tool, enable people to discuss in an asynchorized way.  
-3) This is flexible, in that people can log in and out, and their record will be saved by the tool, so that they can resume when they come back.
-
-<p align="center">
- <img src="http://kexin-yang.github.io/images/sunscreen/handsJigsaw.png?raw=true" alt="Photo" style="width: 100px;"/>  
-</p>
 
 ## Scaffolds for positive interdependence:
 
@@ -101,7 +106,7 @@ Our scaffolds for positive interdependence includes learners will need to count 
 
 ## Scaffolds for individual accountability: 
 
-Our scaffolds for individual accountability is that learners need to count on other learners to get the quiz right since they need others to teach them as well.
+Our scaffolds for individual accountability is that learners need to count on other learners to get the quiz right since they need others to teach them as well.  
 To scaffold them to have individual accountability, we made a window that will pop out before they proceed the final quiz, that ask them to reflect on their behaviors. Specifically, it asks them to reflect whether they have taught their peers, also whether they have make sure they checked their peer’s understanding and made sure they understand. If their answers are no to any of this question, they cannot leave the forum. 
 
 
