@@ -14,7 +14,7 @@ collection: portfolio
 ## Background
 
  <p align="center">
- <img src="https://kexin-yang.github.io/images/RST_tutor/tree.png?raw=true" alt="Photo" style="width: 650px;"/>  
+ <img src="https://kexin-yang.github.io/images/RST_tutor/tree.png?raw=true" alt="Photo"/>  
 </p>
 
 Rhetorical Structure Theory (RST) is a linguistics framework, frequently used in information retrieval area, that focuses on identifying relations between sentences. The initial reason for building this intelligent tutor is to make learning RST more engaging and efficient. RST, while being a useful framework, has very few learning materials other than academic papers or textbook. I spent two whole days reading academic paper trying to learn it, which was unengaging and laborious, then I decided to explore ways to make the RST learning process more effective and interesting.
