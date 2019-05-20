@@ -1,11 +1,13 @@
 ---
-title: "[#Learning Experience Design] Cooperative Learning Experience"
+title: "[Learning Experience Design] Cooperative Learning Tool: Learn with your peer!"
 
 excerpt: "This is a platform where you can learn with your peers in a Jigsaw method.<img src='http://kexin-yang.github.io/images/sunscreen/2login.png?raw=true' alt='Photo' style='width: 650px;'/>"  
 collection: portfolio   
 
 ---
-### \# Learning Experience Design 
+## Category:
+### \# Learning Experience Design   
+### \# Instructional Design 
 
 ## What is Jigsaw method?
 The jigsaw method is a research-based cooperative learning technique, invented in the early 1970s, by Elliot Aronson and his students at the University of Texas and the University of California.
