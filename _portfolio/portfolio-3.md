@@ -15,7 +15,7 @@ A typical Jigsaw Method consists of the following steps:
 <p align="center">
  <img src="http://kexin-yang.github.io/images/sunscreen/jigsawIntro.png?raw=true" alt="Photo"/>  
 </p>
-## Walk Through our Tool: 
+## About our Tool: 
 <p align="center">
  <img src="http://kexin-yang.github.io/images/sunscreen/1first.png?raw=true" alt="Photo" style="width: 650px;"/>  
 </p>
@@ -75,14 +75,18 @@ This tool enable learners to learn the material in a Jigsaw method, but instead 
 
 The tool was originally designed for large scale use. After registration, learns will be assigned a role and learn in a cooperative way.
 
-## Some advantages of this online tool are: 
-1) Learners can get in contact with learners all around the world, since this application/platform can be accessed world-wide.
-2) The discussion board feature of our tool, enable people to discuss in an asynchorized way.
+<p align="center">
+ <img src="http://kexin-yang.github.io/images/sunscreen/jigsawTitle.png?raw=true" alt="Photo" style="width: 650px;"/>  
+</p>
+
+## What's so special? 
+1) Learners can get in contact with learners all around the world, since this application/platform can be accessed world-wide.  
+2) The discussion board feature of our tool, enable people to discuss in an asynchorized way.  
 3) This is flexible, in that people can log in and out, and their record will be saved by the tool, so that they can resume when they come back.
 
-
-## Anticipated behaviors:
-Students will follow the Jigsaw method, first they will watch a video that is common to all of them, that give them an introduction of this topic. Secondly, they will be assigned to a video, which is part of the course, they will watch it on their own. This part of the individual video are adapted from the first projects, which use discovery learning- invent and tell method. Thirdly, they will join an expert group discussion, in which they can clear confusions and check their understanding. They will do a quiz after that and they must get all questions correctly in order to move on. On the fourth step, they will do peer teaching. They teach their peer about the part they learn, and their peer will also teach them. Lastly, here comes the final quiz, in which they will be quizzed on questions both on what they have learnt themselves, and what they have been taught by their peers.
+<p align="center">
+ <img src="http://kexin-yang.github.io/images/sunscreen/handsJigsaw.png?raw=true" alt="Photo" style="width: 650px;"/>  
+</p>
 
 ## Scaffolds for positive interdependence:
 
@@ -94,10 +98,23 @@ Our scaffolds for individual accountability is that learners need to count on ot
 To scaffold them to have individual accountability, we made a window that will pop out before they proceed the final quiz, that ask them to reflect on their behaviors. Specifically, it asks them to reflect whether they have taught their peers, also whether they have make sure they checked their peer’s understanding and made sure they understand. If their answers are no to any of this question, they cannot leave the forum. 
 
 
+## Anticipated behaviors:
+Students will follow the Jigsaw method, first they will watch a video that is common to all of them, that give them an introduction of this topic.   
+
+Secondly, they will be assigned to a video, which is part of the course, they will watch it on their own. This part of the individual video are adapted from the first projects, which use discovery learning- invent and tell method.   
+
+Thirdly, they will join an expert group discussion, in which they can clear confusions and check their understanding. They will do a quiz after that and they must get all questions correctly in order to move on. On the fourth step, they will do peer teaching. They teach their peer about the part they learn, and their peer will also teach them.   
+
+Lastly, here comes the final quiz, in which they will be quizzed on questions both on what they have learnt themselves, and what they have been taught by their peers.
+
+
 [[Check out our tool here!]](https://radiant-basin-41966.herokuapp.com/)
 
 
 
+<p align="center">
+ <img src="http://kexin-yang.github.io/images/sunscreen/jigsawDinosaur.png?raw=true" alt="Photo" style="width: 650px;"/>  
+</p>
 
 
 
