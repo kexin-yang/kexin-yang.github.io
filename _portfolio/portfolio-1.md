@@ -1,10 +1,8 @@
 ---
-title: " Intelligent Tutoring System for Practical Rhetorical Structure Theory" 
-excerpt: "# Educational Game
+title: " Educational Game for Early Literacy -Sprinkle" 
+excerpt: "# Natural Language Processing # Speech Recognition # Python Programming # Educational Game Design
 
-This is a intelligent tutoring system I built, targeting at teaching Rhetorical Structural Theory, a linguistics framework frequently used in information retrieval area.<br/><img src='https://kexin-yang.github.io/images/RST_tutor/RST_tutor3-1.png?raw=true' alt='Photo' style='width: 650px;'/>"  
-collection: portfolio  
---- 
+This is an educational game, aiming at improving kids' early literacy, with gamified activities including pronouncing words and sorting sentences.
 
  
 **Duration**: 8 weeks, Oct 16th, 2018 - Dec.16th, 2018 
