@@ -57,10 +57,10 @@ The interface design was coded using the Python module tkinter, with some extern
 I made use of the speech_recognition library in Python to hear words spoken and transcribe that into text, then I function to check if the word heard is the same as the word currently exist. 
 
 
-### Modules and Libraries Used
-#### Graphic module:
+## Modules and Libraries Used
+### Graphic module:
 Tkinter
-#### Python Libraries:
+### Python Libraries:
 Speech_recognition  
 Natural Language Toolkit (NLTK)  
 numpy  
@@ -68,8 +68,10 @@ PIL(ImageTk, Image)
 playsound  
 random
 
+<p align="center">
+ <img src="https://kexin-yang.github.io/images/Sprinkle/end.jpeg?raw=true" alt="Photo" style="width: 150px;"/>  
+</p>
 
-  
   
 
 
