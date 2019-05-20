@@ -15,37 +15,18 @@ collection: portfolio
 [![SPPPPPRINKLE](https://kexin-yang.github.io/images/Sprinkle/1playVideo.png?raw=true)](https://youtu.be/rKN3eWOOxNw "CameraMaster")
 
 
-## Technical Description
-To add on to the algorhymic complexity, instead of using existing NLTK grammar, I defined my own grammar that can handle two sentence structures (1) Subject+Object+Verb, (2) Subject+Object+Verb + Propositional Phrases. 
-I made use of the recursive parser in the NLTK to parse the sentence.
 
-
-The interface design was done using the Python module tkinter, with some external package including PIL to insert background image.  
-
-
-I made use of the speech_recogntion library in Python to correctly 
-### Graphic module:
-Tkinter
-
-### Python Libraries:
-Speech_recognition
-Natural Language Toolkit (NLTK)
-numpy
-PIL
-playsound
-
-
-#Speak Game
+## Speak Game
 
 When a kid correctly pronounce the word in the bubble, the bubble will disappear and the kid will gain 3 points.
  <p align="center">
  <img src="https://kexin-yang.github.io/images/Sprinkle/2.png?raw=true" alt="Photo" style="width: 650px;"/>  
 </p>
 
-#Sort Game
+## Sort Game
 
 ### Level 1
-Level 1 is the simplest sentence structure
+Level 1 assesses the simplest sentence structure: Subject+Object+Verb
 When a kid correctly sort a sentence into grammatical order, the kid will gain 5 points.
 
  <p align="center">
@@ -54,11 +35,40 @@ When a kid correctly sort a sentence into grammatical order, the kid will gain 5
 
 
 ### Level 2
+Level 1 assesses the harder sentence structure: Subject+Object+Verb+Prepositional Phrases (PP)
  <p align="center">
  <img src="https://kexin-yang.github.io/images/Sprinkle/4.png?raw=true" alt="Photo" style="width: 650px;"/>  
 </p>
 
-  
+
+
+## Development Process
+
+### Natural Language Toolkit and Grammar Writing
+To add on to the algorhymic complexity, instead of using existing NLTK grammar, I defined my own grammar that can handle two sentence structures (1) Subject+Object+Verb, (2) Subject+Object+Verb + Proeositional Phrases. 
+I made use of the recursive parser in the NLTK to parse the sentence.
+
+
+
+### Animation and User-Interface 
+The interface design was coded using the Python module tkinter, with some external package including PIL to insert background image.  
+
+### Speech Recognition Function
+I made use of the speech_recognition library in Python to hear words spoken and transcribe that into text, then I function to check if the word heard is the same as the word currently exist. 
+
+
+### Modules and Libraries Used
+#### Graphic module:
+Tkinter
+#### Python Libraries:
+Speech_recognition  
+Natural Language Toolkit (NLTK)  
+numpy  
+PIL(ImageTk, Image)  
+playsound  
+random
+
+
   
   
 
