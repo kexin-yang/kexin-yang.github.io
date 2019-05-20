@@ -16,7 +16,7 @@ The jigsaw method is a research-based cooperative learning technique, invented i
 A typical Jigsaw Method consists of the following steps:  
 
 <p align="center">
- <img src="http://kexin-yang.github.io/images/sunscreen/jigsawIntro.png?raw=true" alt="Photo" style="width: 850px;"/>  
+ <img src="http://kexin-yang.github.io/images/sunscreen/jigsawIntro.png?raw=true" alt="Photo"/>  
 </p>
 ## Walk Through our Tool: 
 <p align="center">
