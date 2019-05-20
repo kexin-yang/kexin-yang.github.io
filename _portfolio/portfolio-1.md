@@ -1,17 +1,18 @@
 ---
-title: "[Independent Game Development] Educational Game for Early Literacy -Sprinkle" 
+title: "[Independent Game Development]  
+Educational Game for Early Literacy -Sprinkle" 
 excerpt: "This is an educational game, aiming at improving kids' early literacy, with gamified activities including pronouncing words and sorting sentences.<br/><img src='https://kexin-yang.github.io/images/Sprinkle/1.png?raw=true' alt='Photo' style='width: 650px;'/>"  
 collection: portfolio  
 --- 
 
- 
-**Duration**: 8 weeks, Oct 16th, 2018 - Dec.16th, 2018 
-
-**Team**:Kexin Yang, Pooja Casula, Mingtong Zhang
+**Duration**: 4 weeks, Apr. 15th, 2019 - May.15th, 2019 
+**Designer and Developer**: Kexin Yang
 
 
+## Video
 
-## Background
+**Youtube**
+{
 
 Rhetorical Structure Theory (RST) is a linguistics framework, frequently used in information retrieval area, that focuses on identifying relations between sentences. The initial reason for building this intelligent tutor is to make learning RST more engaging and efficient. RST, while being a useful framework, has very few learning materials other than academic papers or textbook. I spent two whole days reading academic paper trying to learn it, which was unengaging and laborious, then I decided to explore ways to make the RST learning process more effective and interesting.
    <p align="center">
