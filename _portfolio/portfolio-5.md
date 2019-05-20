@@ -1,6 +1,6 @@
 ---
 title: "Intelligent Tutoring System in STEM Area"
-excerpt: "**#Intelligent Tutoring Systems Development**, **STEM Education**
+excerpt: "**#Intelligent Tutoring Systems Development**, **#STEM Education**
 <br>
 <br>Here are some intelligent tutoring systems that I have built in STEM area,  under help of Dr. Aleven and Jonathan in Carnegie Mellon University.<br/><img src='https://kexin-yang.github.io/images/STEM_tutor/Tutor2_Interface.png?raw=true' alt='Photo' style='width: 650px;'/>"
 collection: portfolio  
