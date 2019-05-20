@@ -1,8 +1,7 @@
 ---
 title: " Educational Game for Early Literacy -Sprinkle" 
-excerpt: "# Natural Language Processing # Speech Recognition # Python Programming # Educational Game Design
-
-This is an educational game, aiming at improving kids' early literacy, with gamified activities including pronouncing words and sorting sentences.
+excerpt: "# Natural Language Processing # Speech Recognition # Python Programming # Educational Game Design  
+### This is an educational game, aiming at improving kids' early literacy, with gamified activities including pronouncing words and sorting sentences."
 
  
 **Duration**: 8 weeks, Oct 16th, 2018 - Dec.16th, 2018 
