@@ -1,8 +1,8 @@
 ---
 title: "Educational Game for Early Literacy -Sprinkle" 
-excerpt: "#Independent Game Development, #Natural Language Processing, #Speech Recognition, #Python Programming
+excerpt: "#Independent Game Development, #Natural Language Processing,<br> #Speech Recognition, #Python Programming
 
-<br/>This is an educational game, aiming at improving kids' early literacy, with gamified activities including pronouncing words and sorting sentences.<br/><img src='https://kexin-yang.github.io/images/Sprinkle/1.png?raw=true' alt='Photo' style='width: 650px;'/>"  
+<br><br>This is an educational game, aiming at improving kids' early literacy, with gamified activities including pronouncing words and sorting sentences.<br/><img src='https://kexin-yang.github.io/images/Sprinkle/1.png?raw=true' alt='Photo' style='width: 650px;'/>"  
 collection: portfolio  
 --- 
 
@@ -12,7 +12,13 @@ collection: portfolio
 
 ## Video
 
-<iframe height=450 width=500 src="https://youtu.be/rKN3eWOOxNw" frameborder=0 allowfullscreen></iframe>
+<video id="video" controls="" preload="none" poster="http://media.w3.org/2010/05/sintel/poster.png">
+      <source id="mp4" src="http://media.w3.org/2010/05/sintel/trailer.mp4" type="video/mp4">
+      <source id="webm" src="http://media.w3.org/2010/05/sintel/trailer.webm" type="video/webm">
+      <source id="ogv" src="http://media.w3.org/2010/05/sintel/trailer.ogv" type="video/ogg">
+      <p>Your user agent does not support the HTML5 Video element.</p>
+    </video>
+
 
 Rhetorical Structure Theory (RST) is a linguistics framework, frequently used in information retrieval area, that focuses on identifying relations between sentences. The initial reason for building this intelligent tutor is to make learning RST more engaging and efficient. RST, while being a useful framework, has very few learning materials other than academic papers or textbook. I spent two whole days reading academic paper trying to learn it, which was unengaging and laborious, then I decided to explore ways to make the RST learning process more effective and interesting.
    <p align="center">
