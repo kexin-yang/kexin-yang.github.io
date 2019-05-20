@@ -2,7 +2,7 @@
 title: "Educational Game for Early Literacy -Sprinkle" 
 excerpt: "**#Independent Game Development**, **#Natural Language Processing**,<br> **#Speech Recognition**, **#Python Programming**
 
-<br><br>This is an educational game, aiming at improving kids' early literacy, with gamified activities including pronouncing words and sorting sentences.<br/><img src='https://kexin-yang.github.io/images/Sprinkle/1.png?raw=true' alt='Photo' style='width: 650px;'/>"  
+<br><br>This is an educational game I developed myself, aiming at improving kids' early literacy, with gamified activities including pronouncing words and sorting sentences.<br/><img src='https://kexin-yang.github.io/images/Sprinkle/1.png?raw=true' alt='Photo' style='width: 650px;'/>"  
 collection: portfolio  
 --- 
 
@@ -12,11 +12,18 @@ collection: portfolio
 
 ## Video demo of Sprinkle
 
-[![SPPPPPRINKLE](https://kexin-yang.github.io/images/Sprinkle/1.png?raw=true)](https://youtu.be/rKN3eWOOxNw "CameraMaster")
+[![SPPPPPRINKLE](https://kexin-yang.github.io/images/Sprinkle/1playVideo.png?raw=true)](https://youtu.be/rKN3eWOOxNw "CameraMaster")
 
 
-##Technical Description
+## Technical Description
+To add on to the algorhymic complexity, instead of using existing NLTK grammar, I defined my own grammar that can handle two sentence structures (1) Subject+Object+Verb, (2) Subject+Object+Verb + Propositional Phrases. 
+I made use of the recursive parser in the NLTK to parse the sentence.
 
+
+The interface design was done using the Python module tkinter, with some external package including PIL to insert background image.  
+
+
+I made use of the speech_recogntion library in Python to correctly 
 ### Graphic module:
 Tkinter
 
@@ -29,6 +36,8 @@ playsound
 
 
 #Speak Game
+
+When a kid correctly pronounce the word in the bubble, the bubble will disappear and the kid will gain 3 points.
  <p align="center">
  <img src="https://kexin-yang.github.io/images/Sprinkle/2.png?raw=true" alt="Photo" style="width: 650px;"/>  
 </p>
@@ -36,6 +45,9 @@ playsound
 #Sort Game
 
 ### Level 1
+Level 1 is the simplest sentence structure
+When a kid correctly sort a sentence into grammatical order, the kid will gain 5 points.
+
  <p align="center">
  <img src="https://kexin-yang.github.io/images/Sprinkle/3.png?raw=true" alt="Photo" style="width: 650px;"/>  
 </p>
