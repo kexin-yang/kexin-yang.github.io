@@ -46,16 +46,15 @@ When a kid correctly sort a sentence into grammatical order, the kid will gain 1
 ## Development Process
 
 ### Natural Language Toolkit and Grammar Writing
-To add on to the algorhymic complexity, instead of using existing NLTK grammar, I defined my own grammar that can handle two sentence structures (1) Subject+Object+Verb, (2) Subject+Object+Verb + Proeositional Phrases. 
-I made use of the recursive parser in the NLTK to parse the sentence.
-
+To add on to the algorithmic complexity, instead of using existing NLTK grammar, I defined my own grammar that can handle two sentence structures (1) Subject+Object+Verb, (2) Subject+Object+Verb + Proeositional Phrases.  
+I made use of the recursive parser in the NLTK to recursively parse the sentence, which will return True or False, depending on whether the sentence entered is in accordance with the grammar I defined.
 
 
 ### Animation and User-Interface 
 The interface design was coded using the Python module tkinter, with some external package including PIL to insert background image.  
 
 ### Speech Recognition Function
-I made use of the speech_recognition library in Python to hear words spoken and transcribe that into text, then I function to check if the word heard is the same as the word currently exist. 
+I made use of the speech_recognition library in Python to hear words spoken and transcribe that into text, then I programmed a function to check if the word heard is the same as the word currently exist. 
 
 
 ## Modules and Libraries Used
