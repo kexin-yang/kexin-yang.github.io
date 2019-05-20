@@ -76,7 +76,7 @@ This tool enable learners to learn the material in a Jigsaw method, but instead 
 The tool was originally designed for large scale use. After registration, learns will be assigned a role and learn in a cooperative way.
 
 <p align="center">
- <img src="http://kexin-yang.github.io/images/sunscreen/jigsawTitle.jpg?raw=true" alt="Photo" style="width: 150px;"/>  
+ <img src="http://kexin-yang.github.io/images/sunscreen/jigsawTitle.jpeg?raw=true" alt="Photo" style="width: 150px;"/>  
 </p>
 
 ## What's so special? 
