@@ -13,11 +13,6 @@ collection: portfolio
 \# Instructional Design  
 
 
-
-<p align="center">
- <img src="http://kexin-yang.github.io/images/sunscreen/jigsawTitle.jpeg?raw=true" alt="Photo" style="width: 80px;"/>  
-</p>
-
 ## What is Jigsaw method?
 The jigsaw method is a research-based cooperative learning technique, invented in the early 1970s, by Elliot Aronson and his students at the University of Texas and the University of California.
 
