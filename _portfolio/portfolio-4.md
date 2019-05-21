@@ -8,7 +8,7 @@ This is a educational data visualization project, in which we explored different
 collection: portfolio  
 ---
   
-\#Data Visualization (Tableau and D3), /#Educational Data mining<br>  
+\#Data Visualization (Tableau and D3), \#Educational Data mining<br>  
 \#Learning Analytics
 
 
