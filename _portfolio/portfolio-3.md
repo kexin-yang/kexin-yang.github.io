@@ -9,9 +9,9 @@ collection: portfolio
 
 ---
   
-\# Learning Experience Design   
-\# Instructional Design  
-
+**#Learning Experience Design**   
+**#Instructional Design**   
+**#Cooperative Learning** 
 
 ## What is Jigsaw method?
 The jigsaw method is a research-based cooperative learning technique, invented in the early 1970s, by Elliot Aronson and his students at the University of Texas and the University of California.

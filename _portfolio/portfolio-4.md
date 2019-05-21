@@ -8,8 +8,10 @@ This is a educational data visualization project, in which we explored different
 collection: portfolio  
 ---
   
-\# Educational data mining   
-\# Data Visualization 
+**#Data Visualization (Tableau and D3)**  
+**#Educational Data mining**  
+**#Learning Analytics**
+
 
 
 This project involve educational data mining and visualization. In this project advised by Dr. Adam Perer from Human-Computer Interaction Institute in CMU, I explored ways to visualize learning pathways of students who are enrolled in a blended course Principle of Computing in Python. 
