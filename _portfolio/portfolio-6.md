@@ -8,9 +8,8 @@ excerpt: "
 collection: portfolio  
 ---
     
-**#Instructional Design**  
-**#Teaching English Writing**  
-**#K-12 Education**
+/#Instructional Design, /#Teaching English Writing<br> 
+/#K-12 Education
 
 In this project, I applied the backward design methodology and designed a 10-hour course in argumentative writing for Grade 11-12. The development of this course design are divided into five phases, namely, learners in context, Goals, Assessment, Instruction and Research& Evaluation.   
 

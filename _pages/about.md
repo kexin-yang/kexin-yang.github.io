@@ -12,8 +12,9 @@ redirect_from:
 [Carolyn Rose](http://www.cs.cmu.edu/~cprose/).  
 
   I work closely in research with Prof. [Vincent Aleven](https://hcii.cmu.edu/people/vincent-aleven) from HCII CMU, Prof. [Joseph Jay Williams](http://www.josephjaywilliams.com) from Computer Science department, University of Toronto, and the amazing Ph.D. students and post-doc in CMU HCII and LTI.
-* I received my Bachelor's Degree in [Beijing Normal University](https://english.bnu.edu.cn), majoring in English language literature, with a focus on language education. I have various experience, on both research and teaching sides, of English as a Second Language (ESL) education and STEM education (particularly, math).
+* I received my Bachelor's Degree in [Beijing Normal University](https://english.bnu.edu.cn), majoring in English language literature, with a focus on language education. I have various experience on both research and teaching sides, of English as a Second Language (ESL) education and STEM education (particularly, math).
 * I am interested in using**learning sciences theory** and**educational technology**, including **intelligent tutoring systems** and **learning analytics**, to make education easy, effective and equal.  
+<br>
 
 News
 ===

@@ -5,10 +5,8 @@ excerpt: "**#Independent Game Development**, **#Natural Language Processing**,<b
 <br><br>This is an educational game I developed myself, aiming at improving kids' early literacy, with gamified activities including pronouncing words and sorting sentences.<br/><img src='https://kexin-yang.github.io/images/Sprinkle/1.png?raw=true' alt='Photo' style='width: 650px;'/>"  
 collection: portfolio  
 --- 
-**#Independent Game Development**   
-**#Natural Language Processing**<br> 
-**#Speech Recognition**   
-**#Python Programming**  
+/#Independent Game Development,/#Natural Language Processing<br> 
+/#Speech Recognition, /#Python Programming
 
 
 **Duration**: 4 weeks, Apr. 15th, 2019 - May.15th, 2019 <br>
