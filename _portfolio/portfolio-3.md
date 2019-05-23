@@ -1,7 +1,7 @@
 ---
 title: "Cooperative Learning Tool: Learn with your peer!"
 
-excerpt: "**#Learning Experience Design**, **#Instructional Design**, **#Cooperative Learning** 
+excerpt: "**#Learning Experience Design**, **#Instructional Design**, <br>**#Cooperative Learning**,**#Peer Learning**  
 <br>
 <br>
 This is a platform where you can learn with your peers in a Jigsaw method.<img src='http://kexin-yang.github.io/images/sunscreen/2login.png?raw=true' alt='Photo' style='width: 650px;'/>"  
@@ -9,8 +9,11 @@ collection: portfolio
 
 ---
   
-\#Learning Experience Design, \#Instructional Design, \#Cooperative Learning
+\#Learning Experience Design, \#Instructional Design, <br> \#Cooperative Learning, \#Peer Learning
 
+<p align="center">
+ <img src="http://kexin-yang.github.io/images/sunscreen/handsJigsaw.png?raw=true" alt="Photo" style="width: 100px;"/>  
+</p>
 ## What is Jigsaw method?
 The jigsaw method is a research-based cooperative learning technique, invented in the early 1970s, by Elliot Aronson and his students at the University of Texas and the University of California.
 
@@ -30,9 +33,6 @@ The tool was originally designed for large scale use. After registration, learns
 2) The discussion board feature of our tool, enable people to discuss in an asynchorized way.  
 3) Our tool is flexible in that people can log in and out, and their record will be saved by the tool, so that they can resume when they come back.
 
-<p align="center">
- <img src="http://kexin-yang.github.io/images/sunscreen/handsJigsaw.png?raw=true" alt="Photo" style="width: 100px;"/>  
-</p>
 
 
 ## About our Tool: 
