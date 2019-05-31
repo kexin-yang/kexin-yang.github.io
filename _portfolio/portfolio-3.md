@@ -26,12 +26,12 @@ A typical Jigsaw Method consists of the following steps:
 ## How learners Cooperate:
 This tool enable learners to learn the material in a Jigsaw method, but instead of in person, they will be able to learn it cooperatively online. 
 
-The tool was originally designed for large scale use. After registration, learns will be assigned a role and learn in a cooperative way.
+The tool was originally designed for **large scale use**. After registration, learns will be assigned a role and learn in a cooperative way.
 
 ## What's so special? 
-1) Learners can get in contact with learners all around the world, since this application/platform can be accessed world-wide.  
-2) The discussion board feature of our tool, enable people to discuss in an asynchorized way.  
-3) Our tool is flexible in that people can log in and out, and their record will be saved by the tool, so that they can resume when they come back.
+1) Learners can get in contact with **learners all around the world**, since this application/platform can be accessed world-wide.  
+2) The discussion board feature of this tool, enable people to discuss in an **asynchorized** way.  
+3) Our tool is flexible and has memory of users' history, so that they can **resume when they come back**.
 
 
 
