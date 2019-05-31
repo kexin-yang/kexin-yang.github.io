@@ -19,7 +19,8 @@ collection: portfolio
  <img src="https://kexin-yang.github.io/images/RST_tutor/tree.png?raw=true" alt="Photo"/>  
 </p>
 
-Rhetorical Structure Theory (RST) is a linguistics framework, frequently used in information retrieval area, that focuses on identifying relations between sentences. The initial reason for building this intelligent tutor is to make learning RST more engaging and efficient. RST, while being a useful framework, has very few learning materials other than academic papers or textbook. I spent two whole days reading academic paper trying to learn it, which was unengaging and laborious, then I decided to explore ways to make the RST learning process more effective and interesting.
+Rhetorical Structure Theory (RST) is a linguistics framework, frequently used in information retrieval area, that focuses on identifying relations between sentences. The initial reason for building this intelligent tutor is to make learning RST more engaging and efficient. <br>
+RST, while being a useful framework that can parse text structure in a genre-free way, has very few learning materials other than academic papers or textbook. I learned this framework by reading academic paper, which was unengaging and laborious, then I decided to explore ways to make the RST learning process more effective and interesting.
    <p align="center">
  <img src="https://kexin-yang.github.io/images/RST_tutor/allRelations.png?raw=true" alt="Photo" style="width: 650px;"/>  
 </p>
@@ -31,9 +32,9 @@ Secondly, the problems are presented **from easy to hard**, and give adaptive fe
 Thirdly, it is held on a public server, Tutorshop, which enable its **free accessibility** by anyone interested in learning or teaching RST.  
 
 ## Cognitive Task Analysis (CTA) method: 
-**Think aloud** with four different difficulty factors
+We conducted **Think aloud** with four different difficulty factors, on two groups of learners- RST novices and people who have experience with RST (e.g. people who study NLP or linguistics).
 
-For now we went through three major iterations of our tutor interfaces, and we continue to improve this tutor with more iterations.  
+For now we went through three major iterations of the tutoring system. 
 
 ## Low-fi Prototype 
 
@@ -55,9 +56,9 @@ For now we went through three major iterations of our tutor interfaces, and we c
     
 ## Project Report:   
   Here is the final report for the intelligent tutoring system, which includes our template for CTA (Think Aloud), CTA transcription, Knowledge Component (KC) model and production rules.
-  [[Click here to see our final report]](http://kexin-yang.github.io/files/RSTFinal_Report.pdf)
+  [[Click here to see the documentation]](http://kexin-yang.github.io/files/RSTFinal_Report.pdf)
   
-## How You can Play with this Tutor:
+## Try out this Tutoring System:
 
 1. Go to Tutor shop:
 [[Tutorshop Website]](https://school.tutorshop.web.cmu.edu) 
