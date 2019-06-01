@@ -10,24 +10,13 @@ redirect_from:
 
 * I am a graduate student at the School of Computer Sciences in Carnegie Mellon University. I major in [Educational Technology and Applied Learning Sciences](https://metals.hcii.cmu.edu) at [Human-Computer Interaction Institute](https://hcii.cmu.edu).
 * My academic advisor is  Prof. [Carolyn Rose](http://www.cs.cmu.edu/~cprose/) from Langauge Technology Institute (LTI)  in CMU.  
-<br>
 I also work closely in research with Prof. [Vincent Aleven](https://hcii.cmu.edu/people/vincent-aleven) from HCII CMU, Prof. [Joseph Jay Williams](http://www.josephjaywilliams.com) from Computer Science department, University of Toronto, and the amazing Ph.D. students and post-doc in CMU HCII and LTI.
 * I received my Bachelor's Degree in [Beijing Normal University](https://english.bnu.edu.cn), majoring in English language literature, with a focus on language education. I have various experience on both research and teaching sides, of English as a Second Language (ESL) education and STEM education (particularly, math).
 * **Research Interest**<br>
     
-    My research is focus on learning science and technology, language technology in education, and HCI. 
-  
-  * Learning Sciences and Technology
-  
-    I am interested in using learning sciences and educational technology, including intelligent tutoring systems(ITS), language technology and learning analytics, to make education easy and effective.  
+    My research is focus on **learning science and technology**, including intelligent tutoring systems(ITS), language technology and learning analytics, to make education easy and effective.  
     
-    Specifically, some topics I worked on includes automatic structural feedback system for students writing,  
-  
-  * Teacher-Sourcing and Crowdsourcing
-   
-    I also study mechanism of crowdsourcing and teacher-sourcing, and possibly integration of both,  to improve the ITS development and design process, and increase teachers' configurability.
-  
-<br>
+   I also study mechanism of **crowdsourcing** and teacher-sourcing, to improve the ITS development and design process, and increase teachers' configurability.
 
 News
 ===
