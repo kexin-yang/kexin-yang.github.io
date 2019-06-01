@@ -11,8 +11,10 @@ redirect_from:
 * I am a graduate student at the School of Computer Sciences in Carnegie Mellon University. I major in [Educational Technology and Applied Learning Sciences](https://metals.hcii.cmu.edu) at [Human-Computer Interaction Institute](https://hcii.cmu.edu).
 * My academic advisor is  Prof. [Carolyn Rose](http://www.cs.cmu.edu/~cprose/) from Langauge Technology Institute (LTI)  in CMU.  
 I also work closely in research with Prof. [Vincent Aleven](https://hcii.cmu.edu/people/vincent-aleven) from HCII CMU, Prof. [Joseph Jay Williams](http://www.josephjaywilliams.com) from Computer Science department, University of Toronto, and the amazing Ph.D. students and post-doc in CMU HCII and LTI.
-* I received my Bachelor's Degree in [Beijing Normal University](https://english.bnu.edu.cn), majoring in English language literature, with a focus on language education. I have various experience on both research and teaching sides, of English as a Second Language (ESL) education and STEM education (particularly, math).
-* **Research Interest**
+* I received my Bachelor's Degree in [Beijing Normal University](https://english.bnu.edu.cn), majoring in English language literature, with a focus on language education.   
+  In undergraduate years, I have various experience on both research and teaching sides, of English as a Second Language (ESL) education and STEM education (particularly, math).
+
+  **Research Interest**
 
    My research is focus on **learning science and technology**, including intelligent tutoring systems(ITS), language technology and learning analytics, to make education easy and effective.  
     
