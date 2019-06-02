@@ -5,7 +5,7 @@ permalink: /contact/
 author_profile: true
 ---
 <p align="center">
-  <img src="https://kexin-yang.github.io/files/kexin.jpg?raw=true" alt="Photo" style="width: 350px;"/>
+  <img src="https://kexin-yang.github.io/images/professionalPhoto.jpg?raw=true" alt="Photo" style="width: 350px;"/>
 </p>
 
 **Address:**<br>

@@ -14,7 +14,7 @@ I also work closely in research with Prof. [Vincent Aleven](https://hcii.cmu.edu
 
   **Research Interest**
 
-   My research is focus on **learning science and technology**, including intelligent tutoring systems(ITS), language technology and learning analytics, to make education easy and effective.  
+   My research focus on **learning science and technology**, including intelligent tutoring systems(ITS), language technology and learning analytics, to make education easy and effective.  
     
    I also study mechanism of **crowdsourcing and teacher-sourcing**, to improve the ITS development and design process, and increase teachers' configurability.
 
