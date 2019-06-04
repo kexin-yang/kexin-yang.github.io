@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-* I am a graduate student at the School of Computer Sciences in Carnegie Mellon University. I major in [Educational Technology and Applied Learning Sciences](https://metals.hcii.cmu.edu) at [Human-Computer Interaction Institute](https://hcii.cmu.edu).
+* Hi! I am a graduate student at the School of Computer Sciences in Carnegie Mellon University. I major in [Educational Technology and Applied Learning Sciences](https://metals.hcii.cmu.edu) at [Human-Computer Interaction Institute](https://hcii.cmu.edu).
 * My academic advisor is  Prof. [Carolyn Rose](http://www.cs.cmu.edu/~cprose/) from Langauge Technology Institute (LTI)  in CMU.  
 I also work closely in research with Prof. [Vincent Aleven](https://hcii.cmu.edu/people/vincent-aleven) from HCII CMU, Prof. [Joseph Jay Williams](http://www.josephjaywilliams.com) from Computer Science department, University of Toronto, and the amazing Ph.D. students and post-doc in CMU HCII and LTI.
 
