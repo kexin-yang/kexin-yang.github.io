@@ -2,14 +2,16 @@
 title: "Applying Rhetorical Structure Theory to Student Essays for Providing Automated Writing Feedback"
 collection: publications
 permalink: /publications/2019-NAACL
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: '
+We present a package of annotation resources, including annotation guideline, flowchart, and an Intelligent Tutoring System for training hu- man annotators. These resources can be used to apply Rhetorical Structure Theory (RST) to essays written by students in K-12 schools. Furthermore, we highlight the great potential of using RST to provide automated feedback for improving writing quality across genres.'
 date: 2019-06-07
 venue: 'NAACL'
 paperurl: 'http://kexin-yang.github.io/files/NAACL2019Paper.pdf'
-citation: 'Shiyan Jiang, Kexin Yang, Chandrakumari Suvarna, Pooja Casula, Mingtong Zhang, Carolyn Penstein Rose ́. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'Shiyan Jiang, **Kexin Yang**, Chandrakumari Suvarna, Pooja Casula, Mingtong Zhang, Carolyn Penstein Rose. (2019). &quot;Applying Rhetorical Structure Theory to Student Essays for Providing Automated Writing Feedback.&quot; <i>NAACL-DISRPT workshop</i>.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
 
-[Paper PDF](http://kexin-yang.github.io/files/NAACL2019Paper.pdf)
-
-Recommended citation: Your Name, You. (2019). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+We present a package of annotation resources, including annotation guideline, flowchart, and an Intelligent Tutoring System for training hu- man annotators. These resources can be used to apply Rhetorical Structure Theory (RST) to essays written by students in K-12 schools. Furthermore, we highlight the great potential of using RST to provide automated feedback for improving writing quality across genres.
+[View Paper](http://kexin-yang.github.io/files/NAACL2019Paper.pdf)
+<!--
+Recommended citation: Shiyan Jiang, **Kexin Yang**, Chandrakumari Suvarna, Pooja Casula, Mingtong Zhang, Carolyn Penstein Rose. (2019). &quot;Applying Rhetorical Structure Theory to Student Essays for Providing Automated Writing Feedback.&quot; <i>NAACL</i>.
+-->
