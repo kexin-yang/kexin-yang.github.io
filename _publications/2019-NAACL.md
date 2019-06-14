@@ -8,5 +8,5 @@ citation: 'Shiyan Jiang, <b>Kexin Yang</b>, Chandrakumari Suvarna, Pooja Casula,
 ---
 [[PDF]](http://kexin-yang.github.io/files/NAACL2019Paper.pdf)
 ## Abstract
-We present a package of annotation resources, including annotation guideline, flowchart, and an Intelligent Tutoring System for training hu- man annotators. These resources can be used to apply Rhetorical Structure Theory (RST) to essays written by students in K-12 schools. Furthermore, we highlight the great potential of using RST to provide automated feedback for improving writing quality across genres.
+We present a package of annotation resources, including annotation guideline, flowchart, and an Intelligent Tutoring System for training human annotators. These resources can be used to apply Rhetorical Structure Theory (RST) to essays written by students in K-12 schools. Furthermore, we highlight the great potential of using RST to provide automated feedback for improving writing quality across genres.
 
