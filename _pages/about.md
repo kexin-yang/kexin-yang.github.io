@@ -24,8 +24,8 @@ I also work closely in research with Prof. [Vincent Aleven](https://hcii.cmu.edu
 News
 ===
 
-[<b>June 2-7,2019</b>] I will be attending the NAACL-HLT 2019 to present our paper on automatic structural feedback at DISRPT workshop. [[Paper]](https://www.aclweb.org/anthology/W19-2720)[[Slides]](http://kexin-yang.github.io/files/Slides-NAACL.pdf)
+[<b>June 2-7,2019</b>] I will be attending the NAACL-HLT 2019 to present our paper on automatic structural feedback at DISRPT workshop. [[Paper]](https://www.aclweb.org/anthology/W19-2720)[[Slides]](http://kexin-yang.github.io/files/slides_NAACL_ppt_0603.pdf)
 
-[<b>March 28,2019</b>] Our paper "Applying Rhetorical Structure Theory to Student Essays for Providing Automated Writing Feedback" was accepted to NAACL workshop 2019.
+[<b>March 28,2019</b>] Our paper "Applying Rhetorical Structure Theory to Student Essays for Providing Automated Writing Feedback" was accepted to NAACL-HLT 2019 DISRPT workshop.
 
 [<b>December 21, 2018 </b>] I have ended my fall semester at Carnegie Mellon University with good grades, please view it [[here]](http://kexin-yang.github.io/files/CMU_transcript.pdf).
