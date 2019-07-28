@@ -69,7 +69,11 @@ For now we went through three major iterations of the tutoring system.
     **Password**: rst  
 
 3. Click **"Run Problem Set"** to start playing with the tutor.
-  
+
+  ## Video demo of Sprinkle
+
+[![RSTtutoringSystem](https://kexin-yang.github.io/images/RST_tutor/RST_tutor3-1.png?raw=true)](https://youtu.be/xWnZbm3mYys "CameraMaster")
+
   
   
 
