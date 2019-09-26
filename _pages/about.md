@@ -23,7 +23,7 @@ I also work closely in research with Prof. [Vincent Aleven](https://hcii.cmu.edu
 
 News
 ===
-[<b>Sep.3rd, 2019] I joined the HCI Lab in University of Waterloo, working with [Prof. Edith Law](http://edithlaw.ca/).
+[<b>Sep.3rd, 2019</b>] I joined the HCI Lab in University of Waterloo, working with [Prof. Edith Law](http://edithlaw.ca/).
 
 [<b>June 2-7,2019</b>] I attended the NAACL-HLT 2019 to present our paper on automatic structural feedback at DISRPT workshop. [[Paper]](https://www.aclweb.org/anthology/W19-2720)[[Slides]](http://kexin-yang.github.io/files/slides_NAACL_ppt_0603.pdf)
 
