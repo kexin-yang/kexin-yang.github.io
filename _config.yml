@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Kexin (Bella) Yang"
 title_separator          : "-"
 name                     : &name "Kexin Yang"
-description              : &description "METALS student, Human-Computer Interaction Institute, Carnegie Mellon University"
+description              : &description "Grad Student in HCI, University of Waterloo & Carnegie Mellon University"
 url                      : https://kexin-yang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "kexin-yang/kexin-yang.github.io"
@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Kexin Yang"
   avatar           : "kexin-head.png"
-  bio              : "METALS student, HCI Institute, Carnegie Mellon University"
+  bio              : "Grad Student in HCI, University of Waterloo & Carnegie Mellon University"
   location         : "Pittsburgh, Pennsylvania"
   employer         :
-  googlescholar    :
-  email            : "kexiny@cs.cmu.edu"
+  googlescholar    : "https://scholar.google.com/citations?user=OKcDoN8AAAAJ&hl=en&oi=ao"
+  email            : "kexiny@andrew.cmu.edu"
   researchgate     :
   uri              :
   bitbucket        :

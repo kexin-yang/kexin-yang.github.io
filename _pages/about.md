@@ -7,8 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-* I am a graduate student at the School of Computer Sciences in Carnegie Mellon University. I major in [Educational Technology and Applied Learning Sciences](https://metals.hcii.cmu.edu) at [Human-Computer Interaction Institute](https://hcii.cmu.edu).
+* I am currently a graduate student in HCI Lab, School of Computer Science in University of Waterloo, working with [Prof. Edith Law](http://edithlaw.ca/).
+* I graduated from the School of Computer Sciences in Carnegie Mellon University, where I majored in [Educational Technology and Applied Learning Sciences](https://metals.hcii.cmu.edu) at [Human-Computer Interaction Institute](https://hcii.cmu.edu).
 * My academic advisor is  Prof. [Carolyn Rose](http://www.cs.cmu.edu/~cprose/) from Langauge Technology Institute (LTI)  in CMU.  
 I also work closely in research with Prof. [Vincent Aleven](https://hcii.cmu.edu/people/vincent-aleven) from HCII CMU, Prof. [Joseph Jay Williams](http://www.josephjaywilliams.com) from Computer Science department, University of Toronto, and the amazing Ph.D. students and post-doc in CMU HCII and LTI.
 
@@ -19,12 +19,13 @@ I also work closely in research with Prof. [Vincent Aleven](https://hcii.cmu.edu
 
    My research focus on **learning science and technology**, including intelligent tutoring systems(ITS), language technology and learning analytics, to make education easy and effective.  
     
-   I also study mechanism of **crowdsourcing and teacher-sourcing**, to improve the ITS development and design process, and increase teachers' configurability.
+   I also study mechanism of **crowdsourcing and teachersourcing**, to improve the ITS development and design process, and increase teachers' configurability.
 
 News
 ===
+[<b>Sep.3rd, 2019] I joined the HCI Lab in University of Waterloo, working with [Prof. Edith Law](http://edithlaw.ca/).
 
-[<b>June 2-7,2019</b>] I will be attending the NAACL-HLT 2019 to present our paper on automatic structural feedback at DISRPT workshop. [[Paper]](https://www.aclweb.org/anthology/W19-2720)[[Slides]](http://kexin-yang.github.io/files/slides_NAACL_ppt_0603.pdf)
+[<b>June 2-7,2019</b>] I attended the NAACL-HLT 2019 to present our paper on automatic structural feedback at DISRPT workshop. [[Paper]](https://www.aclweb.org/anthology/W19-2720)[[Slides]](http://kexin-yang.github.io/files/slides_NAACL_ppt_0603.pdf)
 
 [<b>March 28,2019</b>] Our paper "Applying Rhetorical Structure Theory to Student Essays for Providing Automated Writing Feedback" was accepted to NAACL-HLT 2019 DISRPT workshop.
 
