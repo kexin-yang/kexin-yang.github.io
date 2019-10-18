@@ -9,9 +9,7 @@ redirect_from:
 ---
 * I am currently a graduate student in HCI Lab, School of Computer Science in University of Waterloo, working with [Prof. Edith Law](http://edithlaw.ca/).
 * I graduated from the School of Computer Sciences in Carnegie Mellon University, where I majored in [Educational Technology and Applied Learning Sciences](https://metals.hcii.cmu.edu) at [Human-Computer Interaction Institute](https://hcii.cmu.edu).
-* My academic advisor is  Prof. [Carolyn Rose](http://www.cs.cmu.edu/~cprose/) from Langauge Technology Institute (LTI)  in CMU.  
-I also work closely in research with Prof. [Vincent Aleven](https://hcii.cmu.edu/people/vincent-aleven) from HCII CMU, Prof. [Joseph Jay Williams](http://www.josephjaywilliams.com) from Computer Science department, University of Toronto, and the amazing Ph.D. students and post-doc in CMU HCII and LTI.
-
+* During my time in CMU, I was advised by Prof. [Carolyn Rose](http://www.cs.cmu.edu/~cprose/) from Langauge Technology Institute (LTI), Prof. [Vincent Aleven](https://hcii.cmu.edu/people/vincent-aleven) from HCII, Prof. [Joseph Jay Williams](http://www.josephjaywilliams.com) from Computer Science department, University of Toronto, and the amazing Ph.D. students and post-doc in CMU HCII and LTI.
 * In my capstone, I do data mining and UX research work for [Renaissance Learning](https://www.renaissance.com), an international learning analytics company that makes cloud-based, K-12 educational software. RL has one of the world's largest educational data base.  
   Before, I have worked at [Knovva Academy](https://www.knovva.com) as an instructional designer, [Foreign Language Teaching and Research Press](http://en.fltrp.com) as a Digital Media Editor, and as a English Teacher at one of the top high schools in China, [Beijing 101 High School](https://en.wikipedia.org/wiki/Beijing_101_Middle_School).
 
