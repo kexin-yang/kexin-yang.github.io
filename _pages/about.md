@@ -12,6 +12,8 @@ redirect_from:
 * During my time in CMU, I was advised by Prof. [Carolyn Rose](http://www.cs.cmu.edu/~cprose/) from Langauge Technology Institute (LTI), Prof. [Vincent Aleven](https://hcii.cmu.edu/people/vincent-aleven) from HCII, Prof. [Joseph Jay Williams](http://www.josephjaywilliams.com) from Computer Science department, University of Toronto. I was also fortunate to have worked with the amazing Ph.D. students and post-docs in CMU HCII and LTI, closest ones include [Ken Holstein](https://kenholstein.myportfolio.com/), [Xu Wang](http://www.iamxuwang.com/), [Tomoshiro Nagashima](https://tomonag.org/), [Shiyan Jiang](http://shiyanjiang.com/visual/).
 * In my capstone, I did data mining and UX research for [Renaissance Learning Inc.](https://www.renaissance.com), an international learning analytics company that produce cloud-based K-12 educational software. Our team designed and built an interactive dashboard for schools to compare and connect with like-context schools.    
   Prior to grad school, I have interned at [Knovva Academy](https://www.knovva.com) as an instructional designer, [Foreign Language Teaching and Research Press](http://en.fltrp.com) as a Digital Media Editor, and as a English Teacher at one of the top high schools in China, [Beijing 101 High School](https://en.wikipedia.org/wiki/Beijing_101_Middle_School).
+  
+  
   **Research Interest**
 
    My research focus on **learning science and technology**, including intelligent tutoring systems(ITS), language technology and learning analytics, to make education easy and effective.  
