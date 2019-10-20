@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[[Here is My Latest Curriculum Vitae]](https://docs.google.com/viewer?url=https://docs.google.com/document/d/1c63ywFDCBsRtFupHawaesbrveUgktvGqi9-dK6kq9NI/export?format=pdf&attachment=false)
+[[Here is My Latest Curriculum Vitae]](https://drive.google.com/file/d/1c63ywFDCBsRtFupHawaesbrveUgktvGqi9-dK6kq9NI/view)
 
 
 
