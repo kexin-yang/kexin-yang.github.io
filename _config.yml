@@ -92,7 +92,7 @@ author:
   bitbucket        :
   codepen          :
   dribbble         :
-  flickr           : "https://kexinyang.home.blog/"
+  flickr           :
   facebook         :
   foursquare       :
   # github           : "academicpages"
@@ -190,7 +190,7 @@ collections:
 defaults:
   # _posts
   - scope:
-      path: "https://kexinyang.home.blog/"
+      path: ""
       type: posts
     values:
       layout: single
