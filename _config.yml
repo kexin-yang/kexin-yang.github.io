@@ -190,7 +190,7 @@ collections:
 defaults:
   # _posts
   - scope:
-      path: ""
+      path: "https://kexinyang.home.blog/"
       type: posts
     values:
       layout: single
