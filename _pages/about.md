@@ -16,9 +16,9 @@ redirect_from:
   
   **Research Interest**
 
-   My research focus on **learning science and technology**, including intelligent tutoring systems(ITS), language technology and learning analytics, to make education easy and effective.  
+   My research focus on **learning science and technology**, including intelligent tutoring systems (ITS), language technology and learning analytics, to make education easier and effective.  
     
-   I also study mechanism of **crowdsourcing and teachersourcing**, to improve the ITS development and design process, and increase teachers' configurability.
+   I also study the mechanism of **crowdsourcing and teachersourcing**, to improve the ITS development and design process, and increase teachers' configurability.
 
 News
 ===
