@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Kexin Yang"
   avatar           : "kexin-head.png"
-  bio              : "Grad Student in HCI, University of Waterloo & Carnegie Mellon University"
-  location         : "Pittsburgh, Pennsylvania"
+  bio              : "Grad Student in University of Waterloo SCS, alumni of Carnegie Mellon University HCI Institute, SCS"
+  location         :
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=OKcDoN8AAAAJ&hl=en&oi=ao"
-  email            : "kexiny@andrew.cmu.edu"
+  email            : "kexinyang.bella@gmail.com"
   researchgate     :
   uri              :
   bitbucket        :
@@ -95,7 +95,7 @@ author:
   flickr           : "https://kexinyang.home.blog"
   facebook         :
   foursquare       :
-  # github           : "academicpages"
+   github           : "https://github.com/kexin-yang"
   google_plus      :
   keybase          :
   instagram        :
