@@ -8,11 +8,5 @@ author_profile: true
   <img src="https://kexin-yang.github.io/files/kexin.jpg?raw=true" alt="Photo" style="width: 350px;"/>
 </p>
 
-**Address:**<br>
-Human-Computer Interaction Institute, School of Computer Science,   
-Carnegie Mellon University<br>
-Location: FMS Annex, 5000 Forbes Ave, Pittsburgh, USA (15213)
+Please feel free to contact me at **kexinyang.bella@gmail.com**<br>
 
-**Email:**<br>
-kexiny@andrew.cmu.edu<br>
-kexin.yang@outlook.com<br>
