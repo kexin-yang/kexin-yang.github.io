@@ -17,10 +17,6 @@ collection: portfolio
 
 [![SPRINKLE](https://kexin-yang.github.io/images/Sprinkle/1playVideo.png?raw=true)](https://youtu.be/MnF4v5ZgdwY "CameraMaster")
 
-
-##Overview
-
-
 ## Speak Game
 
 When a kid correctly pronounce the word in the bubble, the bubble will disappear and the kid will gain 3 points.
