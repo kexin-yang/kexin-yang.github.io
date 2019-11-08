@@ -22,6 +22,8 @@ redirect_from:
 
 News
 ===
+[<b>Nov.8th, 2019</b>] I attended the CAN-CWIC (Canadian Women in Computing) conference at Toronto.
+
 [<b>Sep.3rd, 2019</b>] I joined the HCI Lab in University of Waterloo, working with [Prof. Edith Law](http://edithlaw.ca/).
 
 [<b>Aug 13, 2019 </b>] I finished capstone and officially graduated Carnegie Mellon University, HCII. View my [[transcript]](http://kexin-yang.github.io/files/CMU_transcript.pdf).
