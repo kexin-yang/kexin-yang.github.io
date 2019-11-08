@@ -15,7 +15,7 @@ collection: portfolio
 
 ## Video demo of Sprinkle
 
-[![SPRINKLE](https://kexin-yang.github.io/images/Sprinkle/1playVideo.png?raw=true)](https://youtu.be/rKN3eWOOxNw "CameraMaster")
+[![SPRINKLE](https://kexin-yang.github.io/images/Sprinkle/1playVideo.png?raw=true)](https://youtu.be/MnF4v5ZgdwY "CameraMaster")
 
 
 
@@ -43,7 +43,6 @@ When a kid correctly sort a sentence into grammatical order, the kid will gain 1
  <p align="center">
  <img src="https://kexin-yang.github.io/images/Sprinkle/4.png?raw=true" alt="Photo" style="width: 650px;"/>  
 </p>
-
 
 
 ## Development Process
