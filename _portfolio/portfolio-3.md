@@ -61,7 +61,7 @@ I made use of the speech_recognition library in Python to hear words spoken and 
 
 
 ## Limitation
-For the time constraint, there are a lot of room for improvement in the game design from perspective of learning sciences and educational game design. (For example, while the disappearance of bubbles serve as correctness feedback, the sorting game still lacks immediate corrective feedback). It was developed more as a practice for object-oriented programming.
+Due to time constraint, there is a lot of room for improvement from perspective of learning sciences and educational game design. (For example, while the disappearance of bubbles serve as correctness feedback, the sorting game still lacks immediate corrective feedback). 
 
 ### Python Libraries Used:
 Tkinter (Graphic module)
