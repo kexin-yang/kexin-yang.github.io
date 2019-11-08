@@ -3,7 +3,7 @@ title: "Teacher-guided Crowdsourcing"
 
 excerpt: "
 **#Expert-facilitated Crowdsourcing**, **#Teachersourcing**
-<br>**Teacher customization**,**Social Computing**
+<br>**#Teacher customization**,**#Social Computing**
 <br><br>
 With goal of increasing teachers' satisfaction and sustaining the relevance of materials in intelligent tutoring system, without imposing too much time on the busy teachers, in this recent research, I studied how might teachers guide the crowd to perform improvement on existing instructional materials (math on-demand hints)in intelligent tutoring system.<br>
 <img src='http://kexin-yang.github.io/images/IS/system-mockup.png?raw=true' alt='Photo' style='width: 650px;'/>"  
