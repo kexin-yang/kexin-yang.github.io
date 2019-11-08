@@ -1,80 +1,80 @@
 ---
-title: "Intelligent Tutoring System for Practical Rhetorical Structure Theory" 
-excerpt: "**#Intelligent Tutoring System Development**, **#Natural Language Processing**<br>
-**#Rhetorical Structure Theory**
-<br/><br>This is a intelligent tutoring system I built, targeting at teaching Rhetorical Structural Theory, a linguistics framework frequently used in information retrieval area.<br/><img src='https://kexin-yang.github.io/images/RST_tutor/RST_tutor3-1.png?raw=true' alt='Photo' style='width: 650px;'/>"  
+title: "Educational Game for Early Literacy -Sprinkle" 
+excerpt: "**# Independent Game Development**, **# Natural Language Processing**,<br> **# Speech Recognition**, **# Python Programming**
+
+<br><br>This is an educational game I developed, aiming at improving kids' early literacy, with gamified activities including pronouncing words and sorting sentences.<br/><img src='https://kexin-yang.github.io/images/Sprinkle/1.png?raw=true' alt='Photo' style='width: 650px;'/>"  
 collection: portfolio  
 --- 
-\#Intelligent Tutoring System Development, \#Natural Language Processing <br> \#Rhetorical Structure Theory
- 
-**Duration**: 8 weeks, Oct 16th, 2018 - Dec.16th, 2018 
-
-**Team**:Kexin Yang, Pooja Casula, Mingtong Zhang
+\#Independent Game Development, \#Natural Language Processing<br> 
+\#Speech Recognition, \#Python Programming
 
 
+**Duration**: 4 weeks, Apr. 15th, 2019 - May.15th, 2019 <br>
+**Designer and Developer**: Kexin Yang
 
-## Background
-
- <p align="center">
- <img src="https://kexin-yang.github.io/images/RST_tutor/tree.png?raw=true" alt="Photo"/>  
-</p>
-
-Rhetorical Structure Theory (RST) is a linguistics framework, frequently used in information retrieval area, that focuses on identifying relations between sentences. The initial reason for building this intelligent tutor is to make learning RST more engaging and efficient. <br>
-RST, while being a useful framework that can parse text structure in a genre-free way, has very few learning materials other than academic papers or textbook. I learned this framework by reading academic paper, which was unengaging and time-consuming, then I decided to explore ways to make the RST learning process more effective and interesting.
-   <p align="center">
- <img src="https://kexin-yang.github.io/images/RST_tutor/allRelations.png?raw=true" alt="Photo" style="width: 650px;"/>  
-</p>
-## The strength of this intelligent tutoring system： 
-1. It adopts **mastery learning** and use **adaptive problem selection** with problems involving unmastered skills, in order to ensure learners reach mastery in each relation.  
-
-2. The problems are presented in sequence **from easy to hard**, and give contextual feedback to ensure learners stay on the right track.  
-
-3. it is held on a public server, Tutorshop, which enable its **free accessibility** by anyone interested in learning or teaching RST.  
-
-## Cognitive Task Analysis (CTA) method: 
-We conducted **think aloud** with four different difficulty factors, on two groups of learners- RST novices and people who have experience with RST (e.g. people who study NLP or linguistics).
-
-We went through three major iterations of the tutoring system. 
-
-## Low-fi Prototype 
-
- <p align="center">
- <img src="https://kexin-yang.github.io/images/RST_tutor/RST_tutor1.png?raw=true" alt="Photo" style="width: 650px;"/>  
-</p> 
-
-## Mid-fi Prototype
-<p align="center">
- <img src="https://kexin-yang.github.io/images/RST_tutor/RST_tutor2.png?raw=true" alt="Photo" style="width: 650px;"/>  
-</p>
- 
-## High-fi Prototype 
- 
-<p align="center">
- <img src="https://kexin-yang.github.io/images/RST_tutor/RST_tutor3-1.png?raw=true" alt="Photo" style="width: 650px;"/>
-   <img src="https://kexin-yang.github.io/images/RST_tutor/RST_tutor3-2.png?raw=true" alt="Photo" style="width: 650px;"/>
-</p>
-    
-## Project Report:   
-  Here is the final report for the intelligent tutoring system, which includes our template for CTA (Think Aloud), CTA transcription, Knowledge Component (KC) model and production rules.
-  [[Click here for the report]](http://kexin-yang.github.io/files/RSTFinal_Report.pdf)
-  
-## Try out this Tutoring System:
-
-1. Go to Tutor shop:
-[[Tutorshop Website]](https://school.tutorshop.web.cmu.edu) 
-2. Choose one from the 10 usernames, and use the password "rst" to log in    
-
-    **Username**: RSTguest1 (The number 1 can be substituted by any number between 1-10)
-
-    **Password**: rst  
-
-3. Click **"Run Problem Set"** to start playing with the tutor.
 
 ## Video demo of Sprinkle
 
-[![RSTtutoringSystem](https://kexin-yang.github.io/images/RST_tutor/rstVideo.png?raw=true)](https://youtu.be/xWnZbm3mYys "CameraMaster")
+[![SPRINKLE](https://kexin-yang.github.io/images/Sprinkle/1playVideo.png?raw=true)](https://youtu.be/MnF4v5ZgdwY "CameraMaster")
 
-  
+## Speak Game
+
+When a kid correctly pronounce the word in the bubble, the bubble will disappear and the kid will gain 3 points.
+ <p align="center">
+ <img src="https://kexin-yang.github.io/images/Sprinkle/2.png?raw=true" alt="Photo" style="width: 650px;"/>  
+</p>
+
+## Sort Game
+
+### Level 1
+Level 1 assesses the simplest sentence structure: Subject+Object+Verb. <br>
+When a kid correctly sort a sentence into grammatical order, the kid will gain 5 points.
+
+ <p align="center">
+ <img src="https://kexin-yang.github.io/images/Sprinkle/3.png?raw=true" alt="Photo" style="width: 650px;"/>  
+</p>
+
+
+### Level 2
+Level 1 assesses more complex sentence structure: Subject+Object+Verb+Prepositional Phrases (PP).
+When a kid correctly sort a sentence into grammatical order, the kid will gain 10 points.
+ <p align="center">
+ <img src="https://kexin-yang.github.io/images/Sprinkle/4.png?raw=true" alt="Photo" style="width: 650px;"/>  
+</p>
+
+
+## Development Process
+
+### Natural Language Toolkit and Grammar Writing
+To add on to the algorithmic complexity, instead of using existing NLTK grammar, I defined my own grammar that can handle the two sentence structures mentioned<br>
+(1) Subject+Object+Verb (SVO), <br>
+(2) Subject+Object+Verb + Prepositional Phrases(SVO + PP).  
+
+I made use of the recursive parser in the NLTK to recursively parse the sentence structure, and return True or False, depending on whether the sentence entered is in accordance with the grammar I defined.
+
+
+### Animation and User-Interface 
+The interface design was coded using the Python module tkinter, with some external package including PIL to insert background image.  
+
+### Speech Recognition Function
+I made use of the speech_recognition library in Python to hear words spoken and transcribe that into text, then I programmed a function to check if the word heard is the same as the word currently exist. 
+
+
+## Limitation
+Due to time constraint, there is a lot of room for improvement from perspective of learning sciences and educational game design. (For example, while the disappearance of bubbles serve as correctness feedback, the sorting game still lacks immediate corrective feedback). 
+
+### Python Libraries Used:
+Tkinter (Graphic module)
+Speech_recognition  
+Natural Language Toolkit (NLTK)  
+numpy  
+PIL(ImageTk, Image)  
+playsound  
+
+<p align="center">
+ <img src="https://kexin-yang.github.io/images/Sprinkle/end4.png?raw=true" alt="Photo" style="width: 250px;"/>  
+</p>
+
   
 
 

@@ -5,7 +5,7 @@ excerpt: "
 **#Dashboard Design and Development**, **#Mining large datasets**
 <br>**UX research and design**,**#Addressing K-12 administrators' need**
 <br><br>
-Enlighten Dashboard empower administrators to compare students' performance to their demographically similar peers, and connect with like-context schools. 
+Enlighten Dashboard empower administrators to compare students' performance to their demographically similar peers, and connect with like-context schools. <br>
 <img src='http://kexin-yang.github.io/images/enlighten/enlighten-dashboard_.png?raw=true' alt='Photo' style='width: 650px;'/>"  
 collection: portfolio  
 ---
