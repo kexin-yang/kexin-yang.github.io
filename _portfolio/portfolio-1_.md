@@ -11,7 +11,7 @@ collection: portfolio
 ---
 \#Expert-facilitated Crowdsourcing, \#Teachersourcing<br> 
 \#Teacher customization, \#Social Computing<br>
-**Duration**: Jan 2019 - Oct 2019
+**Duration**: Jan 2019 - Oct 2019<br>
 **Advisors**: Dr. Ken Holstein, Prof. Vincent Aleven and Prof. Joseph Jay Williams
 
 **Motivation:**
