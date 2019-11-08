@@ -12,12 +12,6 @@ collection: portfolio
 \#Dashboard Design and Development, \#Mining large datasets<br> 
 \#UX research and design, \#Addressing K-12 administrators' needs
 
-**Duration**: 7 months, Jan 2018 - Aug 2018 
-
-**Team**:Kexin Yang, Greg Bunyea, Yihong Shi, Canhai Chen, Jiasi Tan
-
-**Advisors**: Prof. Ken Koedinger and Prof. Bruce MacLaren
-
 ## The Enlighten Dashboard: 
 My master's capstone project, sponsored by Renaissance Learning, Inc, involved investigating K-12 school administrators’ need for comparing students' performance with demographically similar schools. The result of a 7-month research, design, development and testing cycle, the Enlighten Dashboard allows administrators to compare, analyze, and connect to schools most similar to their own.
 Usability testing shows our system achieved a System Usability Scale(SUS) score of 82.5 indicating high usability, and translates to an A on an A-F scale.
