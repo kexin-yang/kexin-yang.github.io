@@ -1,110 +1,125 @@
 ---
-title: "Intelligent Tutoring System in STEM Area"
-excerpt: "**#Intelligent Tutoring Systems Development**, **#STEM Education**, **#Front-end programming**
+title: "Cooperative Learning Tool: Learn with your peer!"
+
+excerpt: "**#Learning Experience Design**, **#Instructional Design**, <br>**#Cooperative Learning**, **#Peer Learning**  
 <br>
-<br>Here are some intelligent tutoring systems that I have built in STEM area,  under help of Dr. Aleven and Jonathan in Carnegie Mellon University.<br/><img src='https://kexin-yang.github.io/images/STEM_tutor/Tutor2_Interface.png?raw=true' alt='Photo' style='width: 650px;'/>"
-collection: portfolio  
----
-\#Intelligent Tutoring Systems Development, \#Nools (similar to javascript) programming<br> 
-\#STEM Education, \#Front-end programming 
-  
-
-Here I present some course projects of intelligent tutoring system in STEM domains, including math, chemistry and biology, that I have built in Dr. Vincent Aleven’s _Personalized Online Learning_ course. These intelligent tutoring systems demonstrate some features of adaptivity in problem-specific feedback, allowing multiple paths and mastery learning with skill and KC modeling. 
-
-## Tutor 1:   
-**Domain: Math/ Chemistry**  
-
-This intelligent tutoring system aims at teaching students how to do dosage calculation for medicine.  
-
-<p align="center">
-<img src="https://kexin-yang.github.io/images/STEM_tutor/Tutor2_Interface.png?raw=true" alt="Photo" style="width: 650px;"/>  
-</p>  
-The feature of this intelligent tutoring system is its ability of 1) calculating for students and 2) mass production.    
-**1. Calculating for Students**:
-This means when students type in a textInput box a formula such as 120*3, if the right answer is indeed 360, the tutor can do the calculation for the students and recognize this as correct answer. This function makes use of the AlgEval() algorithm inside CTAT.  
-
-**2. Mass Production:** This is a function made possible by Cognitive Tutor Authoring Tools (CTAT). This enables people to create multiple questions using the same interface components, same production rules, or .brd file. Only thing people need to do is to substitute the problem specific information in the excel form as shown below, in order to create multiple problem in the same nature. 
-
-### How you can play with this tutor:
-
-1. Go to Tutor shop:
-[[Tutorshop Website]](https://school.tutorshop.web.cmu.edu) 
-2. Use the created username and password to log in
-
-    **Username**: tutor1guest1
-
-    **Password**: tutor  
-
-3. Click **"Run Problem Set"** to start playing with the tutor.
-  
+<br>
+This is a platform where you can learn with your peers in a Jigsaw method.<img src='http://kexin-yang.github.io/images/sunscreen/2login.png?raw=true' alt='Photo' style='width: 650px;'/>"  
+collection: portfolio   
 
 ---
-
-## Tutor 2:   
-**Domain: Math**    
   
-This is a rule-based cognitive tutor that guide users to a little magic in math, by calculating with ease the square of any number ending in 5, no matter how big the number is. 
-<p align="center">
-<img src="https://kexin-yang.github.io/images/STEM_tutor/Tutor3_interface.png?raw=true" alt="Photo" style="width: 650px;"/>  
-</p>
-
-### How you can play with this tutor:
-
-1. Go to Tutor shop:
-[[Tutorshop Website]](https://school.tutorshop.web.cmu.edu) 
-2. Use the created username and password to log in
-
-    **Username**: squaretutorguest1
-
-    **Password**: square 
-
-3. Click **"Run Problem Set"** to start playing with the tutor.
-  
- 
-## Tutor 3:
-**Domain: Math**  
-
-This is a more sophisticated, rule-based cognitive tutor that decompose proportion problems into inner loops (steps), to guide learners extract information, use common multiple, use common factors, and compare options.  
- 
-Using this tutoring system, it is possible to mass produce problem files with problem specific information, without changing the interface, to practice the same or similar KCs.  
-<p align="center">
-<img src="https://kexin-yang.github.io/images/STEM_tutor/Tutor4_interface.png?raw=true" alt="Photo" style="width: 650px;"/>  
-</p>
-
-### How you can play with this tutor:
-
-1. Go to Tutor shop:
-[[Tutorshop Website]](https://school.tutorshop.web.cmu.edu) 
-2. Use the created username and password to log in
-
-    **Username**: ProportionTutorGuest1
-
-    **Password**: proportion
-
-3. Click **"Run Problem Set"** to start playing with the tutor.
-  
-
-## Tutor 4:
-**Domain: Biology**
-
-This is an interesting rule-based tutor that teach students about Mendelian principles of genetic transmission. This tutor guide students to deduct the genotype of each strain based on the proportion of offspring, coming from each cross between two strains (self-cross accepted).  
-
-Special feature about this tutor is that it will force students to make all deduction about the genetype, be it partial conclusion or final conclusion about the strains involved in last round of crossing, before carrying on to the next round of crossing.
+\#Learning Experience Design, \#Instructional Design, <br> \#Cooperative Learning, \#Peer Learning
 
 <p align="center">
-<img src="https://kexin-yang.github.io/images/STEM_tutor/Tutor5_interface.png?raw=true" alt="Photo" style="width: 650px;"/>  
+ <img src="http://kexin-yang.github.io/images/sunscreen/handsJigsaw.png?raw=true" alt="Photo" style="width: 100px;"/>  
+</p>
+## What is Jigsaw method?
+The jigsaw method is a research-based cooperative learning technique, invented in the early 1970s, by Elliot Aronson and his students at the University of Texas and the University of California.
+
+A typical Jigsaw Method consists of the following steps:  
+
+<p align="center">
+ <img src="http://kexin-yang.github.io/images/sunscreen/jigsawIntro.png?raw=true" alt="Photo"/>  
 </p>
 
-### How you can play with this tutor:
+## How learners Cooperate:
+This tool enable learners to learn the material in a Jigsaw method, but instead of in person, they will be able to learn it cooperatively online. 
 
-1. Go to Tutor shop:
-[[Tutorshop Website]](https://school.tutorshop.web.cmu.edu) 
-2. Use the created username and password to log in
+The tool was originally designed for **large scale use**. After registration, learns will be assigned a role and learn in a cooperative way.
 
-    **Username**: GeneGuest
+## What's so special? 
+1) Learners can get in contact with **learners all around the world**, since this application/platform can be accessed world-wide.  
+2) The discussion board feature of this tool, enable people to discuss in an **asynchorized** way.  
+3) Our tool is flexible and has memory of users' history, so that they can **resume when they come back**.
 
-    **Password**: gene
 
-3. Click **"Run Problem Set"** to start playing with the tutor.
+
+## About our Tool: 
+<p align="center">
+ <img src="http://kexin-yang.github.io/images/sunscreen/1first.png?raw=true" alt="Photo" style="width: 650px;"/>  
+</p>
+Our platform requires users to login and register, to create attachment and increase user-stickiness.
+<p align="center">
+ <img src="http://kexin-yang.github.io/images/sunscreen/2login.png?raw=true" alt="Photo" style="width: 650px;"/>  
+</p>
+
+Learners are constantly reminded know which group they are assigned to, so they know what to expect when it comes to peer teaching.
+<p align="center">
+ <img src="http://kexin-yang.github.io/images/sunscreen/4assigned.png?raw=true" alt="Photo" style="width: 650px;"/>  
+</p>
+Learners watch an introductory video on this topic, which is common to all of them.
+<p align="center">
+ <img src="http://kexin-yang.github.io/images/sunscreen/5common.png?raw=true" alt="Photo" style="width: 650px;"/>  
+</p>
+
+Then they each watch a different part of the video.
+<p align="center">
+ <img src="http://kexin-yang.github.io/images/sunscreen/6individual.png?raw=true" alt="Photo" style="width: 650px;"/>  
+</p>
+
+Like in Jigsaw method, learners can discuss in "Expert group" in the discussion board.
+<p align="center">
+ <img src="http://kexin-yang.github.io/images/sunscreen/7expertDiscuss.png?raw=true" alt="Photo" style="width: 650px;"/>  
+</p>
+
+Learners need to take a quiz, they need to get all questions correct, and make sure they are confident to teach the topic to their peer. 
+<p align="center">
+ <img src="http://kexin-yang.github.io/images/sunscreen/8expertQuiz.png?raw=true" alt="Photo" style="width: 650px;"/>  
+</p>
+They get explanatory feedback on the quiz questions, but the answers are not highlighted, to avoid roting.
+<p align="center">
+ <img src="http://kexin-yang.github.io/images/sunscreen/9expertQuizFeedback.png?raw=true" alt="Photo" style="width: 650px;"/>  
+</p>
+
+Now these expert learners are ready to teach their peer in the discussion board!
+<p align="center">
+ <img src="http://kexin-yang.github.io/images/sunscreen/10peerTeach.png?raw=true" alt="Photo" style="width: 650px;"/>  
+</p>
+
+If they want to leave for the final quiz, they will be asked to reflect, whether they have taught their peers.
+<p align="center">
+ <img src="http://kexin-yang.github.io/images/sunscreen/11reflect.png?raw=true" alt="Photo" style="width: 650px;"/>  
+</p>
+If their answer is no, they will be directed back to teach their peers.
+<p align="center">
+ <img src="http://kexin-yang.github.io/images/sunscreen/12intervene.png?raw=true" alt="Photo" style="width: 650px;"/>  
+</p>
+The course finished once they are done with the final quiz.
+<p align="center">
+ <img src="http://kexin-yang.github.io/images/sunscreen/13end.png?raw=true" alt="Photo" style="width: 650px;"/>  
+</p>
+
+
+
+
+## Scaffolds for positive interdependence:
+
+Our scaffolds for positive interdependence includes learners will need to count on other learners to get the quiz right. In this way, they will be more likely to teach others since they need others to teach them as well.
+
+## Scaffolds for individual accountability: 
+
+Our scaffolds for individual accountability is that learners need to count on other learners to get the quiz right since they need others to teach them as well.  
+To scaffold them to have individual accountability, we made a window that will pop out before they proceed the final quiz, that ask them to reflect on their behaviors. Specifically, it asks them to reflect whether they have taught their peers, also whether they have make sure they checked their peer’s understanding and made sure they understand. If their answers are no to any of this question, they cannot leave the forum. 
+
+
+## Anticipated behaviors:
+Students will follow the Jigsaw method, first they will watch a video that is common to all of them, that give them an introduction of this topic.   
+
+Secondly, they will be assigned to a video, which is part of the course, they will watch it on their own. This part of the individual video are adapted from the first projects, which use discovery learning- invent and tell method.   
+
+Thirdly, they will join an expert group discussion, in which they can clear confusions and check their understanding. They will do a quiz after that and they must get all questions correctly in order to move on. On the fourth step, they will do peer teaching. They teach their peer about the part they learn, and their peer will also teach them.   
+
+Lastly, here comes the final quiz, in which they will be quizzed on questions both on what they have learnt themselves, and what they have been taught by their peers.
+
+
+[[Check out our tool here!]](https://radiant-basin-41966.herokuapp.com/)
+
+
+
+<p align="center">
+ <img src="http://kexin-yang.github.io/images/sunscreen/jigsawDinosaur.jpg?raw=true" alt="Photo" style="width: 200px;"/>  
+</p>
+
 
 
