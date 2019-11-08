@@ -2,7 +2,7 @@
 title: "Learning Pathways- Educational Data Analysis and Visualization" 
 
 excerpt: "**#Data Visualization (Tableau and D3)**, **#Educational Data mining**, **#Learning Analytics**
-<br>
+<br><br>
 This is a educational data visualization project, in which we explored different factors' contribution to their final learning outcome, and visualized students' learning pathways in order to give educators evidence-based suggestions.<img src='https://kexin-yang.github.io/images/Learning_Paths/Completion.png?raw=true' alt='Photo' style='width: 650px;'/>"  
 collection: portfolio  
 ---
