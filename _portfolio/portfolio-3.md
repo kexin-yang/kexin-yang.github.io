@@ -8,9 +8,9 @@ collection: portfolio
 ---    
 \#Teachable Robot, \#Learning by teaching<br> \#Educational Technology <br>
 <img src='http://kexin-yang.github.io/images/TR/nao_playing.png?raw=true' alt='Photo' style='width: 650px;'/>
-<br>
+<br><br>
 This is still ongoing unpublished work, and will be shared when the project is finished. The main focus is on studying the Topaze effect and benefit of learning by teaching a humanoid robot, with assistance of Curiosity Notebook (shown below), a learning-by-teaching platform with conversational agents. 
-<br>
+<br><br>
 <img src='http://kexin-yang.github.io/images/TR/curiosityNotebook.png?raw=true' alt='Photo' style='width: 650px;'/> 
 
 
