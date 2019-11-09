@@ -20,7 +20,7 @@ Usability testing shows our system achieved a System Usability Scale(SUS) score 
 
 My main role in the capstone mining large datasets in RL's educational database, conducting UX research including semi-structured interview and co-design sessions, and help.  
 
-**I invite you to try out this novel** [[Enlighten dashboard]](https://demo.enlighten.education/) which allows school administrators to compare students' performance with demographically similar schools, and connect to people in these like-context schools.   
+**I invite you to try out the** [[Enlighten dashboard]](https://demo.enlighten.education/) which allows school administrators to compare students' performance with demographically similar schools, and connect to people in these like-context schools.   
 [![Enlighten Dashboard](https://kexin-yang.github.io/images/enlighten/enlighten-dashboard_.png?raw=true)](https://demo.enlighten.education/ "CameraMaster")
 
 
