@@ -13,7 +13,9 @@ collection: portfolio
 \#UX research and design, \#Addressing K-12 administrators' needs
 
 ## The Enlighten Dashboard: 
-My master's capstone project, sponsored by Renaissance Learning, Inc, involved investigating K-12 school administrators’ need for comparing students' performance with demographically similar schools. The result of a 7-month research, design, development and testing cycle, the Enlighten Dashboard allows administrators to compare, analyze, and connect to schools most similar to their own.
+My master's capstone project, sponsored by Renaissance Learning, Inc, involved investigating K-12 school administrators’ need for comparing students' performance with demographically similar schools. 
+
+The result of a 7-month research, design, development and testing cycle, the Enlighten Dashboard allows administrators to compare, analyze, and connect to schools most similar to their own.
 Usability testing shows our system achieved a System Usability Scale(SUS) score of 82.5 indicating high usability, and translates to an A on an A-F scale.
 
 My main role in the capstone mining large datasets in RL's educational database, conducting UX research including semi-structured interview and co-design sessions, and help.  
@@ -23,7 +25,6 @@ My main role in the capstone mining large datasets in RL's educational database,
 
 
 ## Project Website:
-Visit our [[project website]](https://enlighten.education/) that documents the full research, design and development cycle of the 7 month in detail.
-<img src='http://kexin-yang.github.io/images/enlighten/website.png?raw=true' alt='Photo' style='width: 650px;'/>"
+Visit our [[project website]](https://enlighten.education/) that documents the full research, design and development cycle of the 7 month in detail.<br>
 [![Enlighten Dashboard](https://kexin-yang.github.io/images/enlighten/website.png?raw=true)](https://enlighten.education/ "CameraMaster")
 
