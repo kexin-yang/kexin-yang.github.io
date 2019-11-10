@@ -69,7 +69,10 @@ Speech_recognition
 Natural Language Toolkit (NLTK)  
 numpy  
 PIL(ImageTk, Image)  
-playsound  
+playsound  <br>
+
+Github Repository: [[Here]](https://github.com/kexin-yang/Sprinkle)
+
 
 <p align="center">
  <img src="https://kexin-yang.github.io/images/Sprinkle/end4.png?raw=true" alt="Photo" style="width: 250px;"/>  
