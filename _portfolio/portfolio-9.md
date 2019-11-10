@@ -1,44 +1,45 @@
 ---
-title: "Lesson Design for Argumentative Writing Course" 
+title: "Language Transfer of Mandarin on English Phonetics Learning" 
 
 excerpt: "
-**#Instructional Design**, **#Teaching English Writing**<br> **#K-12 Education**
+**#Language Transfer**, **#Second Language Learning**<br> **Phonetics and Phonology**, **#Techonology for K-12 Education**
 <br>
-<br>This is a course design made for Grade 11-12 students, in topic of Argumentative Writing.<img src='http://kexin-yang.github.io/files/EGIAposter.png?raw=true' alt='Photo' style='width: 650px;'/>"  
+<br>My bachelor's thesis focus on language transfer, especially negative transfer of Mandarin on English phonetics aquisition. I studied it on both segmental and suprasegmental phoneme levels how students' pronunciation of mandarin and Min dialect might affect their English pronunciation, in aspects of vowels, consonants and intonation and pitch. <img src='http://kexin-yang.github.io/images/thesis/sentence.png?raw=true' alt='Photo' style='width: 650px;'/>"  
 collection: portfolio  
 ---
     
-\#Instructional Design, \#Teaching English Writing<br> 
-\#K-12 Education
+\#Language Transfer, \#Second Language Learning<br> \#Phonetics and Phonology, \#Techonology for K-12 Education
 
-**Duration**: 10 weeks, Oct 2nd, 2018 - Dec.16th, 2018 
+**Duration**: 6 months, Jan 2018 - Jun 2018 
 
-**Designer**:Kexin Yang
+Language transfer refers to the influence of previously learned language on target language, due to their similarities and differences. Lado (1957) first put forward the term “language transfer” based on the theory of behaviorism: 
+Individuals tend to transfer the forms and meanings of their native language to the foreign language both productively and receptively.
 
-In this project, I applied the backward design methodology and designed a 10-hour course in argumentative writing for Grade 11-12. The development of this course design are divided into five phases, namely, learners in context, Goals, Assessment, Instruction and Research& Evaluation.   
-
-The project draws on educational big ideas from Understanding by Design by Grant Wiggins and Jay McTighe, and The ABC of How we Learn written by Daniel L. Schwartz et al.  
-
-Each phase of educational design is backed up by theoretical evidence, through many times of iteration, under supervision of two professors.
-
-This is a final project for a core course of METALS program (Master of Educational Technology and Applied Learning Sciences) in Carnegie Mellon University. The course name is Educational Goals, Instruction and Assessment, taught by Dr. Sharon Carver and Dr. Lauren Herckis.   
-
-## Poster: 
-Here is a poster that I presented in Carnegie Mellon University on Dec. 11th 2018.
+Chinese language belongs to Sino-Tibetan phylum, and English belongs to Indo-European phylum, and have many differences that may potentially influence ESL learners' phonetics acquisition. 
 <p align="center">
- <img src="http://kexin-yang.github.io/files/EGIAposter.png?raw=true" alt="Photo" style="width: 650px;"/>  
+ <img src='http://kexin-yang.github.io/images/thesis/eng-chi.png?raw=true' alt='Photo' style='width: 650px;'/>
 </p>
-
-[[View the poster here]](http://kexin-yang.github.io/files/EGIAposter.png)
-
-## Final Report:
-
+ In recent years, attentions have been increasingly drawn to the phenomenon of language transfer and the research focus shifting from 
+ segmental phonemes to suprasegmental phonemes. 
+ In my thesis I investigates Chinese language transfer on both segmental level and suprasegmental level on English phonetics.
+  Research method chosen was acoustic experiment and experiment subjects were thirty-nine students in Grade seven, in Songbai Junior high school, Xiamen. 
+  The speech analysis software Praat was used in the speech visualization and analysis. <br><br>
+  
+  Research finding shows on the segmental level, student perform significantly better in English diphthong, 
+  possibly correlated with positive transfer from Chinese language, as many diphthong have same or similar phonemes in Chinese. 
+  Students’ performance on monophthong and consonants that do not exist in the Chinese language system was relatively worse, 
+  which could be explained by the negative language transfer theory. 
 <p align="center">
- <img src="http://kexin-yang.github.io/files/EGIAreport.png?raw=true" alt="Photo" style="width: 650px;"/>  
-</p>
+ <img src='http://kexin-yang.github.io/images/thesis/two-compare.png?raw=true' alt='Photo' style='width: 650px;'/>
+</p> 
+ <br>
+ <br>
+ On the suprasegmental level, students have features of pronouncing too hastily, neglecting the pauses, rhythm and stress,
+   reading English in a staccato instead of legato way. 
+   
+   This paper suggests future teachers to make use of tools and software such as Praat for educational purposes, to provide corrective feedback for students' pronunciation. 
+   This computer-assisted pedagogy for English phonetics may help learners more easily assess and monitor their pronunciation by visualizing the pitch and spectrogram of their pronunciation.
 
-
-[[View the detailed lesson design here]](http://kexin-yang.github.io/files/EGIA_FinalReport.pdf)
   
   
 
