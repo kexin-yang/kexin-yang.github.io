@@ -2,9 +2,9 @@
 title: "Language Transfer of Mandarin on English Phonetics Learning" 
 
 excerpt: "
-**#Language Transfer**, **#Second Language Learning**<br> **Phonetics and Phonology**, **#Techonology for K-12 Education**
+**#Language Transfer**, **#Second Language Learning**<br> **#Phonetics and Phonology**, **#Techonology for K-12 Education**
 <br>
-<br>My bachelor's thesis focus on language transfer, especially negative transfer of Mandarin on English phonetics aquisition. I studied it on both segmental and suprasegmental phoneme levels how students' pronunciation of mandarin and Min dialect might affect their English pronunciation, in aspects of vowels, consonants and intonation and pitch. <img src='http://kexin-yang.github.io/images/thesis/sentence.png?raw=true' alt='Photo' style='width: 650px;'/>"  
+<br>My bachelor's thesis focus on language transfer, especially negative transfer of Mandarin on English phonetics aquisition. I conducted acoustic experiment on 39 7th-grade students and analyzed the spectrogram using the software Praat. I studied it on both segmental and suprasegmental phoneme levels how students' pronunciation of mandarin and Min dialect might affect their English pronunciation, in aspects of vowels, consonants and intonation and pitch.  <img src='http://kexin-yang.github.io/images/thesis/sentence.png?raw=true' alt='Photo' style='width: 650px;'/>"  
 collection: portfolio  
 ---
     
@@ -23,8 +23,7 @@ Chinese language belongs to Sino-Tibetan phylum, and English belongs to Indo-Eur
  segmental phonemes to suprasegmental phonemes. 
  In my thesis I investigates Chinese language transfer on both segmental level and suprasegmental level on English phonetics.
   Research method chosen was acoustic experiment and experiment subjects were thirty-nine students in Grade seven, in Songbai Junior high school, Xiamen. 
-  The speech analysis software Praat was used in the speech visualization and analysis. <br><br>
-  
+  The speech analysis software Praat was used in the speech visualization and analysis. <br>
   Research finding shows on the segmental level, student perform significantly better in English diphthong, 
   possibly correlated with positive transfer from Chinese language, as many diphthong have same or similar phonemes in Chinese. 
   Students’ performance on monophthong and consonants that do not exist in the Chinese language system was relatively worse, 
@@ -32,9 +31,7 @@ Chinese language belongs to Sino-Tibetan phylum, and English belongs to Indo-Eur
 <p align="center">
  <img src='http://kexin-yang.github.io/images/thesis/two-compare.png?raw=true' alt='Photo' style='width: 650px;'/>
 </p> 
- <br>
- <br>
- On the suprasegmental level, students have features of pronouncing too hastily, neglecting the pauses, rhythm and stress,
+ <br> On the suprasegmental level, students have features of pronouncing too hastily, neglecting the pauses, rhythm and stress,
    reading English in a staccato instead of legato way. 
    
    This paper suggests future teachers to make use of tools and software such as Praat for educational purposes, to provide corrective feedback for students' pronunciation. 
