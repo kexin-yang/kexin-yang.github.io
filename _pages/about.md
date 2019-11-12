@@ -7,10 +7,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
-* I am currently a graduate student in HCI Lab, School of Computer Science in University of Waterloo, working with [Prof. Edith Law](http://edithlaw.ca/), exploring how kids learn from teaching humanoid robots.
-* I graduated from the School of Computer Sciences in Carnegie Mellon University, where I majored in [Educational Technology and Applied Learning Sciences](https://metals.hcii.cmu.edu) at [Human-Computer Interaction Institute](https://hcii.cmu.edu).
+* I am currently a graduate student in HCI Lab, School of Computer Science in University of Waterloo, working with [Prof. Edith Law](http://edithlaw.ca/), exploring how kids learn knowledge from teaching humanoid robots.
+* I graduated from the School of Computer Sciences in Carnegie Mellon University, where I majored in [Educational Technology and Applied Learning Sciences](https://metals.hcii.cmu.edu) at Human-Computer Interaction Institute.
 * During my time in CMU, I was advised by Prof. [Carolyn Rose](http://www.cs.cmu.edu/~cprose/) from Langauge Technology Institute (LTI), Prof. [Vincent Aleven](https://hcii.cmu.edu/people/vincent-aleven) from HCII, Prof. [Joseph Jay Williams](http://www.josephjaywilliams.com) from Computer Science department, University of Toronto. I worked with the amazing Ph.D. students and post-docs in CMU HCII and LTI, including [Ken Holstein](https://kenholstein.myportfolio.com/), [Xu Wang](http://www.iamxuwang.com/), [Tomoshiro Nagashima](https://tomonag.org/) and [Shiyan Jiang](http://shiyanjiang.com/visual/).
-* I received my Bachelor's Degree in [Beijing Normal University](https://english.bnu.edu.cn) in English language literature, with a focus on language education. I have experience on both teaching and research of English as a Second Language (ESL) education and STEM education (particularly, math).
+* I received my Bachelor's Degree in Beijing Normal University in English language literature, with a focus on language education. I have experience on both teaching and research of English as a Second Language (ESL) education and STEM education (particularly, math).
  
   **Research Interest**
 
