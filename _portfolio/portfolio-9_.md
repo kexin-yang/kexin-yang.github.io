@@ -4,7 +4,7 @@ title: "Lesson Design for Argumentative Writing Course"
 excerpt: "
 **#Instructional Design**, **#Teaching English Writing**<br> **#K-12 Education**
 <br>
-<br>This is a course design made for Grade 11-12 students, in topic of Argumentative Writing.<img src='http://kexin-yang.github.io/files/EGIAposter.png?raw=true' alt='Photo' style='width: 650px;'/>"  
+<br>This is a four-week course design made for Grade 11-12 students, in topic of Argumentative Writing.<img src='http://kexin-yang.github.io/files/EGIAposter.png?raw=true' alt='Photo' style='width: 650px;'/>"  
 collection: portfolio  
 ---
     
