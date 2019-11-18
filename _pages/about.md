@@ -14,7 +14,7 @@ redirect_from:
  
   **Research Interest**
 
-   My research focus on **learning science and technology**, including AI in education, intelligent tutoring systems (ITS), language technology and educational robots. My goal is to make education easier and more effective.  
+   My research focus on **learning science and technology**, including AI in education, intelligent tutoring systems (ITS), language technology and educational robots. My goal is to make learning easier and more effective for students, and teaching more efficient for teachers. 
     
    I also study the mechanism of **crowdsourcing and teachersourcing**, to improve the ITS development and design process, increase teachers' configurability and satisfaction.
 
