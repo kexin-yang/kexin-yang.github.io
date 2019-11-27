@@ -20,6 +20,8 @@ redirect_from:
 
 News and Travel
 ===
+[<b>Apr.16th - 18th, 2020</b>] I was selected to join the 2020 CRA-WP Grad Cohort for Women in New Orleans, LA. 
+ 
 [<b>Nov.8th, 2019</b>] I attended the CAN-CWIC (Canadian Women in Computing) conference in Toronto.
 
 [<b>Sep.3rd, 2019</b>] I joined the HCI Lab in University of Waterloo, working with [Prof. Edith Law](http://edithlaw.ca/).
