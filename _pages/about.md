@@ -15,6 +15,7 @@ redirect_from:
 Research Area
 ===
    My research focus on **learning science and technology**, including AI in education, intelligent tutoring systems (ITS), language technology and educational robots. I am passionate about supporting students to learn more effectively and educators to work more efficiently.  
+  
    I am also interested in social computing, including crowdsourcing, teachersourcing and learnersourcing, and interested in a broad range of HCI topics that can make people's life better.  
 
 News and Travel
