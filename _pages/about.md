@@ -7,16 +7,15 @@ redirect_from:
   - /about/
   - /about.html
 ---
-* I am currently a graduate student in HCI Lab, School of Computer Science in University of Waterloo. I am in Teachable Robot Lab working with Prof. Edith Law (CS) and Prof. Elizabeth Nilsen (Psychology), where I study how kids learn knowledge from teaching and interacting with humanoid robots.
+* I am currently a transitional master student in HCI Lab, School of Computer Science in University of Waterloo. I am in Teachable Robot Lab working with Prof. Edith Law (CS) and Prof. Elizabeth Nilsen (Psychology), where I study how kids perceive teachable humanoid robots and learn from teaching them. 
 * I graduated from the School of Computer Sciences in Carnegie Mellon University, where I majored in Educational Technology and Applied Learning Sciences at Human-Computer Interaction Institute.
-* During my time in CMU, I was advised by Prof. [Carolyn Rose](http://www.cs.cmu.edu/~cprose/) from Langauge Technology Institute (LTI), Prof. [Vincent Aleven](https://hcii.cmu.edu/people/vincent-aleven) from HCII, Prof. [Joseph Jay Williams](http://www.josephjaywilliams.com) from Computer Science department, University of Toronto. I worked with the amazing Ph.D. students and post-docs in CMU HCII and LTI, including [Ken Holstein](https://kenholstein.myportfolio.com/), [Xu Wang](http://www.iamxuwang.com/), [Tomoshiro Nagashima](https://tomonag.org/) and [Shiyan Jiang](http://shiyanjiang.com/visual/).
-* I received my Bachelor's Degree in Beijing Normal University in English language literature, with a focus on language education. I have interned at [Knovva Academy](https://www.knovva.com) as an instructional designer, [Foreign Language Teaching and Research Press](http://en.fltrp.com) as a Digital Media Editor, and as a English Teacher at one of the top high schools in China, [Beijing 101 High School](https://en.wikipedia.org/wiki/Beijing_101_Middle_School).
+* During my time in CMU, I was advised by Prof. [Carolyn Rose](http://www.cs.cmu.edu/~cprose/) from Langauge Technology Institute (LTI), Prof. [Vincent Aleven](https://hcii.cmu.edu/people/vincent-aleven) from HCII, and Prof. [Joseph Jay Williams](http://www.josephjaywilliams.com) from Computer Science department, University of Toronto. I also worked closely with the amazing Ph.D. students and post-docs in CMU HCII and LTI, including [Ken Holstein](https://kenholstein.myportfolio.com/), [Xu Wang](http://www.iamxuwang.com/), [Tomoshiro Nagashima](https://tomonag.org/) and [Shiyan Jiang](http://shiyanjiang.com/visual/).
+* I received my Bachelor's Degree in Beijing Normal University in English language literature, focusing on language education. I taught or interned in various public schools and private institution, including [Beijing 101 High School](https://en.wikipedia.org/wiki/Beijing_101_Middle_School), [Knovva Academy](https://www.knovva.com), and [Foreign Language Teaching and Research Press](http://en.fltrp.com).
  
-  **Research Interest**
-
-   My research focus on **learning science and technology**, including AI in education, intelligent tutoring systems (ITS), language technology and educational robots. My goal is to make learning easier and more effective for students, and teaching more efficient for teachers. 
-    
-   I also study the mechanism of **crowdsourcing and teachersourcing**, to improve the ITS development and design process, increase teachers' configurability and satisfaction.
+Research Area
+===
+   My research focus on **learning science and technology**, including AI in education, intelligent tutoring systems (ITS), language technology and educational robots. I am passionate about supporting students to learn more effectively and educators to work more efficiently.  
+   I am also interested in social computing, including crowdsourcing, teachersourcing and learnersourcing, and interested in a broad range of HCI topics that can make people's life better.  
 
 News and Travel
 ===
