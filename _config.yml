@@ -94,23 +94,23 @@ author:
   dribbble         :
   flickr           : "https://kexinyang.home.blog"
   facebook         :
-  foursquare       : "https://sites.google.com/view/kexinfun/home"
+  foursquare       :
   github           : "kexin-yang"
   google_plus      :
   keybase          :
   instagram        :
-  lastfm           : "https://sites.google.com/view/kexinfun/home"
+  lastfm           :
   linkedin         :
  # orcid            : "http://orcid.org/yourorcidurl"
-  pinterest        : "https://sites.google.com/view/kexinfun/home"
+  pinterest        :
   soundcloud       : "https://sites.google.com/view/kexinfun/home"
   #stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
  # twitter          : "replacethistwitterhandle"
   vine             :
-  weibo            : "https://sites.google.com/view/kexinfun/home"
-  xing             : "https://sites.google.com/view/kexinfun/home"
+  weibo            :
+  xing             :
   youtube          :
   wikipedia        :
 
