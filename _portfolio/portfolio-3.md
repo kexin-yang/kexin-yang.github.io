@@ -2,8 +2,8 @@
 title: "Teachable Robots - how students learn from teaching the robots (Coming Soon)" 
 
 excerpt: "
-**#Human-Robot Interaction**, **#Teachable Robot**<br>, **#Learning by teaching**, **#Educational Technology**<br>
-<br>I am currently looking at how children perceive and interact with humanoid robots, especially when they make mistakes. One primary goal is studying how children can benefit educationally and achieve learning gains from teaching the robots. <br><img src='http://kexin-yang.github.io/images/TR/nao_playing.png?raw=true' alt='Photo' style='width: 650px;'/>"  
+**#Human-Robot Interaction**, **#Teachable Robot**<br> **#Learning by teaching**, **#Educational Technology**<br>
+<br>I am currently looking at how children perceive and interact with humanoid robots. One primary goal is studying how children can benefit educationally and achieve learning gains from teaching the robots. <br><img src='http://kexin-yang.github.io/images/TR/nao_playing.png?raw=true' alt='Photo' style='width: 650px;'/>"  
 collection: portfolio  
 ---    
 \#Human-Robot Interaction, \#Teachable Robot, \#Learning by teaching<br> \#Educational Technology <br>
