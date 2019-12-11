@@ -22,7 +22,7 @@ Research Area
 
 News and Travel
 ===
-[<b>Nov.10th</b>] I am excited to learn that [Enlighten Dashboard](https://demo.enlighten.education/), end product of our capstone, will be released in the back-to-school semester in 2020 by Renaissance Learning Inc (RL). Educational software of RL is used by more than one third of U.S. schools, so it's thrilling to learn that our 7-month research, design and development can have practical impact on real-world educational practice!
+[<b>Nov.10th</b>] I am excited to learn that [Enlighten Dashboard](https://demo.enlighten.education/), product of our 7-month capstone project, will be released in the back-to-school semester in 2020 by Renaissance Learning Inc (RL), potentially reaching more than one third of U.S. schools and have practical impact on real-world educational practice!
 
 [<b>Apr.16th - 18th, 2020</b>] I was selected to join the 2020 CRA-WP Grad Cohort for Women in New Orleans, LA. 
  
