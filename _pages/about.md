@@ -18,7 +18,8 @@ Research Area
    
    My past work focuses on **learning science and technology**, including AI in education, intelligent tutoring systems (ITS), language technology and educational robots. I am passionate about supporting students to learn more effectively and educators to work more efficiently.  
   
-   I am also interested in **social computing** and computer-supported cooperative work (CSCW), including crowdsourcing, teachersourcing and learnersourcing, and a broad range of HCI topics that can make people's life better.  
+   I am also interested in **social computing** and computer-supported cooperative work (CSCW), including crowdsourcing, learnersourcing, and a broad range of HCI topics that seek to support people's emotional and physical well-being. 
+   
 
 News and Travel
 ===
