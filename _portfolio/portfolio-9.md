@@ -1,45 +1,109 @@
 ---
-title: "Language Transfer of Mandarin on English Phonetics Learning" 
-
-excerpt: "
-**#Language Transfer**, **#Second Language Learning**<br> **#Phonetics and Phonology**, **#Techonology for K-12 Education**
+title: "Intelligent Tutoring System in STEM Area"
+excerpt: "**#Intelligent Tutoring Systems Development**, **#STEM Education**, **#Front-end programming**
 <br>
-<br>My bachelor's thesis focus on language transfer, especially negative transfer of Mandarin on English phonetics aquisition. I conducted acoustic experiment on 39 7th-grade students and analyzed the spectrogram using the software Praat. I studied it on both segmental and suprasegmental phoneme levels how students' pronunciation of mandarin and Min dialect might affect their English pronunciation, in aspects of vowels, consonants and intonation and pitch.  <img src='http://kexin-yang.github.io/images/thesis/sentence.png?raw=true' alt='Photo' style='width: 650px;'/>"  
+<br>Here are some intelligent tutoring systems that I built in STEM area,  under the help of Dr. Aleven and Jonathan in Carnegie Mellon University.<br/><img src='https://kexin-yang.github.io/images/STEM_tutor/Tutor2_Interface.png?raw=true' alt='Photo' style='width: 650px;'/>"
 collection: portfolio  
 ---
-    
-\#Language Transfer, \#Second Language Learning<br> \#Phonetics and Phonology, \#Techonology for K-12 Education
+\#Intelligent Tutoring Systems Development, \#Nools (similar to javascript) programming<br> 
+\#STEM Education, \#Front-end programming 
+  
 
-**Duration**: 6 months, Jan 2018 - Jun 2018 
+Here display some intelligent tutoring systems in STEM domain (math, chemistry and biology) that you can play with. I built them as course projects in _Personalized Online Learning_. These intelligent tutoring systems demonstrate some features of adaptivity in problem-specific feedback, allowing multiple paths and mastery learning with skill and KC modeling. 
+## Tutoring System 1:   
+**Domain: Math/ Chemistry**  
 
-Language transfer refers to the influence of previously learned language on target language, due to their similarities and differences. Lado (1957) first put forward the term “language transfer” based on the theory of behaviorism: 
-Individuals tend to transfer the forms and meanings of their native language to the foreign language both productively and receptively.
+This intelligent tutoring system aims at teaching students how to do dosage calculation for medicine.  
 
-Chinese language belongs to Sino-Tibetan phylum, and English belongs to Indo-European phylum, and have many differences that may potentially influence ESL learners' phonetics acquisition. 
 <p align="center">
- <img src='http://kexin-yang.github.io/images/thesis/eng-chi.png?raw=true' alt='Photo' style='width: 650px;'/>
+<img src="https://kexin-yang.github.io/images/STEM_tutor/Tutor2_Interface.png?raw=true" alt="Photo" style="width: 650px;"/>  
+</p>  
+The feature of this intelligent tutoring system is its ability of 1) calculating for students and 2) mass production.    
+**1. Calculating for Students**:
+This means when students type in a textInput box a formula such as 120*3, if the right answer is indeed 360, the tutor can do the calculation for the students and recognize this as correct answer. This function makes use of the AlgEval() algorithm inside CTAT.  
+
+**2. Mass Production:** This is a function made possible by Cognitive Tutor Authoring Tools (CTAT). This enables people to create multiple questions using the same interface components, same production rules, or .brd file. Only thing people need to do is to substitute the problem specific information in the excel form as shown below, in order to create multiple problem in the same nature. 
+
+### How you can play with this tutor:
+
+1. Go to Tutor shop:
+[[Tutorshop Website]](https://school.tutorshop.web.cmu.edu) 
+2. Use the created username and password to log in
+
+    **Username**: tutor1guest1
+
+    **Password**: tutor  
+
+3. Click **"Run Problem Set"** to start playing with the tutor.
+  
+
+---
+
+## Tutoring System 2:   
+**Domain: Math**    
+  
+This is a rule-based cognitive tutor that guide users to do a little "magic" in math. You can easily calculate the square of any number ending in 5, no matter how big the number is. 
+<p align="center">
+<img src="https://kexin-yang.github.io/images/STEM_tutor/Tutor3_interface.png?raw=true" alt="Photo" style="width: 650px;"/>  
 </p>
- In recent years, attentions have been increasingly drawn to the phenomenon of language transfer and the research focus shifting from 
- segmental phonemes to suprasegmental phonemes. 
- In my thesis I investigates Chinese language transfer on both segmental level and suprasegmental level on English phonetics.
-  Research method chosen was acoustic experiment and experiment subjects were thirty-nine students in Grade seven, in Songbai Junior high school, Xiamen. 
-  The speech analysis software Praat was used in the speech visualization and analysis. <br>
-  Research finding shows on the segmental level, student perform significantly better in English diphthong, 
-  possibly correlated with positive transfer from Chinese language, as many diphthong have same or similar phonemes in Chinese. 
-  Students’ performance on monophthong and consonants that do not exist in the Chinese language system was relatively worse, 
-  which could be explained by the negative language transfer theory. 
+
+### How you can play with this tutor:
+
+1. Go to Tutor shop:
+[[Tutorshop Website]](https://school.tutorshop.web.cmu.edu) 
+2. Use the created username and password to log in
+
+    **Username**: squaretutorguest1
+
+    **Password**: square 
+
+3. Click **"Run Problem Set"** to start playing with the tutor.
+  
+ 
+## Tutoring System 3:
+**Domain: Math**  
+
+This is a more sophisticated, rule-based cognitive tutor that decompose proportion problems into inner loops (steps), to guide learners extract information, use common multiple, use common factors, and compare options.  
+ 
+Using this tutoring system, it is possible to mass produce problem files with problem specific information, without changing the interface, to practice the same or similar KCs.  
 <p align="center">
- <img src='http://kexin-yang.github.io/images/thesis/two-compare.png?raw=true' alt='Photo' style='width: 650px;'/>
-</p> 
- <br> On the suprasegmental level, students have features of pronouncing too hastily, neglecting the pauses, rhythm and stress,
-   reading English in a staccato instead of legato way. 
-   
-   This paper suggests future teachers to make use of tools and software such as Praat for educational purposes, to provide corrective feedback for students' pronunciation. 
-   This computer-assisted pedagogy for English phonetics may help learners more easily assess and monitor their pronunciation by visualizing the pitch and spectrogram of their pronunciation.
+<img src="https://kexin-yang.github.io/images/STEM_tutor/Tutor4_interface.png?raw=true" alt="Photo" style="width: 650px;"/>  
+</p>
 
+### How you can play with this tutor:
+
+1. Go to Tutor shop:
+[[Tutorshop Website]](https://school.tutorshop.web.cmu.edu) 
+2. Use the created username and password to log in
+
+    **Username**: ProportionTutorGuest1
+
+    **Password**: proportion
+
+3. Click **"Run Problem Set"** to start playing with the tutor.
   
-  
 
+## Tutoring System 4:
+**Domain: Biology**
 
+This is an interesting rule-based tutor that teach students about Mendelian principles of genetic transmission. This tutor guide students to deduct the genotype of each strain based on the proportion of offspring, coming from each cross between two strains (self-cross accepted).  
+
+Special feature about this tutor is that it will force students to make all deduction about the genetype, be it partial conclusion or final conclusion about the strains involved in last round of crossing, before carrying on to the next round of crossing.
+
+<p align="center">
+<img src="https://kexin-yang.github.io/images/STEM_tutor/Tutor5_interface.png?raw=true" alt="Photo" style="width: 650px;"/>  
+</p>
+
+### How you can play with this tutor:
+
+1. Go to Tutor shop:
+[[Tutorshop Website]](https://school.tutorshop.web.cmu.edu) 
+2. Use the created username and password to log in
+
+    **Username**: GeneGuest
+
+    **Password**: gene
+
+3. Click **"Run Problem Set"** to start playing with the tutor.
 
 
