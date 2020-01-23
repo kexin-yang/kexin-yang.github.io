@@ -19,7 +19,7 @@ In this research, we partner with [Turnitin, Inc.](https://www.turnitin.com/), a
  
 **Background**
  
- While low-level feedback for students' writing have been more successfully automated, it has always been a challenge for AI-based educational systems to give high-level structural feedback on students' essays.
+ While low-level feedback for students' writing has been more successfully automated, it has always been a challenge for AI-based educational systems to give high-level structural feedback on students' essays.
  Part of the reasons are 1) There lacks an accurate way to automatically and accurately detect the high-level structure of students' essays. 2) There is no one-size-fit-all standard or rubrics for what a good structure is like for students' essays.
   
 **Our Approach**   
