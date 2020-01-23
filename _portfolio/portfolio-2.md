@@ -9,8 +9,7 @@ In this research, we partner with Turnitin, Inc., to automate the structural fee
 <img src='https://kexin-yang.github.io/images/RST_tutor/tree.png?raw=true' alt='Photo' style='width: 650px;'/>"  
 collection: portfolio  
 ---
-<br>
-<br>
+
 \#Natural Language Processing, \#Feedback Automationsimon
 <br>\#K-12 Writing Education
 
