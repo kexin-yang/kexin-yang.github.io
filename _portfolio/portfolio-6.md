@@ -1,122 +1,85 @@
 ---
-title: "Cooperative Learning Tool: Learn with your peer!"
+title: "Educational Game for Early Literacy -Sprinkle" 
+excerpt: "**# Independent Game Development**, **# Natural Language Processing**,<br> **# Speech Recognition**, **# Python Programming**
 
-excerpt: "**#Learning Experience Design**, **#Instructional Design**, <br>**#Cooperative Learning**, **#Peer Learning**  
-<br>
-<br>
-This is a platform where you can learn with your peers in a Jigsaw method.<img src='http://kexin-yang.github.io/images/sunscreen/2login.png?raw=true' alt='Photo' style='width: 650px;'/>"  
-collection: portfolio   
+<br><br>This is an educational game I developed, aiming at improving kids' early literacy, with gamified activities including pronouncing words and sorting sentences.<br/><img src='https://kexin-yang.github.io/images/Sprinkle/1.png?raw=true' alt='Photo' style='width: 650px;'/>"  
+collection: portfolio  
+--- 
+\#Independent Game Development, \#Natural Language Processing<br> 
+\#Speech Recognition, \#Python Programming
 
----
+
+**Duration**: 4 weeks, Apr. 15th, 2019 - May.15th, 2019 <br>
+**Designer and Developer**: Kexin Yang
+
+
+## Video demo of Sprinkle
+
+[![SPRINKLE](https://kexin-yang.github.io/images/Sprinkle/1playVideo.png?raw=true)](https://youtu.be/MnF4v5ZgdwY "CameraMaster")
+
+## Speak Game
+
+When a kid correctly pronounce the word in the bubble, the bubble will disappear and the kid will gain 3 points.
+ <p align="center">
+ <img src="https://kexin-yang.github.io/images/Sprinkle/2.png?raw=true" alt="Photo" style="width: 650px;"/>  
+</p>
+
+## Sort Game
+
+### Level 1
+Level 1 assesses the simplest sentence structure: Subject+Object+Verb. <br>
+When a kid correctly sort a sentence into grammatical order, the kid will gain 5 points.
+
+ <p align="center">
+ <img src="https://kexin-yang.github.io/images/Sprinkle/3.png?raw=true" alt="Photo" style="width: 650px;"/>  
+</p>
+
+
+### Level 2
+Level 1 assesses more complex sentence structure: Subject+Object+Verb+Prepositional Phrases (PP).
+When a kid correctly sort a sentence into grammatical order, the kid will gain 10 points.
+ <p align="center">
+ <img src="https://kexin-yang.github.io/images/Sprinkle/4.png?raw=true" alt="Photo" style="width: 650px;"/>  
+</p>
+
+
+## Development Process
+
+### Natural Language Toolkit and Grammar Writing
+To add on to the algorithmic complexity, instead of using existing NLTK grammar, I defined my own grammar that can handle the two sentence structures mentioned<br>
+(1) Subject+Object+Verb (SVO), <br>
+(2) Subject+Object+Verb + Prepositional Phrases(SVO + PP).  
+
+I made use of the recursive parser in the NLTK to recursively parse the sentence structure, and return True or False, depending on whether the sentence entered is in accordance with the grammar I defined.
+
+
+### Animation and User-Interface 
+The interface design was coded using the Python module tkinter, with some external package including PIL to insert background image.  
+
+### Speech Recognition Function
+I made use of the speech_recognition library in Python to hear words spoken and transcribe that into text, then I programmed a function to check if the word heard is the same as the word currently exist. 
+
+
+## Limitation
+Due to time constraint, there is a lot of room for improvement from perspective of learning sciences and educational game design. (For example, while the disappearance of bubbles serve as correctness feedback, the sorting game still lacks immediate corrective feedback). 
+
+### Python Libraries Used:
+Tkinter (Graphic module)
+Speech_recognition  
+Natural Language Toolkit (NLTK)  
+numpy  
+PIL(ImageTk, Image)  
+playsound  <br>
+
+Github Repository: [[Here]](https://github.com/kexin-yang/Sprinkle)
+
+
+<p align="center">
+ <img src="https://kexin-yang.github.io/images/Sprinkle/end4.png?raw=true" alt="Photo" style="width: 250px;"/>  
+</p>
+
   
-\#Learning Experience Design, \#Instructional Design, <br> \#Cooperative Learning, \#Peer Learning
 
-<p align="center">
- <img src="http://kexin-yang.github.io/images/sunscreen/handsJigsaw.png?raw=true" alt="Photo" style="width: 100px;"/>  
-</p>
-## What is Jigsaw method?
-The jigsaw method is a research-based cooperative learning technique, invented in the early 1970s, by Elliot Aronson and his students at the University of Texas and the University of California.
-
-A typical Jigsaw Method consists of the following steps:  
-
-<p align="center">
- <img src="http://kexin-yang.github.io/images/sunscreen/jigsawIntro.png?raw=true" alt="Photo"/>  
-</p>
-
-## How learners Cooperate:
-This tool enable learners to learn the material in a Jigsaw method, but instead of in person, they will be able to learn it cooperatively online. 
-
-The tool was originally designed for **large scale use**. After registration, learns will be assigned a role and learn in a cooperative way.
-
-## Scaffolds for positive interdependence:
-
-Our scaffolds for positive interdependence includes learners will need to count on other learners to get the quiz right. In this way, they will be more likely to teach others since they need others to teach them as well.
-
-## Scaffolds for individual accountability: 
-
-Our scaffolds for individual accountability is that learners need to count on other learners to get the quiz right since they need others to teach them as well.  
-To scaffold them to have individual accountability, we made a window that will pop out before they proceed the final quiz, that ask them to reflect on their behaviors. Specifically, it asks them to reflect whether they have taught their peers, also whether they have make sure they checked their peer’s understanding and made sure they understand. If their answers are no to any of this question, they cannot leave the forum. 
-
-
-## Anticipated behaviors:
-Students will follow the Jigsaw method, first they will watch a video that is common to all of them, that give them an introduction of this topic.   
-
-Secondly, they will be assigned to a video, which is part of the course, they will watch it on their own. This part of the individual video are adapted from the first projects, which use discovery learning- invent and tell method.   
-
-Thirdly, they will join an expert group discussion, in which they can clear confusions and check their understanding. They will do a quiz after that and they must get all questions correctly in order to move on. On the fourth step, they will do peer teaching. They teach their peer about the part they learn, and their peer will also teach them.   
-
-Lastly, here comes the final quiz, in which they will be quizzed on questions both on what they have learnt themselves, and what they have been taught by their peers.
-
-
-## About our Tool: 
-<p align="center">
- <img src="http://kexin-yang.github.io/images/sunscreen/1first.png?raw=true" alt="Photo" style="width: 650px;"/>  
-</p>
-Our platform requires users to login and register, to create attachment and increase user-stickiness.
-<p align="center">
- <img src="http://kexin-yang.github.io/images/sunscreen/2login.png?raw=true" alt="Photo" style="width: 650px;"/>  
-</p>
-
-Learners are constantly reminded know which group they are assigned to, so they know what to expect when it comes to peer teaching.
-<p align="center">
- <img src="http://kexin-yang.github.io/images/sunscreen/4assigned.png?raw=true" alt="Photo" style="width: 650px;"/>  
-</p>
-Learners watch an introductory video on this topic, which is common to all of them.
-<p align="center">
- <img src="http://kexin-yang.github.io/images/sunscreen/5common.png?raw=true" alt="Photo" style="width: 650px;"/>  
-</p>
-
-Then they each watch a different part of the video.
-<p align="center">
- <img src="http://kexin-yang.github.io/images/sunscreen/6individual.png?raw=true" alt="Photo" style="width: 650px;"/>  
-</p>
-
-Like in Jigsaw method, learners can discuss in "Expert group" in the discussion board.
-<p align="center">
- <img src="http://kexin-yang.github.io/images/sunscreen/7expertDiscuss.png?raw=true" alt="Photo" style="width: 650px;"/>  
-</p>
-
-Learners need to take a quiz, they need to get all questions correct, and make sure they are confident to teach the topic to their peer. 
-<p align="center">
- <img src="http://kexin-yang.github.io/images/sunscreen/8expertQuiz.png?raw=true" alt="Photo" style="width: 650px;"/>  
-</p>
-They get explanatory feedback on the quiz questions, but the answers are not highlighted, to avoid roting.
-<p align="center">
- <img src="http://kexin-yang.github.io/images/sunscreen/9expertQuizFeedback.png?raw=true" alt="Photo" style="width: 650px;"/>  
-</p>
-
-Now these expert learners are ready to teach their peer in the discussion board!
-<p align="center">
- <img src="http://kexin-yang.github.io/images/sunscreen/10peerTeach.png?raw=true" alt="Photo" style="width: 650px;"/>  
-</p>
-
-If they want to leave for the final quiz, they will be asked to reflect, whether they have taught their peers.
-<p align="center">
- <img src="http://kexin-yang.github.io/images/sunscreen/11reflect.png?raw=true" alt="Photo" style="width: 650px;"/>  
-</p>
-If their answer is no, they will be directed back to teach their peers.
-<p align="center">
- <img src="http://kexin-yang.github.io/images/sunscreen/12intervene.png?raw=true" alt="Photo" style="width: 650px;"/>  
-</p>
-The course finished once they are done with the final quiz.
-<p align="center">
- <img src="http://kexin-yang.github.io/images/sunscreen/13end.png?raw=true" alt="Photo" style="width: 650px;"/>  
-</p>
-
-
-## What's special?   
-1) The discussion board feature of this tool, enable people to discuss in an **asynchorized** way.  
-2) Our tool is flexible and has memory of users' history, so that they can **resume when they come back**.
-3) Learners can get in contact with **learners all around the world**, since this application/platform can be accessed world-wide.
-
-
-[[Check out our tool here!]](https://radiant-basin-41966.herokuapp.com/)
-
-
-
-<p align="center">
- <img src="http://kexin-yang.github.io/images/sunscreen/jigsawDinosaur.jpg?raw=true" alt="Photo" style="width: 200px;"/>  
-</p>
 
 
 
