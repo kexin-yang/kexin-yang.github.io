@@ -1,122 +1,45 @@
 ---
-title: "Cooperative Learning Tool: Learn with your peer!"
+title: "Language Transfer of Mandarin on English Phonetics Learning" 
 
-excerpt: "**#Learning Experience Design**, **#Instructional Design**, <br>**#Cooperative Learning**, **#Peer Learning**  
+excerpt: "
+**#Language Transfer**, **#Second Language Learning**<br> **#Phonetics and Phonology**, **#Techonology for K-12 Education**
 <br>
-<br>
-This is a platform where you can learn with your peers in a Jigsaw method.<img src='http://kexin-yang.github.io/images/sunscreen/2login.png?raw=true' alt='Photo' style='width: 650px;'/>"  
-collection: portfolio   
-
+<br>My bachelor's thesis focus on language transfer, especially negative transfer of Mandarin on English phonetics aquisition. I conducted acoustic experiment on 39 7th-grade students and analyzed the spectrogram using the software Praat. I studied it on both segmental and suprasegmental phoneme levels how students' pronunciation of mandarin and Min dialect might affect their English pronunciation, in aspects of vowels, consonants and intonation and pitch.  <img src='http://kexin-yang.github.io/images/thesis/sentence.png?raw=true' alt='Photo' style='width: 650px;'/>"  
+collection: portfolio  
 ---
+    
+\#Language Transfer, \#Second Language Learning<br> \#Phonetics and Phonology, \#Techonology for K-12 Education
+
+**Duration**: 6 months, Jan 2018 - Jun 2018 
+
+Language transfer refers to the influence of previously learned language on target language, due to their similarities and differences. Lado (1957) first put forward the term “language transfer” based on the theory of behaviorism: 
+Individuals tend to transfer the forms and meanings of their native language to the foreign language both productively and receptively.
+
+Chinese language belongs to Sino-Tibetan phylum, and English belongs to Indo-European phylum, and have many differences that may potentially influence ESL learners' phonetics acquisition. 
+<p align="center">
+ <img src='http://kexin-yang.github.io/images/thesis/eng-chi.png?raw=true' alt='Photo' style='width: 650px;'/>
+</p>
+ In recent years, attentions have been increasingly drawn to the phenomenon of language transfer and the research focus shifting from 
+ segmental phonemes to suprasegmental phonemes. 
+ In my thesis I investigates Chinese language transfer on both segmental level and suprasegmental level on English phonetics.
+  Research method chosen was acoustic experiment and experiment subjects were thirty-nine students in Grade seven, in Songbai Junior high school, Xiamen. 
+  The speech analysis software Praat was used in the speech visualization and analysis. <br>
+  Research finding shows on the segmental level, student perform significantly better in English diphthong, 
+  possibly correlated with positive transfer from Chinese language, as many diphthong have same or similar phonemes in Chinese. 
+  Students’ performance on monophthong and consonants that do not exist in the Chinese language system was relatively worse, 
+  which could be explained by the negative language transfer theory. 
+<p align="center">
+ <img src='http://kexin-yang.github.io/images/thesis/two-compare.png?raw=true' alt='Photo' style='width: 650px;'/>
+</p> 
+ <br> On the suprasegmental level, students have features of pronouncing too hastily, neglecting the pauses, rhythm and stress,
+   reading English in a staccato instead of legato way. 
+   
+   This paper suggests future teachers to make use of tools and software such as Praat for educational purposes, to provide corrective feedback for students' pronunciation. 
+   This computer-assisted pedagogy for English phonetics may help learners more easily assess and monitor their pronunciation by visualizing the pitch and spectrogram of their pronunciation.
+
   
-\#Learning Experience Design, \#Instructional Design, <br> \#Cooperative Learning, \#Peer Learning
+  
 
-<p align="center">
- <img src="http://kexin-yang.github.io/images/sunscreen/handsJigsaw.png?raw=true" alt="Photo" style="width: 100px;"/>  
-</p>
-## What is Jigsaw method?
-The jigsaw method is a research-based cooperative learning technique, invented in the early 1970s, by Elliot Aronson and his students at the University of Texas and the University of California.
-
-A typical Jigsaw Method consists of the following steps:  
-
-<p align="center">
- <img src="http://kexin-yang.github.io/images/sunscreen/jigsawIntro.png?raw=true" alt="Photo"/>  
-</p>
-
-## How learners Cooperate:
-This tool enable learners to learn the material in a Jigsaw method, but instead of in person, they will be able to learn it cooperatively online. 
-
-The tool was originally designed for **large scale use**. After registration, learns will be assigned a role and learn in a cooperative way.
-
-## Scaffolds for positive interdependence:
-
-Our scaffolds for positive interdependence includes learners will need to count on other learners to get the quiz right. In this way, they will be more likely to teach others since they need others to teach them as well.
-
-## Scaffolds for individual accountability: 
-
-Our scaffolds for individual accountability is that learners need to count on other learners to get the quiz right since they need others to teach them as well.  
-To scaffold them to have individual accountability, we made a window that will pop out before they proceed the final quiz, that ask them to reflect on their behaviors. Specifically, it asks them to reflect whether they have taught their peers, also whether they have make sure they checked their peer’s understanding and made sure they understand. If their answers are no to any of this question, they cannot leave the forum. 
-
-
-## Anticipated behaviors:
-Students will follow the Jigsaw method, first they will watch a video that is common to all of them, that give them an introduction of this topic.   
-
-Secondly, they will be assigned to a video, which is part of the course, they will watch it on their own. This part of the individual video are adapted from the first projects, which use discovery learning- invent and tell method.   
-
-Thirdly, they will join an expert group discussion, in which they can clear confusions and check their understanding. They will do a quiz after that and they must get all questions correctly in order to move on. On the fourth step, they will do peer teaching. They teach their peer about the part they learn, and their peer will also teach them.   
-
-Lastly, here comes the final quiz, in which they will be quizzed on questions both on what they have learnt themselves, and what they have been taught by their peers.
-
-
-## About our Tool: 
-<p align="center">
- <img src="http://kexin-yang.github.io/images/sunscreen/1first.png?raw=true" alt="Photo" style="width: 650px;"/>  
-</p>
-Our platform requires users to login and register, to create attachment and increase user-stickiness.
-<p align="center">
- <img src="http://kexin-yang.github.io/images/sunscreen/2login.png?raw=true" alt="Photo" style="width: 650px;"/>  
-</p>
-
-Learners are constantly reminded know which group they are assigned to, so they know what to expect when it comes to peer teaching.
-<p align="center">
- <img src="http://kexin-yang.github.io/images/sunscreen/4assigned.png?raw=true" alt="Photo" style="width: 650px;"/>  
-</p>
-Learners watch an introductory video on this topic, which is common to all of them.
-<p align="center">
- <img src="http://kexin-yang.github.io/images/sunscreen/5common.png?raw=true" alt="Photo" style="width: 650px;"/>  
-</p>
-
-Then they each watch a different part of the video.
-<p align="center">
- <img src="http://kexin-yang.github.io/images/sunscreen/6individual.png?raw=true" alt="Photo" style="width: 650px;"/>  
-</p>
-
-Like in Jigsaw method, learners can discuss in "Expert group" in the discussion board.
-<p align="center">
- <img src="http://kexin-yang.github.io/images/sunscreen/7expertDiscuss.png?raw=true" alt="Photo" style="width: 650px;"/>  
-</p>
-
-Learners need to take a quiz, they need to get all questions correct, and make sure they are confident to teach the topic to their peer. 
-<p align="center">
- <img src="http://kexin-yang.github.io/images/sunscreen/8expertQuiz.png?raw=true" alt="Photo" style="width: 650px;"/>  
-</p>
-They get explanatory feedback on the quiz questions, but the answers are not highlighted, to avoid roting.
-<p align="center">
- <img src="http://kexin-yang.github.io/images/sunscreen/9expertQuizFeedback.png?raw=true" alt="Photo" style="width: 650px;"/>  
-</p>
-
-Now these expert learners are ready to teach their peer in the discussion board!
-<p align="center">
- <img src="http://kexin-yang.github.io/images/sunscreen/10peerTeach.png?raw=true" alt="Photo" style="width: 650px;"/>  
-</p>
-
-If they want to leave for the final quiz, they will be asked to reflect, whether they have taught their peers.
-<p align="center">
- <img src="http://kexin-yang.github.io/images/sunscreen/11reflect.png?raw=true" alt="Photo" style="width: 650px;"/>  
-</p>
-If their answer is no, they will be directed back to teach their peers.
-<p align="center">
- <img src="http://kexin-yang.github.io/images/sunscreen/12intervene.png?raw=true" alt="Photo" style="width: 650px;"/>  
-</p>
-The course finished once they are done with the final quiz.
-<p align="center">
- <img src="http://kexin-yang.github.io/images/sunscreen/13end.png?raw=true" alt="Photo" style="width: 650px;"/>  
-</p>
-
-
-## What's special?   
-1) The discussion board feature of this tool, enable people to discuss in an **asynchorized** way.  
-2) Our tool is flexible and has memory of users' history, so that they can **resume when they come back**.
-3) Learners can get in contact with **learners all around the world**, since this application/platform can be accessed world-wide.
-
-
-[[Check out our tool here!]](https://radiant-basin-41966.herokuapp.com/)
-
-
-
-<p align="center">
- <img src="http://kexin-yang.github.io/images/sunscreen/jigsawDinosaur.jpg?raw=true" alt="Photo" style="width: 200px;"/>  
-</p>
 
 
 

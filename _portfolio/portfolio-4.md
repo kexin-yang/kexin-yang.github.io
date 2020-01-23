@@ -1,51 +1,85 @@
 ---
-title: "Applying Rhetorical Structure Theory to Student Essays for Providing Automated Writing Feedback" 
+title: "Educational Game for Early Literacy -Sprinkle" 
+excerpt: "**# Independent Game Development**, **# Natural Language Processing**,<br> **# Speech Recognition**, **# Python Programming**
 
-excerpt: "
-**#Natural Language Processing**, **#Feedback Automation**
-<br>**#K-12 Writing Education**
-<br><br>
-With the goal of increasing teachers' satisfaction and sustaining the relevance of materials in intelligent tutoring system, without imposing too much time on the busy teachers, in this recent research, I studied how teachers might guide the crowd to perform improvement on existing instructional materials (on-demand hints) in a math intelligent tutoring system.<br>
-<img src="https://kexin-yang.github.io/images/RST_tutor/tree.png?raw=true" alt="Photo"/>   
+<br><br>This is an educational game I developed, aiming at improving kids' early literacy, with gamified activities including pronouncing words and sorting sentences.<br/><img src='https://kexin-yang.github.io/images/Sprinkle/1.png?raw=true' alt='Photo' style='width: 650px;'/>"  
 collection: portfolio  
----
-/#Natural Language Processing, /#Feedback Automation
-<br>/#K-12 Writing Education
+--- 
+\#Independent Game Development, \#Natural Language Processing<br> 
+\#Speech Recognition, \#Python Programming
 
-**Duration**: Jul. 2018 - Apr. 2019<br>
-**Mentors**: Prof. Carolyn Rose, Prof. Shiyan Jiang 
 
-In this research, we partner with [Turnitin, Inc.](https://www.turnitin.com/), a language technology company, in an effort to automate the structural feedback for student essays, specifically, for the genre of argumentative writing. This research is funded by NSF and Schimdt Family Foundation.  
- 
-**Background**
- 
- While low-level feedback for students' writing have been more successfully automated, it has always been a challenge for AI-based educational systems to give high-level structural feedback on students' essays.
- Part of the reasons are 1) There lacks an accurate way to automatically and accurately detect the high-level structure of students' essays. 2) There is no one-size-fit-all standard or rubrics for what a good structure is like for students' essays.
+**Duration**: 4 weeks, Apr. 15th, 2019 - May.15th, 2019 <br>
+**Designer and Developer**: Kexin Yang
+
+
+## Video demo of Sprinkle
+
+[![SPRINKLE](https://kexin-yang.github.io/images/Sprinkle/1playVideo.png?raw=true)](https://youtu.be/MnF4v5ZgdwY "CameraMaster")
+
+## Speak Game
+
+When a kid correctly pronounce the word in the bubble, the bubble will disappear and the kid will gain 3 points.
+ <p align="center">
+ <img src="https://kexin-yang.github.io/images/Sprinkle/2.png?raw=true" alt="Photo" style="width: 650px;"/>  
+</p>
+
+## Sort Game
+
+### Level 1
+Level 1 assesses the simplest sentence structure: Subject+Object+Verb. <br>
+When a kid correctly sort a sentence into grammatical order, the kid will gain 5 points.
+
+ <p align="center">
+ <img src="https://kexin-yang.github.io/images/Sprinkle/3.png?raw=true" alt="Photo" style="width: 650px;"/>  
+</p>
+
+
+### Level 2
+Level 1 assesses more complex sentence structure: Subject+Object+Verb+Prepositional Phrases (PP).
+When a kid correctly sort a sentence into grammatical order, the kid will gain 10 points.
+ <p align="center">
+ <img src="https://kexin-yang.github.io/images/Sprinkle/4.png?raw=true" alt="Photo" style="width: 650px;"/>  
+</p>
+
+
+## Development Process
+
+### Natural Language Toolkit and Grammar Writing
+To add on to the algorithmic complexity, instead of using existing NLTK grammar, I defined my own grammar that can handle the two sentence structures mentioned<br>
+(1) Subject+Object+Verb (SVO), <br>
+(2) Subject+Object+Verb + Prepositional Phrases(SVO + PP).  
+
+I made use of the recursive parser in the NLTK to recursively parse the sentence structure, and return True or False, depending on whether the sentence entered is in accordance with the grammar I defined.
+
+
+### Animation and User-Interface 
+The interface design was coded using the Python module tkinter, with some external package including PIL to insert background image.  
+
+### Speech Recognition Function
+I made use of the speech_recognition library in Python to hear words spoken and transcribe that into text, then I programmed a function to check if the word heard is the same as the word currently exist. 
+
+
+## Limitation
+Due to time constraint, there is a lot of room for improvement from perspective of learning sciences and educational game design. (For example, while the disappearance of bubbles serve as correctness feedback, the sorting game still lacks immediate corrective feedback). 
+
+### Python Libraries Used:
+Tkinter (Graphic module)
+Speech_recognition  
+Natural Language Toolkit (NLTK)  
+numpy  
+PIL(ImageTk, Image)  
+playsound  <br>
+
+Github Repository: [[Here]](https://github.com/kexin-yang/Sprinkle)
+
+
+<p align="center">
+ <img src="https://kexin-yang.github.io/images/Sprinkle/end4.png?raw=true" alt="Photo" style="width: 250px;"/>  
+</p>
+
   
-**Our Approach**   
-Firstly, to identify the structure of students' essays, we adopted [Rhetorical Structure Theory](https://www.sfu.ca/rst/). Rhetorical Structure Theory (RST) is a linguistics framework, frequently used in information retrieval area, useful for identifying the relation between different Elementary Discourse Unit (EDU). <br>
-   <p align="center">
- <img src="https://kexin-yang.github.io/images/RST_tutor/allRelations.png?raw=true" alt="Photo" style="width: 650px;"/>  
-</p>
-
-To code the existing students' essays using RST, we make use of the [RSTWeb](https://corpling.uis.georgetown.edu/rstweb/info/), an open source, browser based annotation tool for discourse analyses in Rhetorical Structure Theory. <br>
- <p align="center">
- <img src="https://kexin-yang.github.io/images/RST_tutor/tree.png?raw=true" alt="Photo"/>  
-</p>
-
-In the coding process, in an effort to build inter-rater reliability, we developed a flowchart, as well as an annotation guideline (see references). 
- <p align="center">
- <img src="https://kexin-yang.github.io/images/TII_Proj/partFlow.png?raw=true" alt="Photo"/>  
-</p>
-
- <p align="center">
- <img src="https://kexin-yang.github.io/images/TII_Proj/fullFlow.png?raw=true" alt="Photo"/>  
-</p>
 
 
-We also developed an [intelligent tutoring system](https://kxyang.com/portfolio/portfolio-5/) in order to teach novices grasp RST annotation. 
 
 
-**Related references**
-- Applying Rhetorical Structure Theory to Student Essays for Providing Automated Writing Feedback, Shiyan Jiang, Kexin Yang, Chandrakumari Suvarna, Pooja Casula, Mingtong Zhang, Carolyn Rose, Proceedings of the Workshop on Discourse Relation Parsing and Treebanking 2019. [[PDF]](https://www.aclweb.org/anthology/W19-2720.pdf).
-- Guideline and Flowchart for Rhetorical Structure Theory Annotation, Technical Report, Carnegie Mellon University Language Technologies Institute. [[PDF]](https://www.lti.cs.cmu.edu/sites/default/files/Guideline%20and%20Flowchart%20for%20Rhetorical%20Structure%20Theory%20Annotation_2.pdf)
