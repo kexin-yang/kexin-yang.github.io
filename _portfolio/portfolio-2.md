@@ -5,11 +5,13 @@ excerpt: "
 **#Natural Language Processing**, **#Feedback Automation**
 <br>**#K-12 Writing Education**
 <br><br>
-With the goal of increasing teachers' satisfaction and sustaining the relevance of materials in intelligent tutoring system, without imposing too much time on the busy teachers, in this recent research, I studied how teachers might guide the crowd to perform improvement on existing instructional materials (on-demand hints) in a math intelligent tutoring system.<br>
-<img src="https://kexin-yang.github.io/images/RST_tutor/tree.png?raw=true" alt="Photo"/>   
+In this research, we partner with [Turnitin, Inc.](https://www.turnitin.com/), a language technology company, in an effort to automate the structural feedback for student essays, specifically, for the genre of argumentative writing. This research is funded by NSF and Schimdt Family Foundation.  
+<img src="https://kexin-yang.github.io/images/RST_tutor/tree.png?raw=true" alt="Photo" style='width: 650px;'/> "  
 collection: portfolio  
 ---
-/#Natural Language Processing, /#Feedback Automation
+<br>
+<br>
+/#Natural Language Processing, /#Feedback Automationsimon
 <br>/#K-12 Writing Education
 
 **Duration**: Jul. 2018 - Apr. 2019<br>
