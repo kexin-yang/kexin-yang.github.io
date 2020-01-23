@@ -7,6 +7,11 @@ excerpt: "
 <br><br>
 In this research, we partner with Turnitin, Inc., to automate the structural feedback for student essays, specifically for the genre of argumentative writing. This research is funded by NSF and Schimdt Family Foundation.  
 <img src="https://kexin-yang.github.io/images/RST_tutor/tree.png?raw=true" alt="Photo" style='width: 650px;'/> "  
+=======
+**#Natural Language Processing**, **#Feedback Automation**, <br>**#K-12 Writing Education**
+<br>
+<br>
+In this research, we partner with [Turnitin, Inc.](https://www.turnitin.com/), a language technology company, in an effort to automate the structural feedback for student essays, specifically, for the genre of argumentative writing. This research is funded by NSF and Schimdt Family Foundation. <img src="https://kexin-yang.github.io/images/RST_tutor/tree.png?raw=true" alt="Photo" style='width: 650px;'/> "  
 collection: portfolio  
 ---
 <br>
