@@ -46,6 +46,6 @@ In the coding process, in an effort to build inter-rater reliability, we develop
 We also developed an [intelligent tutoring system](https://kxyang.com/portfolio/portfolio-5/) in order to teach novices grasp RST annotation. 
 
 
-**Related references**
+**References**
 - Applying Rhetorical Structure Theory to Student Essays for Providing Automated Writing Feedback, Shiyan Jiang, Kexin Yang, Chandrakumari Suvarna, Pooja Casula, Mingtong Zhang, Carolyn Rose, Proceedings of the Workshop on Discourse Relation Parsing and Treebanking 2019. [[PDF]](https://www.aclweb.org/anthology/W19-2720.pdf).
 - Guideline and Flowchart for Rhetorical Structure Theory Annotation, Technical Report, Carnegie Mellon University Language Technologies Institute. [[PDF]](https://www.lti.cs.cmu.edu/sites/default/files/Guideline%20and%20Flowchart%20for%20Rhetorical%20Structure%20Theory%20Annotation_2.pdf)
