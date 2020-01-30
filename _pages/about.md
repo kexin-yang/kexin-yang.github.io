@@ -7,11 +7,17 @@ redirect_from:
   - /about/
   - /about.html
 ---
-* I am currently a transitional master student in HCI Lab, School of Computer Science in University of Waterloo. I am in Teachable Robot Lab working with Prof. Edith Law (CS), and collaborate with the Cognitive Development Lab directed by Prof. Elizabeth Nilsen (Psychology), where I study how kids perceive teachable humanoid robots and learn from teaching them. 
+* I am currently a graduate student in HCI Lab, School of Computer Science in University of Waterloo. I am in Teachable Robot Lab working with Prof. Edith Law (CS), and collaborate with the Cognitive Development Lab directed by Prof. Elizabeth Nilsen (Psychology), where I study how kids perceive teachable humanoid robots and learn from teaching them. 
 * I graduated from the School of Computer Science in Carnegie Mellon University, where I majored in Educational Technology and Applied Learning Sciences ([METALS](https://hcii.cmu.edu/masters-educational-technology-and-applied-learning-science-program-overview)) at Human-Computer Interaction Institute.
 * During my time in CMU, I was advised by Prof. [Carolyn Rose](http://www.cs.cmu.edu/~cprose/) from Langauge Technology Institute (LTI), Prof. [Vincent Aleven](https://hcii.cmu.edu/people/vincent-aleven) from HCII, and Prof. [Joseph Jay Williams](http://www.josephjaywilliams.com) from Computer Science department, University of Toronto. I also worked closely with the amazing Ph.D. students and post-docs in CMU HCII and LTI, including [Ken Holstein](https://kenholstein.myportfolio.com/), [Xu Wang](http://www.iamxuwang.com/), [Tomoshiro Nagashima](https://tomonag.org/) and [Shiyan Jiang](http://shiyanjiang.com/visual/).
-* I received my Bachelor's Degree in Beijing Normal University in English language literature, focusing on language education. I have taught English in various public schools and private institutions, including [Beijing 101 High School](https://en.wikipedia.org/wiki/Beijing_101_Middle_School), Meitan Qiushi High School, [Knovva Academy](https://www.knovva.com), and [Foreign Language Teaching and Research Press](http://en.fltrp.com).
+* I received my Bachelor's Degree in Beijing Normal University in English language literature, focusing on language education. I have taught English in various public schools and private institutions, including [Beijing 101 High School](https://en.wikipedia.org/wiki/Beijing_101_Middle_School), Meitan Qiushi High School, [Knovva Academy](https://www.knovva.com), and [Foreign Language Teaching and Research Press](http://en.fltrp.com). 
  
+My Story
+===
+My teaching experiences in various schools exposed me to many **challenges faced by K-12 students and teachers** in their daily work. To name a few, students I taught from an under-developed province lack quality teacher resources; teachers I worked with at a top high school in China said they felt exhausted with heavy workload, petty tasks and keeping up with the accelerated students. At that time, with the rapid development of technologies (e.g. machine learning and MOOC), I felt it could be of help for coping these challenges faced by teachers and students.   
+
+This led me to pursue graduate study in Educational Technology in Carnegie Mellon University HCII and HCI Lab in University of Waterloo, where I got in touch with various cutting-edge research in Artificial Intelligence in education and HCI, which greatly inspired my interest in further study in this area. 
+
 Research Area
 ===
    My research interests lie at the intersection of Human-Computer Interaction, Learning Science and Artificial Intelligence. 
@@ -38,3 +44,5 @@ News and Travel
 [<b>March 28,2019</b>] Our paper "Applying Rhetorical Structure Theory to Student Essays for Providing Automated Writing Feedback" was accepted to NAACL-HLT 2019 DISRPT workshop.
 
 
+Acknowledgement
+===
