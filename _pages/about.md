@@ -14,7 +14,7 @@ redirect_from:
  
 My Story
 ===
-My teaching experiences in various schools exposed me to many **challenges faced by K-12 students and teachers** in their daily work. To name a few, students I taught from an under-developed province lack quality teacher resources; teachers I worked with at a top high school in China said they felt exhausted with heavy workload, petty tasks and keeping up with the accelerated students. At that time, with the rapid development of technologies (e.g. machine learning and MOOC), I felt it could be of help for coping these challenges faced by teachers and students.   
+My teaching experiences in various schools exposed me to many **challenges faced by K-12 students and teachers** in their daily work. To name a few, students I taught from an under-developed province lack quality teacher resources; teachers I worked with at a top high school in China said they felt exhausted with heavy workload, petty tasks and keeping up with the accelerated students. At that time, with the rapid development of technologies (e.g. machine learning and MOOC), I felt technologies could be of help for coping these challenges faced by teachers and students.   
 
 This led me to pursue graduate study in Educational Technology in Carnegie Mellon University HCII and HCI Lab at UWaterloo, where I got in touch with various cutting-edge research in Artificial Intelligence in education and HCI, greatly inspired my interest in further study in this area. 
 
@@ -44,5 +44,4 @@ News and Travel
 [<b>March 28,2019</b>] Our paper "Applying Rhetorical Structure Theory to Student Essays for Providing Automated Writing Feedback" was accepted to NAACL-HLT 2019 DISRPT workshop.
 
 
-Acknowledgement
-===
+
