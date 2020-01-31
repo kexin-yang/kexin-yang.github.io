@@ -49,18 +49,16 @@ News and Travel
 
 Acknowledge
 ===
-I appreciate deeply of friends and family in China, U.S. and Canada who support me unconditionally. I also especially want to acknowledge the professors, advisors and mentors I have had the fortune to work with, who supported, encouraged and inspired me in my academic career.    
+I appreciate everyone who supported, encouraged and inspired me in my life. My friends, family and especially, professors and mentors.    
+ 
+My undergraduate thesis advisor, Prof. Hui Yu (BNU), was the first one who introduced me to academic research. I wanted to study the negative phonetic transfer as thesis, because I noticed from teaching that students' local accent can seriously hinder their confidence to speak English. Prof. Yu supported me to do thesis on what I am interested, even though it was peripheral to her research.
 
-I was fortunate to be educated by the "teachers of teachers" from arguably the best normal Univeristy in China. Many professors, including Prof. Zehang Chen, Prof. Xiaofang Qian, Prof. Hong Jiang have not only passed on knowledge to students, but cared deeply about whether we survive and thrive in our college lives. 
-My undergraduate thesis advisor, Prof. Hui Yu, was the first professor who introduced me to academic research. I noticed the heavy local accent hindering students' confidence to speak English from volunteer teaching, and wanted to study this (negative phonetic transfer) as thesis. Prof. Yu supported this decision and encouraged me to study what I am interested, even though this is peripheral to her main research.
+Prof. [Carolyn Rose](http://www.cs.cmu.edu/~cprose/) (CMU, LTI/HCII), my first graduate level advisor, involved me in my first HCI/AIED research project on automated writing feedback. Her passion, dedication, efficiency and highly organized way of work hugely impacted me. I appreciate her sincere advice on work and life, and help and support when I needed the most. 
 
-Prof. [Carolyn Rose](http://www.cs.cmu.edu/~cprose/) (Carnegie Mellon University, LTI/HCII) was my first graduate level advisor, who involved me in my first HCI/AIED research project on automated writing feedback. Her passion, dedication, efficiency and highly organized way of work had huge impact on me. She spares no effort to help support her students in ways, and I always remember the sincere advice she gave me on research, keeping physical and psychological health and long-term career development.   
+Prof. [Vincent Aleven](https://hcii.cmu.edu/people/vincent-aleven)  and Ken Holstein (CMU HCII) has shown me how devoted and passionate people can be in their work. Doing research with them is like a fun adventure. The first research project I led (on teacher-guided crowdsourcing) had transforming influence on me. Mentored by them, I felt so inspired, motivated and well-supported, and learned so much more than I can imagine. 
 
-Prof. [Vincent Aleven](https://hcii.cmu.edu/people/vincent-aleven) (Carnegie Mellon University, HCII) and his post-doc Ken Holstein have shown me how devoted and passionate people can be in their work in ways I have never expected. Doing research with them is like an adventure together. The first research project I led (on teacher-guided crowdsourcing) had transforming influence on me. Being mentored by Vincent, Ken and Prof. Joseph Jay Williams (U of Toronto), I have felt so inspired, motivated and well-supported, and learned so much more than I can imagine.  
+As for my current advisors Prof. [Edith Law](http://edithlaw.ca/), my appreciation is also beyond words - especially for her trust, support and dedication to her work.  
 
-As for my current advisors Prof. [Edith Law](http://edithlaw.ca/), my appreciation is also beyond words - for her trust in us, supporting our interest, and dedication to her work.  My thanks also go to other mentors who have shown great support, including Prof. Elizabeth Nilsen (UWaterloo), Prof. Shiyan Jiang (NCSU), Xu Wang(CMU), Tomohiro Nagashima (CMU).
-
-I am really fortunate to have met these people who are not only great mentors, but also wonderful human-being. 
 
 
 
