@@ -57,7 +57,7 @@ Prof. [Carolyn Rose](http://www.cs.cmu.edu/~cprose/) (CMU, LTI/HCII), my first g
 
 Prof. [Vincent Aleven](https://hcii.cmu.edu/people/vincent-aleven)  and Ken Holstein (CMU HCII) have shown me how devoted and passionate people can be in their work. Doing research with them is like an adventure. I led my first research project (on teacher-guided crowdsourcing) which had transforming influence on me. I felt so inspired, motivated and well-supported working with them, and learned so much more than I can imagine. 
 
-As for my current advisors Prof. [Edith Law](http://edithlaw.ca/), my appreciation is also beyond words - especially for her trust, support and dedication to her work.  
+My current advisors Prof. [Edith Law](http://edithlaw.ca/) showed great trust and support to us and dedication to her work. She is often very genuinely curious about what might happen in our experiment. Thanks to her, I have a chance to study teachable agent and educational robot, research topics that I find fascinating. 
 
 
 
