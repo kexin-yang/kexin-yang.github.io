@@ -15,7 +15,7 @@ During my time in CMU, I was advised by Prof. [Carolyn Rose](http://www.cs.cmu.e
 
 I received my Bachelor's Degree in Beijing Normal University in English language literature, focusing on language education. I have taught English in various public schools and private institutions, including [Beijing 101 High School](https://en.wikipedia.org/wiki/Beijing_101_Middle_School), Meitan Qiushi High School, [Knovva Academy](https://www.knovva.com), and [Foreign Language Teaching and Research Press](http://en.fltrp.com). 
  
-Background
+Why research in this area?
 ===
 My teaching experiences in various schools exposed me to many **challenges faced by K-12 students and teachers** in their daily work. To name a few, students I taught from an under-developed province lack quality teacher resources; teachers I worked with at a top high school in China said they felt exhausted with heavy workload, petty tasks and keeping up with the accelerated students. 
 
