@@ -57,7 +57,7 @@ Prof. [Carolyn Rose](http://www.cs.cmu.edu/~cprose/) (CMU, LTI/HCII), who involv
 
 Prof. [Vincent Aleven](https://hcii.cmu.edu/people/vincent-aleven)  and [Ken Holstein](https://kenholstein.myportfolio.com/) (CMU HCII) have shown me how devoted and passionate people can be in their work. Doing research with them is like an adventure. I led my first research project (on teacher-guided crowdsourcing) which had transforming influence on me. I felt so inspired, motivated and well-supported working with them, and learned so much more than I can imagine. 
 
-As for my current advisors Prof. [Edith Law](http://edithlaw.ca/) and Prof. [Elizabeth Nilsen](https://uwaterloo.ca/psychology/people-profiles/elizabeth-nilsen), I especially appreciate their trust and support to us and dedication to the work.  
+As for my current advisors Prof. [Edith Law](http://edithlaw.ca/) and Prof. [Elizabeth Nilsen](https://uwaterloo.ca/psychology/people-profiles/elizabeth-nilsen), I appreciate them introducing me to this interesting topic of teachable agent and educational robot, their trust and support to us and dedication to their work.  
 
 
 
