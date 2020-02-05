@@ -48,11 +48,11 @@ News and Travel
 
 Acknowledgement
 ===
-I appreciate everyone who supported, encouraged and inspired me in my life. My friends, family and especially, professors and mentors.    
+I appreciate everyone who supported, encouraged and inspired me in my life. My friends, family, professors and mentors.    
  
 My undergraduate thesis advisor, Prof. Hui Yu (BNU), was the first one who introduced me to academic research. She supported my interest in doing thesis on negative phonetic transfer even though that was peripheral to her research. 
 
-Prof. [Carolyn Rose](http://www.cs.cmu.edu/~cprose/) (CMU, LTI/HCII), who introduced me to my first HCI/AIED research project (on automated writing feedback). Her passion, dedication, efficiency and highly organized way of work hugely impacted me. I appreciate her sincere advice on work and life, and help and support when I needed the most. 
+Prof. [Carolyn Rose](http://www.cs.cmu.edu/~cprose/) (CMU, LTI/HCII), who introduced me to my first HCI/AIED research project on automated writing feedback. Her passion, dedication, efficiency and highly organized way of work hugely impacted me. I appreciate her sincere advice on work and life, and help and support when I needed the most. 
 
 Prof. [Vincent Aleven](https://hcii.cmu.edu/people/vincent-aleven)  and [Ken Holstein](https://kenholstein.myportfolio.com/) (CMU HCII) have shown me how devoted and passionate people can be in their work. Doing research with them is like an adventure. I led my first research project (on teacher-guided crowdsourcing) which had transforming influence on me. I felt so inspired, motivated and well-supported working with them, and learned so much more than I can imagine. 
 
