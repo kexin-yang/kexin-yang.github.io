@@ -31,6 +31,8 @@ At that time, with the rapid development of technologies (e.g. machine learning 
 
 News and Travel
 ===
+[<b>Feb.5th, 2020</b>] Our paper <Pedagogical Affordance Analysis: Leveraging Teachers’ Pedagogical Knowledge for Eliciting Pedagogical Affordances and Constraints of Instructional Tools> was accepted to International Conference of Learning Sciences (ICLS) 2020 as a short paper. 
+
 [<b>Nov.10th, 2019 </b>] I am excited to learn that [Enlighten Dashboard](https://demo.enlighten.education/), product of our 7-month capstone project, will be released in the back-to-school semester in 2020 by Renaissance Learning Inc (RL), potentially reaching more than one third of U.S. schools!
 
 [<b>Apr.16th - 18th, 2020</b>] I was selected to join the 2020 CRA-WP Grad Cohort for Women in New Orleans, LA. 
