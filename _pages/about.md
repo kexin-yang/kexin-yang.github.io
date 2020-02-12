@@ -31,7 +31,8 @@ At that time, with the rapid development of technologies (e.g. machine learning 
 
 News and Travel
 ===
-[<b>Feb.5th, 2020</b>] Our paper <Practice-Based Teacher Education with ELK: A Role-Playing Simulation for Eliciting Learner Knowledge> was accepted to International Conference of Learning Sciences (ICLS) 2020 as a poster.
+[<b>Feb.5th, 2020</b>] Our paper <Practice-Based Teacher Education with ELK: A Role-Playing Simulation for Eliciting Learner Knowledge> was accepted to International Conference of Learning Sciences (ICLS) 2020 as a poster.  
+
 [<b>Feb.5th, 2020</b>] Our paper <Pedagogical Affordance Analysis: Leveraging Teachers’ Pedagogical Knowledge for Eliciting Pedagogical Affordances and Constraints of Instructional Tools> was accepted to International Conference of Learning Sciences (ICLS) 2020 as a short paper. 
 
 [<b>Nov.10th, 2019</b>] I am excited to learn that [Enlighten Dashboard](https://demo.enlighten.education/), product of our 7-month capstone project, will be released in the back-to-school semester in 2020 by Renaissance Learning Inc (RL), potentially reaching more than one third of U.S. schools!
@@ -55,7 +56,7 @@ I appreciate everyone who supported, encouraged and inspired me in my life. My f
  
 My undergraduate thesis advisor, Prof. Hui Yu (BNU), was the first one who introduced me to academic research. She supported my interest in doing thesis on negative phonetic transfer even though that was peripheral to her research. 
 
-Prof. [Carolyn Rose](http://www.cs.cmu.edu/~cprose/) (CMU, LTI/HCII), who introduced me to my first HCI/AIED research project on automated writing feedback. Her passion, dedication, efficiency and highly organized way of work hugely impacted me. I appreciate her sincere advice on work and life, and help and support when I needed the most. 
+Prof. [Carolyn Rose](http://www.cs.cmu.edu/~cprose/) (CMU, LTI/HCII), who introduced me to my first HCI/AIED research project on automated writing feedback. Her passion, dedication, efficiency and highly organized way of work hugely impacted me. I appreciate her sincere advice on work and life, and help and support when I need the most. 
 
 Prof. [Vincent Aleven](https://hcii.cmu.edu/people/vincent-aleven)  and [Ken Holstein](https://kenholstein.myportfolio.com/) (CMU HCII) have shown me how devoted and passionate people can be in their work. Doing research with them is like an adventure. I led my first research project (on teacher-guided crowdsourcing) which had transforming influence on me. I felt so inspired, motivated and well-supported working with them, and learned so much more than I can imagine. 
 
