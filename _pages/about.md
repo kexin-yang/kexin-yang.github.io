@@ -21,13 +21,17 @@ Research Area
    
    My past work focuses on **learning sciences and technologies**, including artificial intelligence (AI) in education, intelligent tutoring systems (ITS), language technology and educational robots. I am passionate about supporting students to learn more effectively and educators to work more efficiently.  
   
-   I am also interested in **social computing** and computer-supported cooperative work (CSCW), including crowdsourcing, learnersourcing, and a broad range of HCI topics that seek to support people's emotional and physical well-being. 
+   I am also interested in **social computing** and computer-supported cooperative work (CSCW), including crowdsourcing, learnersourcing, and a broad range of HCI topics that seek to support people's emotional and physical well-being.
 
 Why research in this area?
 ===
 My teaching experiences in various schools exposed me to many **challenges faced by K-12 students and teachers** in their daily work. To name a few, students I taught from an under-developed province lack quality teacher resources; teachers I worked with at a top high school in China said they felt exhausted with heavy workload, petty tasks and keeping up with the accelerated students. 
 
 At that time, with the rapid development of technologies (e.g. machine learning and MOOC), I felt technologies could be of help for coping these challenges faced by teachers and students. This led me to pursue graduate study in Educational Technology in Carnegie Mellon University HCII and Computer Sciences in HCI Lab at UWaterloo, where I got in touch with various cutting-edge research in Artificial Intelligence in education and HCI, which greatly inspired my interest in further study in this area. 
+
+About my name
+===
+I went by the name "Bella" for years too, my Chinese name "Kexin" is (most easily) pronounced as "K-uhh, Shin" or "cushion" :P I like and identify with both names, feel free to call me either one.   
 
 News and Travel
 ===
