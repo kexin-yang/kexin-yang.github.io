@@ -31,7 +31,7 @@ At that time, with the rapid development of technologies (e.g. machine learning 
 
 About my name
 ===
-I went by the name "Bella" for years too, my Chinese name "Kexin" is (most easily) pronounced as "K-uhh, Shin" or "cushion" :P I like and identify with both names, feel free to call me either one.   
+I went by the name "Bella" for years, my Chinese name "Kexin" is (most easily) pronounced as "K-uhh, Shin", similar to "cushion". I like both names, feel free to call me either one.    
 
 News and Travel
 ===
