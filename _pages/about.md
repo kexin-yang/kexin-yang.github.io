@@ -31,7 +31,7 @@ At that time, with the rapid development of technologies (e.g. machine learning 
 
 About my name
 ===
-I went by the name "Bella" for years, my Chinese name "Kexin" is (most easily) pronounced as "K-uhh, Shin", similar to "cushion". I like both names, feel free to call me either one.    
+I went by the name "Bella" for years, my Chinese name "Kexin" is (most easily) pronounced as "K-uhh, Shin", kind of similar to "cushion". I like both names, feel free to call me either one.    
 
 News and Travel
 ===
@@ -62,7 +62,7 @@ My undergraduate thesis advisor, Prof. Hui Yu (BNU), was the first one who intro
 
 Prof. [Carolyn Rose](http://www.cs.cmu.edu/~cprose/) (CMU, LTI/HCII), who introduced me to my first HCI/AIED research project on automated writing feedback. Her passion, dedication, efficiency and highly organized way of work hugely impacted me. I appreciate her sincere advice on work and life, and help and support when I need the most. 
 
-Prof. [Vincent Aleven](https://hcii.cmu.edu/people/vincent-aleven)  and [Ken Holstein](https://kenholstein.myportfolio.com/) (CMU HCII) have shown me how devoted and passionate people can be in their work. Doing research with them is like an adventure. I led my first research project (on teacher-guided crowdsourcing) which had transforming influence on me. I felt so inspired, motivated and well-supported working with them, and learned so much more than I can imagine. 
+Prof. [Vincent Aleven](https://hcii.cmu.edu/people/vincent-aleven)  and Dr. [Ken Holstein](https://kenholstein.myportfolio.com/) (CMU HCII) have shown me how devoted and passionate people can be in their work. Doing research with them is like an adventure. I led my first research project (on teacher-guided crowdsourcing) which had transforming influence on me. I felt so inspired, motivated and well-supported working with them, and learned so much more than I can imagine. 
 
 As for my current advisors Prof. [Edith Law](http://edithlaw.ca/) and Prof. [Elizabeth Nilsen](https://uwaterloo.ca/psychology/people-profiles/elizabeth-nilsen), their trust and support to us is beyond words, and I especially appreciate them introducing me to this new and interesting area of teachable agent and educational robot.  
 
