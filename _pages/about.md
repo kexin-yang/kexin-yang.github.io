@@ -31,7 +31,7 @@ At that time, with the rapid development of technologies (e.g. machine learning 
 
 About my name
 ===
-My name "Kexin" is most easily pronounced as /kə/-/ʃɪn/ in IPA. I also go by the name Bella for years. I like both names, feel free to call me either one.    
+My first name "Kexin" is pronounced as **"kuh-shin"** (/kə-ʃIn/in IPA). I also go by the name Bella.    
 
 News and Travel
 ===
