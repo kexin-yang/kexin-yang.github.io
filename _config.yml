@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Kexin (Bella) Yang"
+title                    : "Kexin 'Bella' Yang"
 title_separator          : "-"
 name                     : &name "Kexin Yang"
 description              : &description "Grad Student in HCI Lab, University of Waterloo, Carnegie Mellon University HCII alumnae"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Kexin Yang"
+  name             : "Kexin 'Bella' Yang"
   avatar           : "kexin-head.png"
   bio              : "Grad student in CS, University of Waterloo; alumnus of HCII, Carnegie Mellon University "
   location         :
