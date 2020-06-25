@@ -31,7 +31,7 @@ At that time, with the rapid development of technologies (e.g. machine learning 
 
 About my name
 ===
-I prefer togo by the name Bella. For my first name's Ke-xin's pronunciation, here is a useful [website](https://chinese.yabla.com/chinese-pinyin-chart.php) where you can click to hear respectively, **kě (可)** and **xīn (馨)**.
+I go by Bella or Kexin. For pronunciation, here is a useful [website](https://chinese.yabla.com/chinese-pinyin-chart.php) where you can click to hear **kě (可)** and **xīn (馨)** respectively.
 
 News and Travel
 ===
