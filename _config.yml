@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Kexin 'Bella' Yang"
   avatar           : "kexin-head.png"
-  bio              : "Grad student in CS, University of Waterloo; alumna of HCII, Carnegie Mellon University "
+  bio              : "Grad student in University of Waterloo; alumna of HCII, Carnegie Mellon University "
   location         :
   employer         :
 #  googlescholar    : "https://scholar.google.com/citations?user=OKcDoN8AAAAJ&hl=en&oi=ao"
@@ -95,7 +95,7 @@ author:
   flickr           : "https://kexinyang.home.blog"
   facebook         :
   foursquare       :
-  github           : "kexin-yang"
+  github           : #"kexin-yang"
   google_plus      :
   keybase          :
   instagram        :
@@ -107,7 +107,7 @@ author:
   #stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "KexinYang_"
+  twitter          : #"KexinYang_"
   vine             :
   weibo            :
   xing             :
