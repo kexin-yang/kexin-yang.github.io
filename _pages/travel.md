@@ -1,6 +1,6 @@
 ---
 permalink: /travel/
-title: "Travel"
+title: ""
 author_profile: true
 redirect_from: 
   - /md/
@@ -9,6 +9,8 @@ redirect_from:
 
 News and Travel
 ===
+[<b>Aug. 31st, 2020<b>] I started HCI PhD program at CMU and returned Pittsburgh.
+
 [<b>Feb.5th, 2020</b>] Our paper <Practice-Based Teacher Education with ELK: A Role-Playing Simulation for Eliciting Learner Knowledge> was accepted to International Conference of Learning Sciences (ICLS) 2020 as a poster.  
 
 [<b>Feb.5th, 2020</b>] Our paper <Pedagogical Affordance Analysis: Leveraging Teachers’ Pedagogical Knowledge for Eliciting Pedagogical Affordances and Constraints of Instructional Tools> was accepted to International Conference of Learning Sciences (ICLS) 2020 as a short paper. 
@@ -19,7 +21,7 @@ News and Travel
  
 [<b>Nov.8th, 2019</b>] I attended the CAN-CWIC (Canadian Women in Computing) conference in Toronto.
 
-[<b>Sep.3rd, 2019</b>] I joined the HCI Lab in University of Waterloo, working with [Prof. Edith Law](http://edithlaw.ca/).
+[<b>Sep.3rd, 2019</b>] I joined the HCI Lab in University of Waterloo after graduation. 
 
 [<b>Aug 13, 2019 </b>] I finished capstone and officially graduated Carnegie Mellon University, HCII. View my [[transcript]](http://kexin-yang.github.io/files/CMU_transcript.pdf).
 
