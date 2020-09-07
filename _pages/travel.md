@@ -9,7 +9,7 @@ redirect_from:
 
 News and Travel
 ===
-[<b>Aug. 31st, 2020<b>] I started HCI PhD program at CMU and returned Pittsburgh.
+[<b>Aug. 31st, 2020</b>] I started HCI PhD program at CMU and returned Pittsburgh.
 
 [<b>Feb.5th, 2020</b>] Our paper <Practice-Based Teacher Education with ELK: A Role-Playing Simulation for Eliciting Learner Knowledge> was accepted to International Conference of Learning Sciences (ICLS) 2020 as a poster.  
 
