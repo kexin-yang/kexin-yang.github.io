@@ -2,7 +2,7 @@
 title: "Applying Rhetorical Structure Theory to Student Essays for Providing Automated Writing Feedback" 
 
 excerpt: "
-**#Natural Language Processing**, **#Feedback Automation**
+ **#Feedback Automation**
 <br>**#K-12 Writing Education**
 <br><br>
 In this research, we partner with Turnitin, Inc., to automate the structural feedback for student essays, specifically for the genre of argumentative writing. This research is funded by NSF and Schimdt Family Foundation.  <br>
