@@ -13,7 +13,7 @@ I received my Bachelor's Degree in Beijing Normal University in English language
    
 Research Area
 ===
-   My research interests lie at the intersection of Human-Computer Interaction, Learning Science and Artificial Intelligence. 
+   My research interests lie at the intersection of Human-Computer Interaction and Learning Science. 
    
    I am interested in **learning sciences and technologies**. My work touches on artificial intelligence (AI) in education, intelligent tutoring systems (ITS), language technology, educational robots and XR in education. 
    I am curious about how educational technologies can support students learn more effectively and educators to work more efficiently.  
