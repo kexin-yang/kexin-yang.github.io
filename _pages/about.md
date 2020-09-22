@@ -22,4 +22,4 @@ Research Area
 
 My name
 ===
-I go by Bella or Kexin, and don't really have a preference :) If you are curious about pronunciation of "Kexin", here is a useful [website](https://chinese.yabla.com/chinese-pinyin-chart.php) where you can click to hear **kě (可)** and **xīn (馨)** respectively.
+I go by Bella or Kexin :) If you are curious about pronunciation of "Kexin", here is a useful [website](https://chinese.yabla.com/chinese-pinyin-chart.php) where you can click to hear **kě (可)** and **xīn (馨)** respectively.
