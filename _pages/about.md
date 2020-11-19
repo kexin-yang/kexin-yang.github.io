@@ -14,3 +14,7 @@ I received my Bachelor's Degree in Beijing Normal University in English language
 My research interests lie at the intersection of Human-Computer Interaction and Learning Science.    
 
 I go by Bella or Kexin :) If you are curious about pronunciation of "Kexin", here is a useful [website](https://chinese.yabla.com/chinese-pinyin-chart.php) where you can click to hear **kě (可)** and **xīn (馨)** respectively.
+
+
+  ---
+[Fun](https://sites.google.com/view/kexinfun/home)
