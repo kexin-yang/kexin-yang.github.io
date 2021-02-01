@@ -69,7 +69,7 @@ We went through three major iterations of the tutoring system.
 
 3. Click **"Run Problem Set"** to start playing with the tutor.
 
-## Video demo of Sprinkle
+## Video demo of RST tutor
 
 [![RSTtutoringSystem](https://kexin-yang.github.io/images/RST_tutor/rstVideo.png?raw=true)](https://youtu.be/xWnZbm3mYys "CameraMaster")
 
