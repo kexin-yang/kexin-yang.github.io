@@ -21,7 +21,7 @@ Teachers expressed desire to customize the materials, yet are short of the time 
 <img src='http://kexin-yang.github.io/images/IS/system-mockup.png?raw=true' alt='Photo' style='width: 650px;'/>  <br>
 Two studies were conducted to test the respective effectiveness of the teacher-crowd pipeline. Follow-up data analysis inform some design recommendations for future teacher-crowd pipeline for materials improvement.  <br>
 <img src='http://kexin-yang.github.io/images/IS/two-version.png?raw=true' alt='Photo' style='width: 650px;'/>  <br>
-Paper available upon request.
+
 
 **Publication**
 
