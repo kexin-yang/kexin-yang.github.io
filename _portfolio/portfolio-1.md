@@ -23,3 +23,7 @@ Two studies were conducted to test the respective effectiveness of the teacher-c
 <img src='http://kexin-yang.github.io/images/IS/two-version.png?raw=true' alt='Photo' style='width: 650px;'/>  <br>
 Paper available upon request.
 
+**Publication**
+
+[[CSCW 2021, Yang et al.]](http://kexin-yang.github.io/files/cscw2021Yang.pdf)
+
