@@ -7,6 +7,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<p align="center">
+  <img src="https://kexin-yang.github.io/files/kexin.jpg?raw=true" alt="Photo" style="width: 550px;"/>
+</p>
+
 I am a PhD student in Human-Computer Interaction Institute at Carnegie Mellon University. 
 
 I received my Bachelor's Degree in Beijing Normal University in English language literature, focusing on language education. I have taught English in various public schools and private institutions, including [101 High School](https://en.wikipedia.org/wiki/Beijing_101_Middle_School), Meitan Qiushi High School, [Knovva Academy](https://www.knovva.com), and [Foreign Language Teaching and Research Press](http://en.fltrp.com).
