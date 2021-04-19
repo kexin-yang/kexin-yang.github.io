@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 <p align="center">
-  <img src="https://kexin-yang.github.io/files/kexin.jpg?raw=true" alt="Photo" style="width: 550px;"/>
+  <img src="https://kexin-yang.github.io/files/kexin.jpg?raw=true" alt="Photo" style="width: 650px;"/>
 </p>
 
 I am a PhD student in Human-Computer Interaction Institute at Carnegie Mellon University. 
